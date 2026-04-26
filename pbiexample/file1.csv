@@ -1,0 +1,5580 @@
+,PURCHNAME,DELIVERY_LOCATION,LINEAMOUNT,PALLETS ,new_LA,knn_prediction,svc_prediction
+0,Hoddesdon Distribution Ltd,"Mr Shabir Ahmed36 Park Road Oldham
+Oldham
+OL8 1DB
+GBR",275.0,5.0,221,80.71428571428571,92
+1,Lenham Storage Co. Ltd,"Waitrose National Dist Ctre Atkinson Way
+Milton Keynes
+MK17 8FF
+GBR",162.63,14.0,131,123.57142857142857,15
+2,Lenham Storage Co. Ltd,"Waitrose National Dist Ctre Atkinson Way
+Milton Keynes
+MK17 8FF
+GBR",189.74,12.0,156,123.57142857142857,15
+3,Roche freight (Ireland) Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",305.24,1.83,253,296.14285714285717,253
+4,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",135.1,31.0,109,210.71428571428572,155
+5,Shakespeare Transport Ltd,"UNIT 24 WHOLESALE FRUIT CENTRE 
+CARDIFF, Wales
+CF11 8BB
+GBR",126.9,3.0,100,66.14285714285714,296
+6,Roche freight (Ireland) Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",305.24,1.83,253,296.14285714285717,253
+7,Hoddesdon Distribution Ltd,"A Division of Samworth Brothers Limited- Oak Spinney Park Ratby Lane Forest East
+Leicester
+LE3 3JZ
+GBR",200.0,1.0,164,55.0,187
+8,Lenham Storage Co. Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",174.65,8.0,145,103.14285714285714,96
+9,Lenham Storage Co. Ltd,"Popular Way West
+Cabot park
+Avonmouth
+Bristol
+BS11 0YW
+GBR",251.16,10.0,206,159.0,92
+10,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",366.42,15.0,300,202.28571428571428,155
+11,Lenham Storage Co. Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",234.49,7.0,192,148.14285714285714,309
+12,Hoddesdon Distribution Ltd,"M & S Distribution Centre  Pro Logis Park. Newhall Way 
+Bradford
+BD5 8L
+GBR",440.0,21.0,350,235.57142857142858,92
+13,Roche freight (Ireland) Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",685.44,4.87,399,352.14285714285717,386
+14,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",243.0,19.0,200,237.85714285714286,265
+15,Lenham Storage Co. Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",346.01,15.0,287,169.71428571428572,159
+16,Lenham Storage Co. Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",219.26,12.0,177,161.71428571428572,163
+17,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",422.32,26.0,339,202.28571428571428,155
+18,Lenham Storage Co. Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",343.84,15.0,284,202.14285714285714,217
+19,Lenham Storage Co. Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",151.17,5.0,120,148.14285714285714,309
+20,Shakespeare Transport Ltd,"63 Ifield Road
+Crawley
+RH11 7AS
+GBR",94.6,2.0,65,19.285714285714285,65
+21,Shakespeare Transport Ltd,"Unit 12- 13 Valley Road Business ParkValley Road
+Keighley
+BD21 4LZ
+GBR",120.15,3.0,92,34.142857142857146,92
+22,Hoddesdon Distribution Ltd,"Resturant Wholesale London Works Ripple Road
+London
+IG11 0SY
+GBR",180.0,4.0,149,96.14285714285714,158
+23,Shakespeare Transport Ltd,"Hulme Hall Lane Lord North Street Miles Platting
+Manchester
+M40 8AD
+GBR",120.15,3.0,92,23.857142857142858,92
+24,Shakespeare Transport Ltd,"Southbridge Way The Green
+Southall
+UB2 4AX
+GBR",148.05,3.0,117,27.0,117
+25,Shakespeare Transport Ltd,"Unit 7 Chiley Industrial Est Pump Lane
+Hayes
+UB3 3NB
+GBR",148.05,3.0,117,28.0,117
+26,Lenham Storage Co. Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",179.89,11.0,148,161.71428571428572,163
+27,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",432.0,24.0,346,353.0,364
+28,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",16.0,23.0,6,141.0,0
+29,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",394.0,17.0,318,296.42857142857144,350
+30,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",81.06,11.0,54,196.57142857142858,155
+31,Shakespeare Transport Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",94.6,1.97,65,98.14285714285714,140
+32,Shakespeare Transport Ltd,"228 Portland Road
+Hove
+BN3 5QT
+GBR",141.9,3.0,113,30.857142857142858,113
+33,Shakespeare Transport Ltd,"46 Bishopscote Road
+Luton
+LU3 1PB
+GBR",120.15,3.0,92,10.857142857142858,92
+34,Shakespeare Transport Ltd,"84 Toryglen Street
+Glasgow
+G5 0BH
+GBR",277.75,5.0,223,121.0,278
+35,Shakespeare Transport Ltd,"9 Tweedale Street
+Rochdale
+OL11 1HH
+GBR",120.15,3.0,92,23.857142857142858,92
+36,Lenham Storage Co. Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",239.28,6.0,195,306.14285714285717,304
+37,Shakespeare Transport Ltd,"55-56 St Mary's Road
+Southampton
+SO14 0BH
+GBR",129.45,3.0,103,40.285714285714285,121
+38,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",205.0,7.0,166,132.28571428571428,166
+39,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,5.0,213,228.14285714285714,213
+40,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",287.0,23.0,234,244.0,3
+41,Hoddesdon Distribution Ltd,"Unit 1553 Lewisher Road
+Leicester
+LE4 9LR
+GBR",195.0,4.5,158,139.85714285714286,158
+42,Hoddesdon Distribution Ltd,"Unit 1553 Lewisher Road
+Leicester
+LE4 9LR
+GBR",390.0,2.5,314,135.57142857142858,158
+43,Lenham Storage Co. Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",109.15,5.0,79,87.85714285714286,79
+44,Shakespeare Transport Ltd,"Unit 8 Midland Street Ardwick
+Manchester
+M12 6LB
+GBR",120.15,3.0,92,24.428571428571427,92
+45,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",170.0,5.0,140,142.85714285714286,140
+46,Lenham Storage Co. Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",99.8,5.0,72,103.14285714285714,96
+47,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",81.06,21.0,54,209.14285714285714,155
+48,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",243.18,27.0,201,202.28571428571428,155
+49,DHL Express Ltd,"3 Avenue de Br?hat Villebon-sur-Yvette 
+91140Essonne
+FRA",695.0,3.0,401,124.14285714285714,401
+50,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",200.0,3.0,164,162.0,164
+51,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",304.0,19.0,251,249.42857142857142,164
+52,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",270.0,22.0,218,256.57142857142856,276
+53,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",330.0,10.0,276,311.85714285714283,309
+54,Hoddesdon Distribution Ltd,"Seafield Lane Beoley 
+Worcestershire
+Redditch 
+B98 9DB
+GBR",225.0,5.0,184,128.0,276
+55,Hoddesdon Distribution Ltd,"UNIT 5 RIVERSIDE Way
+WAYUXBRIDGE
+UB8 2YF
+GBR",145.0,3.0,115,10.857142857142858,92
+56,Lenham Storage Co. Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",109.15,6.0,79,99.57142857142857,79
+57,Lenham Storage Co. Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",199.99,8.0,163,161.71428571428572,163
+58,Shakespeare Transport Ltd,"7 Solar WayInova Park
+Enfield
+EN3 7XY
+GBR",181.65,3.0,150,65.42857142857143,108
+59,Shakespeare Transport Ltd,"953/959 Garret Lane
+Tooting
+SW17 0LW
+GBR",173.7,1.79,142,29.857142857142858,142
+60,Shakespeare Transport Ltd,"953/959 Garret Lane
+Tooting
+SW17 0LW
+GBR",347.4,1.1,289,24.857142857142858,142
+61,Roche freight (Ireland) Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",591.19,3.66,386,352.14285714285717,386
+62,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",20.0,1.0,10,11.142857142857142,364
+63,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",389.0,22.0,313,324.85714285714283,364
+64,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",280.0,21.0,228,242.57142857142858,265
+65,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",10.0,2.0,1,7.714285714285714,0
+66,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",195.0,23.0,158,141.0,0
+67,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",380.0,13.0,309,302.2857142857143,330
+68,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",333.0,17.0,277,325.0,309
+69,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",356.0,15.0,293,338.57142857142856,365
+70,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",14.0,1.0,4,5.428571428571429,3
+71,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",279.0,22.0,227,240.28571428571428,3
+72,Hoddesdon Distribution Ltd,"Off Silverdale Road Pump Lane
+Hayes
+UB3 3BL
+GBR",186.0,5.0,152,133.71428571428572,187
+73,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",58.0,3.0,42,38.857142857142854,7
+74,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",97.0,6.0,68,88.71428571428571,7
+75,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",135.0,10.0,108,152.42857142857142,7
+76,Hoddesdon Distribution Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",150.0,4.0,119,116.85714285714286,119
+77,Hoddesdon Distribution Ltd,"Unit 6  Guardian Road Ind. Estate Guardian Road
+Norwich
+NP5 8PF
+GBR",210.0,4.0,170,17.571428571428573,92
+78,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",355.0,21.0,292,307.14285714285717,350
+79,Lenham Storage Co. Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",553.95,11.0,380,332.2857142857143,304
+80,Lenham Storage Co. Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",199.56,5.0,162,148.14285714285714,309
+81,Shakespeare Transport Ltd,"1 Uxbridge Road Hayes
+hayes
+UB4 0JU
+GBR",148.05,3.0,117,91.0,187
+82,Shakespeare Transport Ltd,"19 Mitre Road
+Longsight, Manchester
+M13 0NU
+GBR",135.6,3.0,110,49.857142857142854,184
+83,Shakespeare Transport Ltd,"Greenbank Business Park Blakewater Road
+Blackburn
+BB1 3HU
+GBR",120.15,3.0,92,34.285714285714285,92
+84,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",267.03,9.0,215,154.71428571428572,159
+85,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",269.44,7.0,217,202.14285714285714,217
+86,Hoddesdon Distribution Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",325.0,14.0,273,225.28571428571428,205
+87,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+88,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",205.0,10.0,166,133.0,173
+89,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",742.0,12.0,404,421.7142857142857,433
+90,Hoddesdon Distribution Ltd,"Quality Foods 34- 62 Staines Road Hounslow
+Hounslow
+TW3 3LZ
+GBR",205.0,8.0,166,92.42857142857143,166
+91,Hoddesdon Distribution Ltd,"Sonali Supermarket Birmingham ltd Lozells Road
+Birmingham
+B192TN
+GBR",195.0,5.0,158,72.14285714285714,205
+92,Hoddesdon Distribution Ltd,"Unit 1a River Park Industrial Estate Billet Lane
+Berkhamsted
+HP4 1HL
+GBR",160.0,4.0,128,33.57142857142857,128
+93,Hoddesdon Distribution Ltd,"Unit 7A Odhams Trad EstSt Albans Road
+Watford
+WD24 7RY
+GBR",137.0,3.0,111,10.857142857142858,92
+94,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",81.06,9.0,54,181.85714285714286,155
+95,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",189.14,14.0,155,189.0,155
+96,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",434.0,24.0,348,353.0,364
+97,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",198.0,13.0,160,231.28571428571428,265
+98,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",30.0,1.0,19,244.14285714285714,354
+99,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",415.0,14.0,334,333.57142857142856,354
+100,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",360.0,8.0,296,298.14285714285717,296
+101,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",16.0,1.0,6,122.85714285714286,164
+102,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",208.0,24.0,169,168.42857142857142,0
+103,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,23.0,309,309.0,309
+104,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",410.0,18.0,330,309.14285714285717,330
+105,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,1.0,7,12.428571428571429,7
+106,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",367.0,22.0,301,323.85714285714283,7
+107,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",292.5,13.0,240,307.85714285714283,309
+108,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",348.0,11.0,290,326.2857142857143,365
+109,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",14.0,1.0,4,5.428571428571429,3
+110,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",296.0,23.0,244,244.0,3
+111,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,1.0,3,54.57142857142857,3
+112,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",292.0,23.0,239,236.85714285714286,3
+113,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",411.0,24.0,331,330.57142857142856,7
+114,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",150.0,3.64,119,117.85714285714286,137
+115,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",220.0,11.0,178,286.42857142857144,350
+116,Lenham Storage Co. Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",167.03,5.0,136,83.28571428571429,99
+117,Shakespeare Transport Ltd,"732 Oxford Road
+Reading
+RG30 1EL
+GBR",92.2,2.0,63,18.571428571428573,63
+118,Shakespeare Transport Ltd,"Unit 6  Guardian Road Ind. Estate Guardian Road
+Norwich
+NR5 8PF
+GBR",94.3,2.0,64,101.85714285714286,208
+119,Hoddesdon Distribution Ltd,"1 Uxbridge Road Hayes
+hayes
+UB4 0JU
+GBR",170.0,5.0,140,98.14285714285714,187
+120,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",240.0,13.0,196,237.85714285714286,196
+121,Hoddesdon Distribution Ltd,"Carriden Industrial EstateBridgemess Road
+Bo'ness
+EH51 9SJ
+GBR",440.0,3.0,350,10.857142857142858,92
+122,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",235.0,3.0,193,163.85714285714286,193
+123,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",38.0,1.0,25,31.714285714285715,25
+124,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",800.0,21.0,412,419.2857142857143,25
+125,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",495.0,9.0,368,412.0,433
+126,Lenham Storage Co. Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",153.1,6.0,123,158.42857142857142,163
+127,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",330.0,11.0,276,311.85714285714283,309
+128,Hoddesdon Distribution Ltd,"Saladworks (A Division of Samworth Brothers Limited) Oak Spinney Park Ratby Lane Leicester Forest East
+Leicester
+LE3 3JZ
+GBR",200.0,1.0,164,28.0,164
+129,Lenham Storage Co. Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",149.7,6.0,118,103.14285714285714,96
+130,Lenham Storage Co. Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",278.19,5.0,226,200.28571428571428,226
+131,Lenham Storage Co. Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",65.49,5.0,46,87.85714285714286,79
+132,Lenham Storage Co. Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",167.03,6.0,136,167.85714285714286,159
+133,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",297.22,30.0,246,210.71428571428572,155
+134,Lenham Storage Co. Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",404.58,21.0,325,209.14285714285714,155
+135,Lenham Storage Co. Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",151.17,6.0,120,148.14285714285714,309
+136,Shakespeare Transport Ltd,"Unit 19 Small HeathTrading Estate Armoury Road
+Birmingham
+B11 2RJ
+GBR",120.15,3.0,92,35.142857142857146,92
+137,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",591.19,3.65,386,351.0,327
+138,Hoddesdon Distribution Ltd,"1 Uxbridge Road Hayes
+hayes
+UB4 0JU
+GBR",220.0,6.0,178,98.14285714285714,187
+139,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+140,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+141,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",416.0,23.0,336,336.42857142857144,364
+142,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",240.0,18.0,196,237.85714285714286,265
+143,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+144,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,24.0,168,168.42857142857142,0
+145,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,24.0,276,267.7142857142857,276
+146,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",410.0,18.0,330,309.14285714285717,330
+147,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+DH8 7NU
+GBR",510.0,8.0,373,291.85714285714283,373
+148,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",450.0,20.0,355,320.85714285714283,309
+149,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",391.0,14.0,315,337.85714285714283,365
+150,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",33.0,2.0,21,38.857142857142854,7
+151,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",98.0,6.0,69,88.71428571428571,7
+152,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",131.0,8.0,106,109.85714285714286,7
+153,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",322.0,19.0,268,299.2857142857143,350
+154,Shakespeare Transport Ltd,"Dolphin Way Purfleet
+Purfleet
+RM19 1NZ
+GBR",144.9,3.0,114,27.714285714285715,92
+155,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",195.0,6.0,158,176.0,158
+156,Hoddesdon Distribution Ltd,"Ahmed HouseBelle Vue Avenue
+Longsight , Manchester
+M12 4AS
+GBR",275.0,5.0,221,97.85714285714286,92
+157,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",360.0,7.0,296,298.14285714285717,296
+158,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",220.0,4.0,178,152.0,164
+159,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",952.0,25.0,431,426.0,25
+160,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",215.0,13.0,173,170.57142857142858,173
+161,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",679.0,6.0,397,402.7142857142857,433
+162,Hoddesdon Distribution Ltd,"Unit8 Anchor Business Park Featherstall Road North
+Oldham
+OL9 6AZ
+GBR",330.0,6.0,276,99.85714285714286,276
+163,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+164,Hoddesdon Distribution Ltd,"Unit A Trafalgar CentreBelfield Road
+Rochdale
+OL16 2UX
+GBR",240.0,3.0,196,48.57142857142857,196
+165,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",434.0,24.0,348,353.0,364
+166,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",264.0,14.0,212,237.42857142857142,265
+167,Hoddesdon Distribution Ltd,"Booth Drive Parkfarm Ind. Estate    Wellingborough  Northants
+Wellingborough
+NN8 6GR
+GBR",145.0,6.0,115,38.0,81
+168,Hoddesdon Distribution Ltd,"Cameron Wood  Nettlehill Rd Houston Industrial Estate
+LIVINGSTON
+EH54 5DL
+GBR",600.0,5.0,388,231.0,388
+169,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+170,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",199.0,23.0,161,141.0,0
+171,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",340.0,8.0,282,252.57142857142858,330
+172,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",380.0,23.0,309,317.14285714285717,7
+173,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,4.0,213,213.0,213
+174,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",380.0,6.0,309,303.42857142857144,355
+175,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",390.0,13.0,314,307.85714285714283,309
+176,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",380.0,12.0,309,329.14285714285717,365
+177,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,2.0,3,12.285714285714286,3
+178,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",296.0,23.0,244,244.0,3
+179,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,3.0,3,16.571428571428573,3
+180,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",200.0,1.0,164,54.57142857142857,3
+181,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",240.0,1.0,196,54.57142857142857,3
+182,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",278.0,22.0,224,231.0,3
+183,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",17.0,1.0,7,12.714285714285714,7
+184,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",411.0,24.0,331,330.57142857142856,7
+185,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+186,Hoddesdon Distribution Ltd,"Unit 1553 Lewisher Road
+Leicester
+LE4 9LR
+GBR",162.0,1.5,129,135.0,158
+187,Hoddesdon Distribution Ltd,"Unit 1553 Lewisher Road
+Leicester
+LE4 9LR
+GBR",324.0,2.5,270,135.57142857142858,158
+188,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",344.0,18.0,285,299.2857142857143,350
+189,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",455.15,42.0,360,324.85714285714283,155
+190,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",51.93,5.0,38,148.0,309
+191,Hoddesdon Distribution Ltd,"237 -239 South Road 
+Birmingham
+B18 5JS
+GBR",290.0,14.0,237,230.57142857142858,205
+192,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",220.0,12.0,178,163.0,166
+193,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+194,Hoddesdon Distribution Ltd,"84 Toryglen Street
+Glasgow
+G5 0BH
+GBR",780.0,6.0,410,121.0,278
+195,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",415.0,10.0,334,292.0,354
+196,Hoddesdon Distribution Ltd,"Deeside Industrial Park
+Deeside, Flintshire
+CH5 2NW
+GBR",370.0,5.0,303,58.57142857142857,303
+197,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+198,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",156.0,5.0,125,95.0,173
+199,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",821.0,11.0,414,420.0,433
+200,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",168.0,5.0,137,136.57142857142858,137
+201,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+202,Shakespeare Transport Ltd,"Caresgate Road South
+Inverness
+IV3 8LL
+GBR",241.8,3.0,198,76.57142857142857,198
+203,Shakespeare Transport Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",98.7,3.0,70,116.85714285714286,119
+204,Shakespeare Transport Ltd,"Unit 15 Hallsford Bridge Ind. Est Stondon Road
+Ongar
+CM5 9RB
+GBR",123.3,3.0,94,58.57142857142857,94
+205,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",553.95,10.0,380,352.2857142857143,304
+206,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",43.45,2.0,32,83.28571428571429,99
+207,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",126.51,6.0,99,152.85714285714286,159
+208,Hoddesdon Distribution Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",170.0,4.0,140,101.71428571428571,140
+209,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",270.0,8.0,218,180.71428571428572,164
+210,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+DH8 7NU
+GBR",510.0,16.0,373,314.42857142857144,373
+211,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",380.0,6.0,309,303.42857142857144,355
+212,Hoddesdon Distribution Ltd,"London Street Magnum Building
+Leicester
+LE5 3RL
+GBR",195.0,5.0,158,16.0,92
+213,Hoddesdon Distribution Ltd,"Unit 18 Brookfield Property Centre Brookfield Drive
+Liverpool
+L9 7AS
+GBR",275.0,5.0,221,46.857142857142854,221
+214,Hoddesdon Distribution Ltd,"Unit 910 River Road
+Barking
+IG11 ODG
+GBR",230.0,9.02,187,139.85714285714286,158
+215,Shakespeare Transport Ltd,"29A Orchard Street
+Western Super Mare
+BS23 1RG
+GBR",126.45,3.0,98,25.0,98
+216,Shakespeare Transport Ltd,"870 Stratford Road
+Birmingham
+B11 4BS
+GBR",120.15,3.0,92,36.285714285714285,92
+217,Veetee Foods Limited,"Livingstone Road
+Andover
+SP10 5LA
+GBR",11448.0,48.0,437,283.2857142857143,437
+218,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+219,Lenham Storage Co Ltd,"Industrial Estate
+Chester-Le-Street
+DH2 1AE
+GBR",278.19,5.0,226,128.0,92
+220,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",130.98,6.0,105,106.14285714285714,79
+221,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",153.1,4.0,123,158.14285714285714,163
+222,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",324.24,12.0,271,242.71428571428572,155
+223,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",220.87,5.0,179,196.71428571428572,179
+224,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",261.39,6.0,211,148.0,309
+225,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",637.25,3.66,393,351.0,327
+226,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",563.0,22.0,383,379.14285714285717,309
+227,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,25.0,265,249.71428571428572,265
+228,Hoddesdon Distribution Ltd,"Amotherby Malton
+Malton
+YO17 6TQ
+GBR",250.0,3.0,205,67.14285714285714,205
+229,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+230,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,24.0,168,168.42857142857142,0
+231,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",235.0,3.0,193,163.85714285714286,193
+232,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",40.0,1.0,28,31.714285714285715,25
+233,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",752.0,19.0,406,418.42857142857144,25
+234,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",426.0,18.0,342,323.7142857142857,309
+235,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",422.0,16.0,338,344.7142857142857,365
+236,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,1.0,3,5.428571428571429,3
+237,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",309.0,23.0,256,244.0,3
+238,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",392.0,22.0,316,322.42857142857144,7
+239,Hoddesdon Distribution Ltd,"Regional Distribution center 7502 Norman Road Belvedere
+Bexley
+DA17 6JY
+GBR",200.0,7.0,164,107.85714285714286,164
+240,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",140.0,4.0,112,142.85714285714286,140
+241,Hoddesdon Distribution Ltd,"Unit 9 Heston Industrial estate Aerodrome Way Cranford Lane
+Heston
+TW5 9QB
+GBR",230.0,12.0,187,221.14285714285714,187
+242,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",220.0,3.0,178,238.71428571428572,350
+243,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+244,Shakespeare Transport Ltd,"Unit 2 Cliffe Commercial Park Longyoyd Bridge
+Huddersfield
+HD1 3JD
+GBR",120.15,3.0,92,21.285714285714285,92
+245,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",346.01,13.0,287,242.71428571428572,155
+246,Hoddesdon Distribution Ltd,"49 ramsay street
+Rochdale
+OL16 2BX
+GBR",290.0,3.1,237,60.0,303
+247,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",240.0,13.0,196,237.85714285714286,196
+248,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",205.0,4.0,166,235.71428571428572,296
+249,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,24.0,276,267.7142857142857,276
+250,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",195.0,9.0,158,133.0,173
+251,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",880.0,11.0,420,420.0,433
+252,Hoddesdon Distribution Ltd,"Off Silverdale Road Pump Lane
+Hayes
+UB3 3BL
+GBR",255.0,12.0,208,181.57142857142858,187
+253,Hoddesdon Distribution Ltd,"Stonehouse Street Lithorpe
+Middlesborough
+TS5 6HR
+GBR",330.0,3.01,276,30.142857142857142,92
+254,Hoddesdon Distribution Ltd,"Unit 8 Midland Street Ardwick
+Manchester
+M12 6LB
+GBR",225.0,4.0,184,28.428571428571427,92
+255,Hoddesdon Distribution Ltd,"Upper Thomas Street
+Aston
+Birmingham
+B6 5AD
+GBR",360.0,28.0,296,229.0,205
+256,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+257,Shakespeare Transport Ltd,"2 Brearton Street
+Bradford
+BD1 3ED
+GBR",120.15,3.0,92,23.285714285714285,92
+258,Shakespeare Transport Ltd,"733 Alum Rock Road
+Satley
+B8 2NY
+GBR",120.15,3.0,92,24.428571428571427,92
+259,Shakespeare Transport Ltd,"Stonehouse Street Lithorpe
+Middlesborough
+TS5 6HR
+GBR",123.3,3.01,94,30.142857142857142,94
+260,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",126.51,9.0,99,154.71428571428572,159
+261,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",195.0,5.0,158,176.0,158
+262,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",200.0,6.0,164,155.42857142857142,149
+263,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+264,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",416.0,23.0,336,336.42857142857144,364
+265,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",310.0,10.0,257,225.28571428571428,265
+266,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",385.0,9.0,311,292.0,354
+267,Hoddesdon Distribution Ltd,"Chillpark Brake Clyst Honiton 
+Exeter
+EX5 2FU
+GBR",580.0,8.0,385,171.0,369
+268,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,2.0,0,7.714285714285714,0
+269,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",198.0,23.0,160,141.0,0
+270,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,11.0,309,311.85714285714283,309
+271,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",760.0,13.0,408,311.85714285714283,309
+272,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",275.0,5.0,221,252.57142857142858,330
+273,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,1.0,7,12.428571428571429,7
+274,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",380.0,23.0,309,317.14285714285717,7
+275,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,4.0,213,213.0,213
+276,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",380.0,6.0,309,303.42857142857144,355
+277,Hoddesdon Distribution Ltd,"Hilbert House
+New Street
+
+Manchester
+M40 8AW
+GBR",225.0,4.0,184,171.14285714285714,276
+278,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",440.0,13.0,350,307.85714285714283,309
+279,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",420.0,9.0,337,328.57142857142856,365
+280,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",309.0,24.0,256,251.0,3
+281,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,1.0,3,54.57142857142857,3
+282,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",304.0,24.0,251,236.85714285714286,3
+283,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",17.0,1.0,7,12.714285714285714,7
+284,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",411.0,24.0,331,330.57142857142856,7
+285,Hoddesdon Distribution Ltd,"Queensway
+Rochdale
+OL11 2NU
+GBR",370.0,8.0,303,94.14285714285714,92
+286,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",430.0,14.0,345,314.14285714285717,350
+287,Shakespeare Transport Ltd,"Hilbert House
+New Street
+
+Manchester
+M40 8AW
+GBR",120.15,3.0,92,169.57142857142858,276
+288,Shakespeare Transport Ltd,"Queensway
+Rochdale
+OL11 2NU
+GBR",120.15,3.0,92,91.71428571428571,92
+289,Shakespeare Transport Ltd,"Unit 12- 13 Valley Road Business ParkValley Road
+Keighley
+BD21 4LZ
+GBR",120.15,3.0,92,34.142857142857146,92
+290,Shakespeare Transport Ltd,"Unit 1A Norton Park Russie Place
+Edinburgh
+EH7 5RS
+GBR",166.65,3.0,135,46.57142857142857,135
+291,Shakespeare Transport Ltd,"VIA LEA BRIDGE RD & ARGALL WAY
+LEYTON
+E10 7AS
+GBR",173.7,3.0,142,42.57142857142857,128
+292,Barron Wood Distribution Ltd,"WimbergerGasse-5
+AT-1070Vienna
+AUT",1095.0,12.89,435,251.0,435
+293,Hoddesdon Distribution Ltd,"1 Coddington Crescent
+Motherwell
+ML1 4YF
+GBR",650.0,3.0,394,68.57142857142857,394
+294,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",100.0,5.0,73,132.28571428571428,166
+295,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",38.0,1.0,25,31.714285714285715,25
+296,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",876.0,23.0,419,423.7142857142857,25
+297,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,7.0,433,412.7142857142857,433
+298,Hoddesdon Distribution Ltd,"Palmer Avenue Severn Beach 
+Bristol
+BS35 4GG
+GBR",340.0,4.0,282,55.57142857142857,282
+299,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",186.0,5.0,152,184.28571428571428,237
+300,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",149.7,6.0,118,103.14285714285714,96
+301,Lenham Storage Co Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",278.19,5.0,226,200.14285714285714,258
+302,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",174.64,5.0,144,91.57142857142857,79
+303,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",385.95,15.0,312,241.57142857142858,155
+304,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",234.49,5.0,192,148.0,309
+305,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",320.0,22.0,265,249.42857142857142,164
+306,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+DH8 7NU
+GBR",510.0,8.0,373,291.85714285714283,373
+307,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",360.0,6.0,296,243.0,243
+308,Hoddesdon Distribution Ltd,"Seafield Lane Beoley 
+Worcestershire
+Redditch 
+B98 9DB
+GBR",330.0,15.0,276,246.71428571428572,276
+309,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",150.0,4.0,119,117.85714285714286,137
+310,Hoddesdon Distribution Ltd,"Waterton Industrial Estate Cowbridge Road 
+Bridgend
+CF31 3PH
+GBR",375.0,5.0,306,98.57142857142857,306
+311,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",186.0,5.0,152,184.28571428571428,237
+312,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",126.51,3.0,99,83.28571428571429,99
+313,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",324.73,12.0,272,242.71428571428572,155
+314,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",269.44,7.0,217,202.14285714285714,217
+315,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",504.98,2.43,370,279.42857142857144,327
+316,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+317,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",308.0,24.97,255,249.71428571428572,265
+318,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",200.0,3.0,164,162.0,164
+319,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",216.0,25.0,174,172.28571428571428,0
+320,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",406.0,11.97,326,303.7142857142857,309
+321,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",420.0,9.0,337,328.57142857142856,365
+322,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",33.0,2.0,21,38.857142857142854,7
+323,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",98.0,6.0,69,88.71428571428571,7
+324,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",163.0,10.0,132,152.42857142857142,7
+325,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",406.0,23.97,326,346.57142857142856,350
+326,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",371.05,5.0,304,330.57142857142856,304
+327,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+328,Hoddesdon Distribution Ltd,"1 Uxbridge Road Hayes
+hayes
+UB4 0JU
+GBR",230.0,8.0,187,98.14285714285714,187
+329,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+330,Hoddesdon Distribution Ltd,"A Division of Samworth Brothers Limited- Oak Spinney Park Ratby Lane Forest East
+Leicester
+LE3 3JZ
+GBR",200.0,1.0,164,55.0,187
+331,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",240.0,13.0,196,237.85714285714286,196
+332,Hoddesdon Distribution Ltd,"Axletree Way Wednesbury 
+Birmingham
+WS10 9QY
+GBR",300.0,4.0,248,50.714285714285715,248
+333,Hoddesdon Distribution Ltd,"Fishers Way Crabtree Manor Way   Kent
+Belvedere
+DA17 6BS
+GBR",160.0,4.0,128,81.57142857142857,119
+334,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",17.0,11.0,7,142.14285714285714,173
+335,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",188.0,1.0,154,45.714285714285715,173
+336,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",873.0,9.0,418,412.0,433
+337,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+338,Shakespeare Transport Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",120.15,3.0,92,194.57142857142858,205
+339,Shakespeare Transport Ltd,"14 Leofric SquareVicragefarm Road
+Peterborough
+PE1 5TU
+GBR",120.15,3.0,92,33.285714285714285,92
+340,Shakespeare Transport Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",82.2,2.0,56,142.85714285714286,140
+341,Fercam Austria Gmbh,"Schaferhauser Str. 2/2
+73240Wendlingen
+DEU",630.0,25.0,392,314.42857142857144,392
+342,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",27.0,1.0,17,77.42857142857143,7
+343,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",560.0,21.0,382,379.14285714285717,309
+344,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",120.0,6.0,91,132.28571428571428,166
+345,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",22.0,1.0,12,11.142857142857142,364
+346,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",380.0,21.0,309,328.85714285714283,364
+347,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",270.0,9.0,218,203.42857142857142,265
+348,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",445.0,14.0,354,333.57142857142856,354
+349,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",360.0,7.0,296,298.14285714285717,296
+350,Hoddesdon Distribution Ltd,"Chillpark Brake Clyst Honiton 
+Exeter
+EX5 2FU
+GBR",500.0,4.0,369,171.0,369
+351,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+352,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,23.0,168,141.0,0
+353,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",891.0,22.0,424,422.57142857142856,25
+354,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",20.0,1.0,10,12.428571428571429,7
+355,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",369.0,22.0,302,323.85714285714283,7
+356,Hoddesdon Distribution Ltd,"Hulme Hall Lane Lord North Street Miles Platting
+Manchester
+M40 8AD
+GBR",225.0,4.0,184,28.428571428571427,92
+357,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",338.0,8.0,281,297.42857142857144,309
+358,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",465.0,12.0,362,329.14285714285717,365
+359,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",15.0,2.0,5,12.285714285714286,3
+360,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",290.0,22.0,237,240.28571428571428,3
+361,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",15.0,2.0,5,9.571428571428571,3
+362,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",285.0,22.0,231,231.0,3
+363,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",19.0,1.0,9,12.714285714285714,7
+364,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",389.0,21.0,313,323.85714285714283,7
+365,Hoddesdon Distribution Ltd,"Resturant Wholesale London Works Ripple Road
+London
+IG11 0SY
+GBR",230.0,6.0,187,96.14285714285714,158
+366,Hoddesdon Distribution Ltd,"Unit 5 A3 Approach Rima House Ripple Road 
+Barking
+IG11 0RH
+GBR",260.0,26.0,209,235.14285714285714,209
+367,Hoddesdon Distribution Ltd,"Upper Thomas Street
+Aston
+Birmingham
+B6 5AD
+GBR",250.0,6.0,205,125.28571428571429,205
+368,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",394.0,11.0,318,286.42857142857144,350
+369,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+370,Shakespeare Transport Ltd,"MOUNT STREET OFF BOWLING BACK LANE
+Bradford
+BD4 8TA
+GBR",120.15,3.0,92,25.428571428571427,92
+371,Shakespeare Transport Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",169.8,3.0,139,116.85714285714286,119
+372,Barron Wood Distribution Ltd,"10 Avenue Marcelin Berthelot
+F-92390Villeneuve la Garenne
+FRA",455.0,24.0,359,296.7142857142857,359
+373,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",85.16,2.0,59,83.28571428571429,99
+374,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",385.95,27.0,312,318.0,155
+375,Hoddesdon Distribution Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",250.0,6.0,205,194.57142857142858,205
+376,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",160.0,5.0,128,132.28571428571428,166
+377,Hoddesdon Distribution Ltd,"Booth Drive Parkfarm Ind. Estate    Wellingborough  Northants
+Wellingborough
+NN8 6GR
+GBR",110.0,2.0,81,32.142857142857146,81
+378,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",410.0,22.0,330,309.14285714285717,330
+379,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",889.0,11.0,423,420.0,433
+380,Hoddesdon Distribution Ltd,"Unit 6  Guardian Road Ind. Estate Guardian Road
+Norwich
+NR5 8PF
+GBR",255.0,5.0,208,107.57142857142857,208
+381,Lenham Storage Co Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",310.56,6.0,258,200.14285714285714,258
+382,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",218.84,8.0,176,154.71428571428572,159
+383,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",39.82,3.0,27,158.14285714285714,163
+384,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",189.14,8.0,155,146.42857142857142,155
+385,Hoddesdon Distribution Ltd,"Cameron Wood  Nettlehill Rd Houston Industrial Estate
+LIVINGSTON
+EH54 5DL
+GBR",600.0,5.0,388,231.0,388
+386,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",120.0,6.0,91,167.42857142857142,164
+387,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",200.0,10.0,164,195.14285714285714,164
+388,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",290.0,20.0,237,253.85714285714286,276
+389,Shakespeare Transport Ltd,"Sparkbrook 
+Birmingham
+B11 1BH
+GBR",120.15,3.0,92,23.285714285714285,92
+390,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+391,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+392,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",416.0,22.0,336,324.85714285714283,364
+393,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",292.0,21.0,239,242.57142857142858,265
+394,Hoddesdon Distribution Ltd,"Deeside Industrial Park
+Deeside, Flintshire
+CH5 2NW
+GBR",370.0,5.0,303,58.57142857142857,303
+395,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",876.0,23.0,419,423.7142857142857,25
+396,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,1.0,7,12.428571428571429,7
+397,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",380.0,23.0,309,317.14285714285717,7
+398,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",422.0,14.97,338,305.2857142857143,309
+399,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",443.0,14.0,352,337.85714285714283,365
+400,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,1.0,3,5.428571428571429,3
+401,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",296.0,23.0,244,244.0,3
+402,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,2.0,3,9.571428571428571,3
+403,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",291.0,23.0,238,236.85714285714286,3
+404,Hoddesdon Distribution Ltd,"Off Silverdale Road Pump Lane
+Hayes
+UB3 3BL
+GBR",255.0,10.0,208,159.0,187
+405,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",352.0,12.0,291,302.42857142857144,350
+406,Hoddesdon Distribution Ltd,"Waldrist Way
+Erith
+DA18 4AG
+GBR",98.0,2.0,69,12.285714285714286,92
+407,Shakespeare Transport Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",148.05,3.0,117,116.85714285714286,119
+408,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",108.08,6.0,78,128.0,155
+409,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",189.14,10.0,155,194.28571428571428,155
+410,Hoddesdon Distribution Ltd,"2 Cornwall Road
+Smethwick
+
+Birmingham
+B66 2JR
+GBR",360.0,21.0,296,243.0,296
+411,Hoddesdon Distribution Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",170.0,2.66,140,94.57142857142857,140
+412,Hoddesdon Distribution Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",340.0,1.3,282,95.28571428571429,140
+413,Hoddesdon Distribution Ltd,"237 -239 South Road 
+Birmingham
+B18 5JS
+GBR",290.0,12.0,237,230.57142857142858,205
+414,Hoddesdon Distribution Ltd,"7 Solar WayInova Park
+Enfield
+EN3 7XY
+GBR",135.0,3.0,108,65.42857142857143,108
+415,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",205.0,4.0,166,235.71428571428572,296
+416,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",310.0,10.0,257,195.14285714285714,164
+417,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,4.0,309,311.85714285714283,309
+418,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",760.0,37.0,408,323.14285714285717,309
+419,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",360.0,12.0,296,291.85714285714283,330
+420,Hoddesdon Distribution Ltd,"Fishers Way Crabtree Manor Way  Belvedere Kent
+DA17 6BS
+GBR",140.0,2.0,112,26.0,112
+421,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",21.0,2.0,11,45.714285714285715,173
+422,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",124.0,3.0,95,45.714285714285715,173
+423,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",163.0,8.0,132,126.14285714285714,173
+424,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",400.0,3.0,323,327.42857142857144,365
+425,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,6.0,433,402.7142857142857,433
+426,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",200.0,5.0,164,142.85714285714286,140
+427,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",186.0,5.0,152,184.28571428571428,237
+428,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+429,Shakespeare Transport Ltd,"Brown Street Globe Works
+Accrington
+BB5 0RH
+GBR",120.15,3.0,92,27.857142857142858,92
+430,Shakespeare Transport Ltd,"Greenbank Business Park Blakewater Road
+Blackburn
+BB1 3HU
+GBR",120.15,3.0,92,34.285714285714285,92
+431,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,4.0,213,213.0,213
+432,Shakespeare Transport Ltd,"Ahmed HouseBelle Vue Avenue
+Longsight , Manchester
+M12 4AS
+GBR",120.15,3.0,92,91.57142857142857,92
+433,Shakespeare Transport Ltd,"Caresgate Road South
+Inverness
+IV3 8LL
+GBR",342.4,4.0,283,78.85714285714286,283
+434,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",200.0,6.0,164,155.42857142857142,149
+435,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+436,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",416.0,23.0,336,336.42857142857144,364
+437,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",286.0,12.0,232,231.28571428571428,265
+438,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",415.0,12.0,334,330.7142857142857,354
+439,Hoddesdon Distribution Ltd,"Chillpark Brake Clyst Honiton 
+Exeter
+EX5 2FU
+GBR",520.0,5.0,375,171.0,369
+440,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+441,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",17.0,2.0,7,7.714285714285714,0
+442,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",190.0,22.0,157,160.14285714285714,0
+443,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+444,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",76.0,2.0,51,35.42857142857143,25
+445,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",838.0,22.0,415,422.57142857142856,25
+446,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,1.0,7,12.428571428571429,7
+447,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",380.0,23.0,309,317.14285714285717,7
+448,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",396.0,9.0,320,297.42857142857144,309
+449,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",426.0,11.0,342,326.2857142857143,365
+450,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,3.0,3,10.857142857142858,3
+451,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",283.0,22.0,230,240.28571428571428,3
+452,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",754.0,7.0,407,412.7142857142857,433
+453,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",34.0,2.0,22,12.714285714285714,7
+454,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",377.0,22.0,307,322.42857142857144,7
+455,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+456,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",364.0,11.0,298,286.42857142857144,350
+457,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",167.03,4.0,136,83.28571428571429,99
+458,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",130.98,6.0,105,106.14285714285714,79
+459,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",199.99,6.0,163,158.14285714285714,163
+460,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",195.0,5.0,158,176.0,158
+461,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,22.0,276,256.57142857142856,276
+462,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+DH8 7NU
+GBR",360.0,16.0,296,314.42857142857144,373
+463,Hoddesdon Distribution Ltd,"Kent Street
+Preston
+PR1 1PT
+GBR",380.0,7.0,309,59.42857142857143,309
+464,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+465,Hoddesdon Distribution Ltd,"Quality Foods 34- 62 Staines Road Hounslow
+Hounslow
+TW3 3LZ
+GBR",205.0,6.0,166,92.42857142857143,166
+466,Shakespeare Transport Ltd,"Ahmed Building Thornbury Road
+Bradford
+BD3 8HE
+GBR",120.15,2.93,92,24.428571428571427,92
+467,Shakespeare Transport Ltd,"Bridgeport Business Park Unit 455 Hastings Road
+Leicester
+LE5 0BT
+GBR",120.15,3.0,92,23.857142857142858,92
+468,Lenham Storage Co Ltd,"Waitrose National Dist Ctre Atkinson Way
+Milton Keynes
+MK17 8FF
+GBR",25.84,1.0,15,82.71428571428571,15
+469,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",305.24,1.83,253,279.42857142857144,327
+470,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+471,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",398.0,22.0,321,324.85714285714283,364
+472,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",233.0,7.0,190,203.42857142857142,265
+473,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,26.0,265,251.14285714285714,265
+474,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",466.0,3.0,363,203.42857142857142,265
+475,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",385.0,10.0,311,300.2857142857143,296
+476,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+477,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",198.0,23.0,160,141.0,0
+478,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",53.0,5.0,40,252.57142857142858,330
+479,Hoddesdon Distribution Ltd,"Golden House Golden Bus Park Orient Way
+Leyton
+E10 7FE
+GBR",240.0,14.0,196,204.57142857142858,166
+480,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",407.0,19.0,328,320.85714285714283,309
+481,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",465.0,13.0,362,337.85714285714283,365
+482,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,3.0,3,10.857142857142858,3
+483,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",283.0,22.0,230,240.28571428571428,3
+484,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,3.0,3,16.571428571428573,3
+485,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",278.0,22.0,224,231.0,3
+486,Hoddesdon Distribution Ltd,"Regional Distribution center 7502 Norman Road Belvedere
+Bexley
+DA17 6JY
+GBR",290.0,8.0,237,107.85714285714286,164
+487,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",66.0,4.0,47,56.714285714285715,7
+488,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",114.0,7.0,84,118.71428571428571,7
+489,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",131.0,8.0,106,109.85714285714286,7
+490,Hoddesdon Distribution Ltd,"Units 18-19 North Way Walworth Industrial Estate  Andover  Hants
+Andover
+SP10 5AZ
+GBR",115.0,2.0,86,33.142857142857146,86
+491,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,23.0,350,338.2857142857143,350
+492,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+493,Shakespeare Transport Ltd,"Richmond Street
+Birmingham
+B70 0DD
+GBR",120.15,3.0,92,29.857142857142858,92
+494,Shakespeare Transport Ltd,"Unit 8198 Camford Way
+Luton
+LU33AN
+GBR",120.15,3.0,92,44.714285714285715,92
+495,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",553.95,10.0,380,352.2857142857143,304
+496,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",506.99,32.0,371,324.85714285714283,155
+497,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",300.34,8.0,249,164.57142857142858,309
+498,Hoddesdon Distribution Ltd,"Fishers Way Crabtree Manor Way   Kent
+Belvedere
+DA17 6BS
+GBR",150.0,3.0,119,74.42857142857143,119
+499,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",22.0,1.0,12,45.714285714285715,173
+500,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",173.0,8.0,141,126.14285714285714,173
+501,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,10.97,433,421.2857142857143,433
+502,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+503,Shakespeare Transport Ltd,"272-274 Gladstone Street
+Peterborough
+PE1 2BS
+GBR",120.15,3.0,92,23.857142857142858,92
+504,Shakespeare Transport Ltd,"55-56 St Mary's Road
+Southampton
+SO14 0BH
+GBR",151.2,3.0,121,40.285714285714285,121
+505,Shakespeare Transport Ltd,"Mr Shabir Ahmed36 Park Road Oldham
+Oldham
+OL8 1DB
+GBR",120.15,3.0,92,78.28571428571429,92
+506,Shakespeare Transport Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",148.05,3.0,117,116.85714285714286,119
+507,Shakespeare Transport Ltd,"Unit 5 Riverside Way Uxbridge
+WAYUXBRIDGE
+UB8 2YF
+GBR",98.7,2.0,70,19.571428571428573,70
+508,Barron Wood Distribution Ltd,"10 Avenue Marcelin Berthelot
+F-92390Villeneuve la Garenne
+FRA",455.0,24.0,359,296.7142857142857,359
+509,Hoddesdon Distribution Ltd,"Dolphin Way Purfleet
+Purfleet
+RM19 1NZ
+GBR",145.0,4.0,115,34.714285714285715,92
+510,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",315.0,12.0,262,223.85714285714286,158
+511,Hoddesdon Distribution Ltd,"173 Elswick Street Elswick
+Newcastle Upon Tyne
+NE4 6SR
+GBR",165.0,3.02,134,33.857142857142854,134
+512,Hoddesdon Distribution Ltd,"19 Mitre Road
+Longsight, Manchester
+M13 0NU
+GBR",225.0,3.01,184,56.0,184
+513,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",49.0,2.0,35,77.42857142857143,7
+514,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",517.0,21.0,374,379.14285714285717,309
+515,Hoddesdon Distribution Ltd,"32 Avis Way
+New Haven
+West Sussex
+BN9 0DD
+GBR",195.0,5.0,158,64.28571428571429,158
+516,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",265.0,16.0,213,154.85714285714286,166
+517,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+518,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",231.0,6.0,188,203.42857142857142,265
+519,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",415.0,11.0,334,321.7142857142857,354
+520,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",540.0,26.0,378,237.85714285714286,196
+521,Hoddesdon Distribution Ltd,"Cameron Wood  Nettlehill Rd Houston Industrial Estate
+LIVINGSTON
+EH54 5DL
+GBR",600.0,5.0,388,231.0,388
+522,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",200.0,3.0,164,162.0,164
+523,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",265.0,24.0,213,309.0,309
+524,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+525,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",876.0,23.0,419,423.7142857142857,25
+526,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,1.0,7,12.428571428571429,7
+527,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",364.0,24.0,298,317.14285714285717,7
+528,Hoddesdon Distribution Ltd,"Ivatt WayIvatt Business Park Westwood Industrial Estate
+Peterborough
+PE3 7PH
+GBR",200.0,5.0,164,104.0,164
+529,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",380.0,9.0,309,297.42857142857144,309
+530,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",426.0,11.0,342,326.2857142857143,365
+531,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",394.0,24.0,318,330.57142857142856,7
+532,Hoddesdon Distribution Ltd,"Unit 910 River Road
+Barking
+IG11 ODG
+GBR",240.0,12.0,196,190.71428571428572,158
+533,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+534,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",369.0,12.0,302,302.42857142857144,350
+535,Shakespeare Transport Ltd,"Unit 19 Small HeathTrading Estate Armoury Road
+Birmingham
+B11 2RJ
+GBR",120.15,3.0,92,35.142857142857146,92
+536,Shakespeare Transport Ltd,"UNIT 24 WHOLESALE FRUIT CENTRE 
+CARDIFF, Wales
+CF11 8BB
+GBR",126.9,3.0,100,66.14285714285714,296
+537,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",43.45,1.0,32,83.28571428571429,99
+538,DHL Express Ltd,"3 Avenue de Br?hat Villebon-sur-Yvette 
+91140Essonne
+FRA",695.0,6.0,401,124.71428571428571,401
+539,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+540,Hoddesdon Distribution Ltd,"7/9 Blackwater Way
+Aldershot
+GU12 4DG
+GBR",290.0,5.03,237,71.28571428571429,164
+541,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",260.0,5.0,209,152.0,164
+542,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",357.0,20.0,294,309.14285714285717,330
+543,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",410.0,24.0,330,309.14285714285717,330
+544,Hoddesdon Distribution Ltd,"Fishers Way Crabtree Manor Way   Kent
+Belvedere
+DA17 6BS
+GBR",170.0,5.0,140,81.57142857142857,119
+545,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",808.0,10.0,413,414.14285714285717,433
+546,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+547,Hoddesdon Distribution Ltd,"Seafield Lane Beoley 
+Worcestershire
+Redditch 
+B98 9DB
+GBR",330.0,15.0,276,246.71428571428572,276
+548,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+549,Shakespeare Transport Ltd,"Unit 2 Cliffe Commercial Park Longyoyd Bridge
+Huddersfield
+HD1 3JD
+GBR",120.15,3.0,92,21.285714285714285,92
+550,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",105.0,5.0,76,91.57142857142857,79
+551,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",208.0,12.0,169,242.71428571428572,155
+552,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",269.44,7.0,217,202.14285714285714,217
+553,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",235.0,3.0,193,163.85714285714286,193
+554,Hoddesdon Distribution Ltd,"Resturant Wholesale London Works Ripple Road
+London
+IG11 0SY
+GBR",195.0,5.0,158,96.14285714285714,158
+555,Hoddesdon Distribution Ltd,"Unit 15 Hallsford Bridge Ind. Est Stondon Road
+Ongar
+CM5 9RB
+GBR",125.0,3.0,97,58.57142857142857,94
+556,Hoddesdon Distribution Ltd,"Unit 5 A3 Approach Rima House Ripple Road 
+Barking
+IG11 0RH
+GBR",250.0,13.0,205,217.42857142857142,209
+557,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",120.0,5.0,91,103.14285714285714,96
+558,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",208.0,9.0,169,166.71428571428572,155
+559,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",114.75,1.82,85,279.42857142857144,327
+560,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+561,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",362.0,21.0,297,328.85714285714283,364
+562,Hoddesdon Distribution Ltd,"A Division of Samworth Brothers Limited- Oak Spinney Park Ratby Lane Forest East
+Leicester
+LE3 3JZ
+GBR",230.0,3.0,187,59.0,187
+563,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",286.0,17.0,232,242.14285714285714,265
+564,Hoddesdon Distribution Ltd,"Booth Drive Parkfarm Ind. Estate    Wellingborough  Northants
+Wellingborough
+NN8 6GR
+GBR",110.0,2.0,81,32.142857142857146,81
+565,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",360.0,6.0,296,277.42857142857144,296
+566,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",270.0,9.0,218,180.71428571428572,164
+567,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",17.0,2.0,7,7.714285714285714,0
+568,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",182.0,22.0,151,160.14285714285714,0
+569,Hoddesdon Distribution Ltd,"Elmshall Drive Dale Lane Industrial Estate
+Pontefract
+WF9 2RH
+GBR",125.0,2.0,97,23.428571428571427,97
+570,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",379.0,16.0,308,309.42857142857144,309
+571,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",420.0,7.0,337,327.42857142857144,365
+572,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,1.0,3,5.428571428571429,3
+573,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",283.0,23.0,230,244.0,3
+574,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,1.0,3,54.57142857142857,3
+575,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",40.0,3.0,28,16.571428571428573,3
+576,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",224.0,20.0,182,222.28571428571428,3
+577,Hoddesdon Distribution Ltd,"Units 18-19 North Way Walworth Industrial Estate  Andover  Hants
+Andover
+SP10 5AZ
+GBR",115.0,2.0,86,33.142857142857146,86
+578,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",380.0,19.0,309,299.2857142857143,350
+579,Hoddesdon Distribution Ltd,"Waldrist Way
+Erith
+DA18 4AG
+GBR",98.0,2.0,69,12.285714285714286,92
+580,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+581,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",92.0,5.0,62,132.28571428571428,166
+582,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",240.0,13.0,196,237.85714285714286,196
+583,Hoddesdon Distribution Ltd,"Fishers Way Crabtree Manor Way   Kent
+Belvedere
+DA17 6BS
+GBR",150.0,3.0,119,74.42857142857143,119
+584,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",17.0,1.0,7,45.714285714285715,173
+585,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",188.0,11.0,154,142.14285714285714,173
+586,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",450.0,10.0,355,303.42857142857144,355
+587,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",794.0,9.0,411,412.0,433
+588,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",210.0,6.25,170,136.57142857142858,137
+589,Hoddesdon Distribution Ltd,"Unit 9 Heston Industrial estate Aerodrome Way Cranford Lane
+Heston
+TW5 9QB
+GBR",280.0,26.0,228,242.0,187
+590,Hoddesdon Distribution Ltd,"Unit 910 River Road
+Barking
+IG11 ODG
+GBR",195.0,5.0,158,108.28571428571429,158
+591,Shakespeare Transport Ltd,"732 Oxford Road Reading Berkshire RG30 1EL
+Reading
+RG30 1EL
+GBR",84.3,2.0,58,18.285714285714285,58
+592,Shakespeare Transport Ltd,"84 Toryglen Street
+Glasgow
+G5 0BH
+GBR",333.3,6.0,278,121.0,278
+593,Shakespeare Transport Ltd,"Unit1 Dewsbury Road
+Stoke on Trent
+ST4 2HS
+GBR",120.15,3.0,92,10.857142857142858,92
+594,Hoddesdon Distribution Ltd,"3 Wollaston CrescentBurnt Mills Industrial Este
+Basildon
+SS13 1QD
+GBR",140.0,3.0,112,26.285714285714285,112
+595,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",200.0,6.0,164,155.42857142857142,149
+596,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,2.0,8,11.0,364
+597,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",325.0,18.0,273,345.7142857142857,364
+598,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",303.0,18.0,250,237.85714285714286,265
+599,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Industrial Estate  Clwyd  Wrexham
+Wrexham, Wales
+LL13 9UG
+GBR",385.0,9.0,311,162.0,361
+600,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",360.0,6.0,296,277.42857142857144,296
+601,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",190.0,2.0,157,167.14285714285714,164
+602,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",26.0,2.0,16,7.714285714285714,0
+603,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",190.0,21.0,157,167.28571428571428,0
+604,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+605,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",38.0,2.0,25,35.42857142857143,25
+606,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",724.0,19.0,403,418.42857142857144,25
+607,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",16.0,1.0,6,12.428571428571429,7
+608,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",364.0,22.0,298,323.85714285714283,7
+609,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",326.0,6.0,274,297.42857142857144,309
+610,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",429.0,12.0,344,329.14285714285717,365
+611,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,1.0,3,5.428571428571429,3
+612,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",26.0,2.0,16,12.285714285714286,3
+613,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",232.0,18.0,189,230.42857142857142,3
+614,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,1.0,3,54.57142857142857,3
+615,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",25.0,2.0,14,9.571428571428571,3
+616,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",51.0,4.0,37,20.857142857142858,3
+617,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",178.0,14.0,147,221.57142857142858,3
+618,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",17.0,2.0,7,12.714285714285714,7
+619,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",377.0,22.0,307,322.42857142857144,7
+620,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+621,Hoddesdon Distribution Ltd,"Regional Distribution center 7502 Norman Road Belvedere
+Bexley
+DA17 6JY
+GBR",220.0,12.0,178,192.0,164
+622,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",415.0,10.0,334,152.42857142857142,7
+623,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",380.0,6.0,309,304.7142857142857,303
+624,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",385.0,14.0,311,314.14285714285717,350
+625,Shakespeare Transport Ltd,"203 Dunstable Road
+Luton
+LU1 100
+GBR",120.15,3.0,92,23.428571428571427,92
+626,Shakespeare Transport Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",148.05,3.0,117,116.85714285714286,119
+627,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",218.84,6.0,176,83.28571428571429,99
+628,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",224.94,10.0,183,194.28571428571428,155
+629,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",328.0,16.0,275,302.2857142857143,330
+630,Hoddesdon Distribution Ltd,"Manchester Superstore 
+Florence St
+Bradford
+BD3 8EX
+GBR",225.0,4.0,184,60.285714285714285,184
+631,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",895.0,13.0,425,421.7142857142857,433
+632,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",290.0,24.0,237,232.85714285714286,237
+633,Shakespeare Transport Ltd,"VIA LEA BRIDGE RD & ARGALL WAY
+LEYTON
+E10 7AS
+GBR",173.7,3.0,142,42.57142857142857,128
+634,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",337.4,14.0,280,242.71428571428572,155
+635,Hoddesdon Distribution Ltd,"76 Canterbury Road Croydon
+Croydon
+CR0 3HA
+GBR",240.0,6.0,196,43.285714285714285,196
+636,Hoddesdon Distribution Ltd,"Amotherby Malton
+Malton
+YO17 6TQ
+GBR",210.0,1.0,170,62.57142857142857,205
+637,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",290.0,21.0,237,256.57142857142856,276
+638,Hoddesdon Distribution Ltd,"Fesa 
+Clay lake 
+Spalding
+PE12 6BL
+GBR",82.0,4.0,55,252.57142857142858,330
+639,Hoddesdon Distribution Ltd,"Golden House Golden Bus Park Orient Way
+Leyton
+E10 7FE
+GBR",220.0,12.0,178,211.0,166
+640,Hoddesdon Distribution Ltd,"Unit 12- 13 Valley Road Business ParkValley Road
+Keighley
+BD21 4LZ
+GBR",245.0,5.0,202,41.142857142857146,92
+641,Hoddesdon Distribution Ltd,"Waterton Industrial Estate Cowbridge Road 
+Bridgend
+CF31 3PH
+GBR",345.0,5.0,286,98.57142857142857,306
+642,Shakespeare Transport Ltd,"Unit 15 Hallsford Bridge Ind. Est Stondon Road
+Ongar
+CM5 9RB
+GBR",123.3,3.0,94,58.57142857142857,94
+643,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",406.98,2.43,327,279.42857142857144,327
+644,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",315.0,10.0,262,201.28571428571428,158
+645,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",517.0,21.0,374,379.14285714285717,309
+646,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",128.0,7.0,101,132.28571428571428,166
+647,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",452.0,25.0,357,358.14285714285717,364
+648,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,2.0,0,7.714285714285714,0
+649,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",190.0,22.0,157,160.14285714285714,0
+650,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,24.0,168,168.42857142857142,0
+651,Hoddesdon Distribution Ltd,"Deeside Industrial Park
+Deeside, Flintshire
+CH5 2NW
+GBR",370.0,5.0,303,58.57142857142857,303
+652,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",876.0,23.0,419,423.7142857142857,25
+653,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,1.0,7,12.428571428571429,7
+654,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",347.0,21.0,288,321.7142857142857,7
+655,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",429.0,12.0,344,329.14285714285717,365
+656,Hoddesdon Distribution Ltd,"Livingstone Road
+Andover
+SP10 5LA
+GBR",159.0,3.0,127,67.14285714285714,276
+657,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,1.0,3,5.428571428571429,3
+658,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",26.0,2.0,16,12.285714285714286,3
+659,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",270.0,21.0,218,235.57142857142858,3
+660,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,1.0,3,54.57142857142857,3
+661,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",25.0,2.0,14,9.571428571428571,3
+662,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",292.0,23.0,239,236.85714285714286,3
+663,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",17.0,1.0,7,12.714285714285714,7
+664,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",394.0,23.0,318,328.7142857142857,7
+665,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",32.0,2.0,20,38.857142857142854,7
+666,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",98.0,6.0,69,88.71428571428571,7
+667,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",163.0,10.0,132,152.42857142857142,7
+668,Shakespeare Transport Ltd,"75-83 Oldham Road
+Ashton Under Lyne
+OL6 7DF
+GBR",120.15,2.86,92,23.857142857142858,92
+669,Shakespeare Transport Ltd,"Stonehouse Street Lithorpe
+Middlesborough
+TS5 6HR
+GBR",123.3,1.5,94,20.571428571428573,94
+670,Shakespeare Transport Ltd,"Stonehouse Street Lithorpe
+Middlesborough
+TS5 6HR
+GBR",246.6,1.5,204,20.571428571428573,94
+671,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+672,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",254.0,9.0,207,203.42857142857142,265
+673,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,26.0,265,251.14285714285714,265
+674,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+DH8 7NU
+GBR",380.0,4.0,309,297.2857142857143,373
+675,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",15.0,1.0,5,45.714285714285715,173
+676,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",200.0,13.0,164,170.57142857142858,173
+677,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",391.0,20.0,315,320.85714285714283,309
+678,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",882.0,10.0,421,414.14285714285717,433
+679,Hoddesdon Distribution Ltd,"Off Silverdale Road Pump Lane
+Hayes
+UB3 3BL
+GBR",230.0,6.0,187,133.71428571428572,187
+680,Hoddesdon Distribution Ltd,"Upper Thomas Street
+Aston
+Birmingham
+B6 5AD
+GBR",290.0,12.0,237,209.42857142857142,205
+681,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+682,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",415.02,6.0,335,330.57142857142856,304
+683,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",168.7,11.0,138,222.28571428571428,155
+684,Hoddesdon Distribution Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",250.0,3.25,205,194.57142857142858,205
+685,Hoddesdon Distribution Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",500.0,3.7,369,200.0,205
+686,Hoddesdon Distribution Ltd,"460-462 London Road
+Croydon
+CR0 2SS
+GBR",160.0,3.92,128,33.57142857142857,128
+687,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,25.0,364,358.14285714285717,364
+688,Hoddesdon Distribution Ltd,"94-96 Cromer Street
+Kings Cross
+WC1H 8DD
+GBR",250.0,4.93,205,44.57142857142857,205
+689,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",270.0,7.0,218,203.42857142857142,265
+690,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",445.0,13.0,354,333.57142857142856,354
+691,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+692,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,23.0,168,141.0,0
+693,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",270.0,14.0,218,248.42857142857142,276
+694,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",310.0,17.0,257,248.42857142857142,276
+695,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,24.0,276,267.7142857142857,276
+696,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+697,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",430.0,25.0,345,317.14285714285717,7
+698,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",395.0,7.0,319,228.14285714285714,213
+699,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",380.0,8.0,309,297.42857142857144,309
+700,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",420.0,8.0,337,328.57142857142856,365
+701,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,2.0,3,12.285714285714286,3
+702,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",309.0,23.0,256,244.0,3
+703,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,9.0,433,412.0,433
+704,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",13.0,1.0,3,54.57142857142857,3
+705,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",25.0,2.0,14,9.571428571428571,3
+706,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",292.0,23.0,239,236.85714285714286,3
+707,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,25.0,354,339.0,7
+708,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",170.0,4.0,140,142.85714285714286,140
+709,Hoddesdon Distribution Ltd,"Unit 6  Guardian Road Ind. Estate Guardian Road
+Norwich
+NR5 8PF
+GBR",255.0,5.0,208,107.57142857142857,208
+710,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",430.0,13.0,345,314.14285714285717,350
+711,Shakespeare Transport Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",141.9,3.0,113,94.57142857142857,140
+712,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",85.16,2.0,59,83.28571428571429,99
+713,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",324.24,12.0,271,242.71428571428572,155
+714,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",261.39,6.0,211,148.0,309
+715,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",430.0,15.0,345,332.57142857142856,296
+716,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",320.0,26.0,265,249.42857142857142,164
+717,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",41.0,1.0,29,31.714285714285715,25
+718,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",949.0,23.0,430,423.7142857142857,25
+719,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+720,Hoddesdon Distribution Ltd,"Unit 1553 Lewisher Road
+Leicester
+LE4 9LR
+GBR",290.0,10.0,237,187.71428571428572,158
+721,Shakespeare Transport Ltd,"125 River Road
+Barking
+IG11 0EG
+GBR",96.6,2.0,67,19.571428571428573,67
+722,Shakespeare Transport Ltd,"675A Mitcham Road
+Croydon
+CR0 3AF
+GBR",96.6,2.0,67,21.428571428571427,67
+723,Shakespeare Transport Ltd,"Dhamecha C & C 2 Fordmil Road Catford
+Lewisham
+SE6 3JH
+GBR",115.8,2.0,88,33.714285714285715,88
+724,Shakespeare Transport Ltd,"Dhamecha C & C 243 Blyth Road
+Hayes
+UB3 1RY
+GBR",98.7,2.0,70,12.285714285714286,92
+725,Shakespeare Transport Ltd,"Dhamecha Cash & Carry 101 Cobden Street
+Leicester
+LE1 2LB
+GBR",80.1,2.0,53,22.857142857142858,53
+726,Shakespeare Transport Ltd,"Imperial Way
+Watford
+WD24 4UA
+GBR",45.2,1.0,34,13.857142857142858,34
+727,Shakespeare Transport Ltd,"Steel Bright Road Off Rabone Lane Smethwick
+Birmingham
+B66 2NW
+GBR",80.1,2.0,53,24.142857142857142,53
+728,Shakespeare Transport Ltd,"Unit 1 Cape Hill Retail Centre Smethwick
+Brimingham
+B66 4PH
+GBR",120.15,1.59,92,23.142857142857142,92
+729,Shakespeare Transport Ltd,"Unit 1 Cape Hill Retail Centre Smethwick
+Brimingham
+B66 4PH
+GBR",240.3,1.4,197,18.0,92
+730,Shakespeare Transport Ltd,"Wembley Stadium Industrial Estate First Way
+Wembley
+HA9 0TU
+GBR",96.6,2.0,67,37.42857142857143,67
+731,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",179.89,5.0,148,103.14285714285714,96
+732,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",109.15,5.0,79,91.57142857142857,79
+733,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+734,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",199.99,6.0,163,158.14285714285714,163
+735,Fercam Austria Gmbh,"Schaferhauser Str. 2/2
+73240Wendlingen
+DEU",630.0,25.0,392,314.42857142857144,392
+736,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",360.0,16.0,296,229.42857142857142,158
+737,Hoddesdon Distribution Ltd,"Cameron Wood  Nettlehill Rd Houston Industrial Estate
+LIVINGSTON
+EH54 5DL
+GBR",600.0,5.0,388,231.0,388
+738,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",310.0,14.0,257,248.42857142857142,276
+739,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",235.0,3.0,193,163.85714285714286,193
+740,Hoddesdon Distribution Ltd,"Queensway
+Rochdale
+OL11 2NU
+GBR",390.0,8.0,314,94.14285714285714,92
+741,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",186.0,5.0,152,184.28571428571428,237
+742,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",406.98,2.44,327,279.42857142857144,327
+743,Salvatori Medway Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+DH8 7NU
+GBR",382.0,8.0,310,291.85714285714283,373
+744,Hoddesdon Distribution Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",65.0,3.0,45,194.57142857142858,205
+745,Hoddesdon Distribution Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",260.0,12.0,209,225.28571428571428,205
+746,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",34.0,1.0,22,77.42857142857143,7
+747,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",606.0,19.0,390,379.14285714285717,309
+748,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",24.0,1.0,13,11.142857142857142,364
+749,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",422.0,19.0,338,345.7142857142857,364
+750,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,25.0,364,358.14285714285717,364
+751,Hoddesdon Distribution Ltd,"7 Solar WayInova Park
+Enfield
+EN3 7XY
+GBR",135.0,3.0,108,65.42857142857143,108
+752,Hoddesdon Distribution Ltd,"Ahmed HouseBelle Vue Avenue
+Longsight , Manchester
+M12 4AS
+GBR",275.0,5.0,221,97.85714285714286,92
+753,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+754,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",216.0,24.0,174,168.42857142857142,0
+755,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+756,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",422.0,16.0,338,344.7142857142857,365
+757,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",15.0,2.0,5,12.285714285714286,3
+758,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",305.0,21.0,252,235.57142857142858,3
+759,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",19.0,1.0,9,12.714285714285714,7
+760,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",407.0,21.0,328,323.85714285714283,7
+761,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",49.0,3.0,35,38.857142857142854,7
+762,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",82.0,5.0,55,63.142857142857146,7
+763,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",212.0,13.0,171,152.42857142857142,7
+764,Hoddesdon Distribution Ltd,"Unit8 Anchor Business Park Featherstall Road North
+Oldham
+OL9 6AZ
+GBR",275.0,5.0,221,99.85714285714286,276
+765,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+766,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+767,Shakespeare Transport Ltd,"Ivatt WayIvatt Business Park Westwood Industrial Estate
+Peterborough
+PE3 7PH
+GBR",120.15,3.0,92,96.85714285714286,164
+768,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",189.14,12.0,155,242.71428571428572,155
+769,Hoddesdon Distribution Ltd,"5 Rima House, A13 Approach, Ripple Road, 					
+					
+
+Barking
+IG11 0RH
+GBR",260.0,26.0,209,240.71428571428572,209
+770,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+771,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",200.0,9.0,164,159.71428571428572,149
+772,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,26.0,265,251.14285714285714,265
+773,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",240.0,13.0,196,237.85714285714286,196
+774,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",66.0,1.0,47,122.85714285714286,164
+775,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",990.0,24.0,434,426.0,25
+776,Hoddesdon Distribution Ltd,"Golden House Golden Bus Park Orient Way
+Leyton
+E10 7FE
+GBR",205.0,9.0,166,59.285714285714285,166
+777,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",15.0,1.0,5,45.714285714285715,173
+778,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",200.0,13.0,164,170.57142857142858,173
+779,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",960.0,27.0,432,342.0,355
+780,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",390.0,13.0,314,307.85714285714283,309
+781,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",821.0,11.0,414,420.0,433
+782,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+783,Hoddesdon Distribution Ltd,"Queensway
+Rochdale
+OL11 2NU
+GBR",240.0,3.92,196,93.28571428571429,92
+784,Hoddesdon Distribution Ltd,"Unit 6  Guardian Road Ind. Estate Guardian Road
+Norwich
+NR5 8PF
+GBR",255.0,5.0,208,107.57142857142857,208
+785,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",36.0,1.0,23,77.42857142857143,7
+786,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",604.0,17.0,389,379.14285714285717,7
+787,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",19.0,2.0,9,11.0,364
+788,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",413.0,22.0,332,324.85714285714283,364
+789,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,26.0,265,251.14285714285714,265
+790,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",445.0,14.0,354,333.57142857142856,354
+791,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",134.0,2.0,107,167.14285714285714,164
+792,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",320.0,15.0,265,236.0,164
+793,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",10.0,2.0,1,7.714285714285714,0
+794,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",205.0,21.0,166,167.28571428571428,0
+795,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",225.0,25.0,184,172.28571428571428,0
+796,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",370.0,1.0,303,43.285714285714285,0
+797,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+798,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",43.0,1.0,31,31.714285714285715,25
+799,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",904.0,21.0,426,419.2857142857143,25
+800,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",20.0,1.0,10,12.428571428571429,7
+801,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",370.0,18.0,303,312.85714285714283,7
+802,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",394.0,21.0,318,327.57142857142856,309
+803,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",475.0,26.0,365,354.42857142857144,365
+804,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",16.0,1.0,6,5.428571428571429,3
+805,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",30.0,2.0,19,12.285714285714286,3
+806,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",289.0,19.0,236,235.57142857142858,3
+807,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",40.0,3.0,28,16.571428571428573,3
+808,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",290.0,22.0,237,231.0,3
+809,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",426.0,22.0,342,322.42857142857144,7
+810,Hoddesdon Distribution Ltd,"Regional Distribution center 7502 Norman Road Belvedere
+Bexley
+DA17 6JY
+GBR",225.0,16.0,184,195.0,164
+811,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",293.0,10.0,241,286.42857142857144,350
+812,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+813,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",455.15,21.0,360,296.2857142857143,155
+814,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",220.87,5.0,179,196.71428571428572,179
+815,DHL Express Ltd,"Pour Costco France Parc du Hode Num Portuaire 552 Saint Vigor D'Ymonville 
+76430Essonne
+FRA",750.0,2.0,405,66.14285714285714,405
+816,DHL Express Ltd,"Pour Costco France Parc du Hode Num Portuaire 552 Saint Vigor D'Ymonville 
+76430Essonne
+FRA",1500.0,11.0,436,194.28571428571428,405
+817,Fercam Austria Gmbh,"Auer Str.19
+89257Illertissen
+DEU",651.24,11.0,395,243.57142857142858,402
+818,Fercam Austria Gmbh,"Auer Str.19
+89257Illertissen
+DEU",720.0,11.0,402,243.57142857142858,402
+819,Hoddesdon Distribution Ltd,"FAO Kerry Terrington Greencore Food to go Spalding Wardentree Lane Pinchbeck
+Spalding
+PE11 3UY
+GBR",200.0,2.0,164,33.42857142857143,164
+820,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",64.0,1.0,44,45.714285714285715,173
+821,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",410.0,24.0,330,315.2857142857143,330
+822,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",990.0,22.0,434,423.2857142857143,433
+823,Hoddesdon Distribution Ltd,"Sonali Supermarket Birmingham ltd Lozells Road
+Birmingham
+B192TN
+GBR",162.0,4.0,129,72.14285714285714,205
+824,Hoddesdon Distribution Ltd,"unit 5, Trafalgar Trading Estate
+82 Jeffreys Road
+London
+London
+EN3 7TY
+GBR",230.0,10.0,187,126.0,187
+825,Hoddesdon Distribution Ltd,"Unit A Trafalgar CentreBelfield Road
+Rochdale
+OL16 2UX
+GBR",390.0,6.0,314,53.42857142857143,196
+826,Hoddesdon Distribution Ltd,"Booth Drive Parkfarm Ind. Estate    Wellingborough  Northants
+Wellingborough
+NN8 6GR
+GBR",110.0,2.0,81,32.142857142857146,81
+827,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,21.0,276,256.57142857142856,276
+828,Hoddesdon Distribution Ltd,"Hilbert House
+New Street
+
+Manchester
+M40 8AW
+GBR",390.0,10.0,314,196.42857142857142,276
+829,Hoddesdon Distribution Ltd,"Ivatt WayIvatt Business Park Westwood Industrial Estate
+Peterborough
+PE3 7PH
+GBR",295.0,13.0,243,188.14285714285714,164
+830,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",410.0,18.0,330,315.2857142857143,330
+831,Hoddesdon Distribution Ltd,"Maxted Road Hemel Hempstead Ind Estate
+Hemel Hempstead
+HP2 7DX
+GBR",170.0,2.0,140,29.571428571428573,140
+832,Shakespeare Transport Ltd,"Ibco Building Hulme Hall laneLord North Street
+Manchester
+M40 8AD
+GBR",120.15,3.0,92,23.857142857142858,92
+833,Shakespeare Transport Ltd,"Resturant Wholesale London Works Ripple Road
+London
+IG11 0SY
+GBR",144.9,3.0,114,89.0,158
+834,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",453.41,7.0,358,330.57142857142856,304
+835,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+836,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+837,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",135.1,10.0,109,194.28571428571428,155
+838,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,42.0,364,360.42857142857144,364
+839,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,26.0,265,251.14285714285714,265
+840,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",360.0,7.0,296,298.14285714285717,296
+841,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",19.0,2.0,9,7.714285714285714,0
+842,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",206.0,23.0,167,141.0,0
+843,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",938.0,18.0,429,419.7142857142857,25
+844,Hoddesdon Distribution Ltd,"Elmshall Drive Dale Lane Industrial Estate
+Pontefract
+WF9 2RH
+GBR",125.0,2.0,97,23.428571428571427,97
+845,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",430.0,22.0,345,323.85714285714283,7
+846,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",356.0,19.0,293,320.85714285714283,309
+847,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",450.0,26.0,355,331.42857142857144,309
+848,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",475.0,26.0,365,354.42857142857144,365
+849,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",16.0,1.0,6,5.428571428571429,3
+850,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",30.0,2.0,19,12.285714285714286,3
+851,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",289.0,20.0,236,242.42857142857142,3
+852,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",335.0,25.0,279,251.0,3
+853,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,21.0,354,323.85714285714283,7
+854,Hoddesdon Distribution Ltd,"Unit 1553 Lewisher Road
+Leicester
+LE4 9LR
+GBR",250.0,6.0,205,139.85714285714286,158
+855,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+856,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",287.0,15.0,234,316.42857142857144,350
+857,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+858,Shakespeare Transport Ltd,"84 Toryglen Street
+Glasgow
+G5 0BH
+GBR",333.3,6.0,278,121.0,278
+859,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",109.15,5.0,79,91.57142857142857,79
+860,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",199.99,6.0,163,158.14285714285714,163
+861,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",305.24,2.02,253,279.42857142857144,327
+862,Salvatori Medway Ltd,"Unit 8198 Camford Way
+Luton
+LU33AN
+GBR",123.0,3.0,93,44.714285714285715,92
+863,Hoddesdon Distribution Ltd,"75 Doncaster Road
+Wakefield
+WF1 5DX
+GBR",225.0,4.0,184,41.57142857142857,184
+864,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,20.0,265,242.57142857142858,265
+865,Hoddesdon Distribution Ltd,"Booth Drive Parkfarm Ind. Estate    Wellingborough  Northants
+Wellingborough
+NN8 6GR
+GBR",205.0,5.0,166,38.0,81
+866,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",49.0,4.0,35,152.0,164
+867,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",271.0,22.0,220,249.42857142857142,164
+868,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",320.0,20.0,265,249.42857142857142,164
+869,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",215.0,14.0,173,170.57142857142858,173
+870,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",400.0,3.0,323,327.42857142857144,365
+871,Hoddesdon Distribution Ltd,"Livingstone Road
+Andover
+SP10 5LA
+GBR",330.0,6.0,276,67.71428571428571,276
+872,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",932.0,16.0,428,420.42857142857144,433
+873,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",14.0,1.0,4,54.57142857142857,3
+874,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",41.0,3.0,29,16.571428571428573,3
+875,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",275.0,20.0,221,222.28571428571428,3
+876,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+877,Hoddesdon Distribution Ltd,"Welcome HouseGlover Street
+Digbeth
+B9 4EP
+GBR",250.0,9.0,205,47.285714285714285,92
+878,Shakespeare Transport Ltd,"Brown Street Globe Works
+Accrington
+BB5 0RH
+GBR",120.15,3.0,92,27.857142857142858,92
+879,Shakespeare Transport Ltd,"Unit 2
+Bedford Works
+Lower Bedford Street
+
+Stoke on Trent
+ST4 7AF
+GBR",120.15,3.0,92,24.428571428571427,92
+880,Salvatori Medway Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",525.0,24.0,376,309.0,309
+881,Hoddesdon Distribution Ltd,"7 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",135.0,3.0,108,10.857142857142858,92
+882,Hoddesdon Distribution Ltd,"1-3 Stadium ClosePenarth Road
+Cardiff, Wales
+CF11 8TS
+GBR",470.0,26.0,364,278.0,303
+883,Hoddesdon Distribution Ltd,"14a Missouri Avenue
+
+Manchester
+M50 2NP
+GBR",330.0,7.0,276,54.714285714285715,276
+884,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",39.0,1.0,26,77.42857142857143,7
+885,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",527.0,16.0,377,379.14285714285717,7
+886,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",240.0,14.0,196,163.0,166
+887,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",200.0,8.0,164,159.71428571428572,149
+888,Hoddesdon Distribution Ltd,"59 Gresham Road
+Middlesborough
+TS1 4LT
+GBR",380.0,4.0,309,59.42857142857143,309
+889,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",21.0,1.0,11,11.142857142857142,364
+890,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",428.0,21.0,343,328.85714285714283,364
+891,Hoddesdon Distribution Ltd,"733 Alum Rock Road
+Satley
+B8 2NY
+GBR",162.0,3.07,129,29.857142857142858,92
+892,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",234.0,26.0,191,251.14285714285714,265
+893,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,19.0,265,237.85714285714286,265
+894,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",450.0,17.0,355,332.57142857142856,296
+895,Hoddesdon Distribution Ltd,"Cobden House, 
+Cobden Street
+
+Leicester
+LE1 2LB
+GBR",162.0,4.0,129,33.714285714285715,129
+896,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",213.0,21.0,172,167.28571428571428,0
+897,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",116.0,2.0,89,149.0,193
+898,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",174.0,3.0,143,163.85714285714286,193
+899,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",990.0,24.0,434,426.0,25
+900,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",430.0,21.0,345,321.7142857142857,7
+901,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,4.0,213,213.0,213
+902,Hoddesdon Distribution Ltd,"Halfords Park Halfords Lane
+Smethwick
+B66 1EL
+GBR",148.0,3.0,116,27.571428571428573,116
+903,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",190.0,4.0,157,297.42857142857144,309
+904,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",450.0,26.0,355,331.42857142857144,309
+905,Hoddesdon Distribution Ltd,"Kent Street
+Preston
+PR1 1PT
+GBR",265.0,5.0,213,59.42857142857143,309
+906,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",437.0,23.0,349,354.42857142857144,365
+907,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",17.0,2.0,7,12.285714285714286,3
+908,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",66.0,4.0,47,16.0,3
+909,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",14.0,1.0,4,54.57142857142857,3
+910,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",55.0,4.0,41,20.857142857142858,3
+911,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",261.0,20.0,210,222.28571428571428,3
+912,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",21.0,2.0,11,12.714285714285714,7
+913,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",403.0,21.0,324,323.85714285714283,7
+914,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+915,Hoddesdon Distribution Ltd,"Regional Distribution center 7502 Norman Road Belvedere
+Bexley
+DA17 6JY
+GBR",225.0,18.0,184,192.71428571428572,164
+916,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",68.0,4.0,48,56.714285714285715,7
+917,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",170.0,10.0,140,152.42857142857142,7
+918,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",187.0,11.0,153,152.42857142857142,7
+919,Hoddesdon Distribution Ltd,"Unit 7A Odhams Trad EstSt Albans Road
+Watford
+WD24 7RY
+GBR",137.0,3.0,111,10.857142857142858,92
+920,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",312.0,17.0,259,296.42857142857144,350
+921,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+922,Shakespeare Transport Ltd,"Ahmed HouseBelle Vue Avenue
+Longsight , Manchester
+M12 4AS
+GBR",120.15,2.97,92,91.57142857142857,92
+923,Barron Wood Distribution Ltd,"10 Avenue Marcelin Berthelot
+F-92390Villeneuve la Garenne
+FRA",455.0,24.0,359,296.7142857142857,359
+924,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",346.01,21.0,287,296.2857142857143,155
+925,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,23.0,276,262.14285714285717,276
+926,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+927,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",808.0,10.0,413,414.14285714285717,433
+928,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",990.0,26.0,434,423.2857142857143,433
+929,Hoddesdon Distribution Ltd,"Unit8 Anchor Business Park Featherstall Road North
+Oldham
+OL9 6AZ
+GBR",165.0,0.46,134,92.42857142857143,276
+930,Hoddesdon Distribution Ltd,"Unit8 Anchor Business Park Featherstall Road North
+Oldham
+OL9 6AZ
+GBR",330.0,2.5,276,95.85714285714286,276
+931,Shakespeare Transport Ltd,"201 Glasgow Rd Rutherglen
+Glasgow
+G73 1SU
+GBR",333.3,7.0,278,55.0,278
+932,Shakespeare Transport Ltd,"Caresgate Road South
+Inverness
+IV3 8LL
+GBR",322.4,4.0,269,78.85714285714286,283
+933,Lenham Storage Co Ltd,"1 Angel Square
+Manchester
+M60 OAG
+GBR",371.05,5.0,304,128.0,92
+934,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",109.15,5.0,79,91.57142857142857,79
+935,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",246.08,6.0,203,202.14285714285714,217
+936,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",234.49,5.0,192,148.0,309
+937,Salvatori Medway Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",87.0,3.0,61,109.0,119
+938,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",265.0,26.0,213,237.85714285714286,196
+939,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",145.0,3.0,115,231.0,276
+940,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+941,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",380.0,14.0,309,315.2857142857143,330
+942,Hoddesdon Distribution Ltd,"Unit 12- 13 Valley Road Business ParkValley Road
+Keighley
+BD21 4LZ
+GBR",420.0,6.0,337,41.142857142857146,92
+943,Hoddesdon Distribution Ltd,"UNIT 24 WHOLESALE FRUIT CENTRE 
+CARDIFF, Wales
+CF11 8BB
+GBR",360.0,4.0,296,66.71428571428571,296
+944,Hoddesdon Distribution Ltd,"Unit 910 River Road
+Barking
+IG11 ODG
+GBR",195.0,5.0,158,108.28571428571429,158
+945,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",380.0,6.0,309,304.7142857142857,303
+946,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",406.98,2.43,327,279.42857142857144,327
+947,Hoddesdon Distribution Ltd,"1 Uxbridge Road Hayes
+hayes
+UB4 0JU
+GBR",170.0,5.0,140,98.14285714285714,187
+948,Hoddesdon Distribution Ltd,"237 -239 South Road 
+Birmingham
+B18 5JS
+GBR",250.0,9.0,205,111.85714285714286,205
+949,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",200.0,6.0,164,155.42857142857142,149
+950,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",24.0,1.0,13,11.142857142857142,364
+951,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",396.0,16.0,320,345.7142857142857,364
+952,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,20.0,265,242.57142857142858,265
+953,Hoddesdon Distribution Ltd,"Cameron Wood  Nettlehill Rd Houston Industrial Estate
+LIVINGSTON
+EH54 5DL
+GBR",600.0,5.0,388,231.0,388
+954,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,1.0,0,43.285714285714285,0
+955,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",17.0,2.0,7,7.714285714285714,0
+956,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",208.0,24.0,169,168.42857142857142,0
+957,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",216.0,25.0,174,172.28571428571428,0
+958,Hoddesdon Distribution Ltd,"Deeside Industrial Park
+Deeside, Flintshire
+CH5 2NW
+GBR",370.0,5.0,303,58.57142857142857,303
+959,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",55.0,1.0,41,31.714285714285715,25
+960,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",880.0,16.0,420,423.14285714285717,25
+961,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",37.0,2.0,24,12.0,7
+962,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",374.0,20.0,305,321.7142857142857,7
+963,Hoddesdon Distribution Ltd,"Ivatt WayIvatt Business Park Westwood Industrial Estate
+Peterborough
+PE3 7PH
+GBR",200.0,5.0,164,104.0,164
+964,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",380.0,6.0,309,297.42857142857144,309
+965,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",415.0,5.0,334,327.42857142857144,365
+966,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",14.0,2.0,4,12.285714285714286,3
+967,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",293.0,21.0,241,235.57142857142858,3
+968,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",300.0,3.0,248,372.2857142857143,433
+969,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",15.0,1.0,5,54.57142857142857,3
+970,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",45.0,3.0,33,16.571428571428573,3
+971,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",270.0,18.0,218,226.57142857142858,3
+972,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+973,Hoddesdon Distribution Ltd,"Quality Foods 34- 62 Staines Road Hounslow
+Hounslow
+TW3 3LZ
+GBR",205.0,9.0,166,92.42857142857143,166
+974,Hoddesdon Distribution Ltd,"Unit 5 A3 Approach Rima House Ripple Road 
+Barking
+IG11 0RH
+GBR",260.0,26.0,209,235.14285714285714,209
+975,Hoddesdon Distribution Ltd,"Unit 6-8 Priestley WayForest Trading Estate
+Walthamstow
+E17 6AL
+GBR",205.0,6.0,166,39.0,166
+976,Hoddesdon Distribution Ltd,"VIA LEA BRIDGE RD & ARGALL WAY
+LEYTON
+E10 7AS
+GBR",160.0,5.0,128,44.857142857142854,128
+977,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",250.0,4.0,205,238.71428571428572,350
+978,Shakespeare Transport Ltd,"870 Stratford Road
+Birmingham
+B11 4BS
+GBR",120.15,3.01,92,40.285714285714285,92
+979,Shakespeare Transport Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",148.05,3.0,117,116.85714285714286,119
+980,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",251.16,9.0,206,154.71428571428572,159
+981,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",270.2,14.0,219,242.71428571428572,155
+982,Hoddesdon Distribution Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",195.0,4.95,158,101.71428571428571,140
+983,Hoddesdon Distribution Ltd,"298-300 Linthorpe Road
+Middlesbrough
+TS1 3QU
+GBR",380.0,4.0,309,59.42857142857143,309
+984,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",215.0,13.0,173,170.57142857142858,173
+985,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",16.0,1.0,6,5.428571428571429,3
+986,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",287.0,18.0,234,230.42857142857142,3
+987,Hoddesdon Distribution Ltd,"Manchester Superstore 
+Florence St
+Bradford
+BD3 8EX
+GBR",165.0,3.0,134,53.714285714285715,184
+988,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",170.0,4.0,140,142.85714285714286,140
+989,Shakespeare Transport Ltd,"Greenbank Business Park Blakewater Road
+Blackburn
+BB1 3HU
+GBR",120.15,3.0,92,34.285714285714285,92
+990,Shakespeare Transport Ltd,"Unit 1A Norton Park Russie Place
+Edinburgh
+EH7 5RS
+GBR",166.65,3.0,135,46.57142857142857,135
+991,Barron Wood Distribution Ltd,"10 Avenue Marcelin Berthelot
+F-92390Villeneuve la Garenne
+FRA",455.0,24.0,359,296.7142857142857,359
+992,Salvatori Medway Ltd,"UNIT 5 RIVERSIDE Way
+WAYUXBRIDGE
+UB8 2YF
+GBR",112.5,3.0,83,14.571428571428571,92
+993,Salvatori Medway Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",186.0,4.0,152,53.57142857142857,164
+994,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",576.0,18.0,384,379.14285714285717,7
+995,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,20.0,364,322.85714285714283,364
+996,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,23.0,265,254.57142857142858,265
+997,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",175.0,8.0,146,292.0,354
+998,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",285.0,13.0,231,333.57142857142856,354
+999,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",450.0,18.0,355,332.57142857142856,296
+1000,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",200.0,3.0,164,162.0,164
+1001,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",225.0,26.0,184,172.14285714285714,0
+1002,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",360.0,15.0,296,311.85714285714283,309
+1003,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",949.0,23.0,430,423.7142857142857,25
+1004,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",410.0,20.0,330,321.7142857142857,7
+1005,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+1006,Hoddesdon Distribution Ltd,"Halfords Park Halfords Lane
+Smethwick
+B66 1EL
+GBR",148.0,3.0,116,27.571428571428573,116
+1007,Hoddesdon Distribution Ltd,"Hilbert House
+New Street
+
+Manchester
+M40 8AW
+GBR",330.0,6.0,276,171.14285714285714,276
+1008,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",409.0,20.0,329,320.85714285714283,309
+1009,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",399.0,12.0,322,329.14285714285717,365
+1010,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",360.0,12.0,296,315.2857142857143,330
+1011,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",15.0,1.0,5,54.57142857142857,3
+1012,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",315.0,21.0,262,224.71428571428572,3
+1013,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",34.0,2.0,22,12.714285714285714,7
+1014,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",411.0,24.0,331,330.57142857142856,7
+1015,Hoddesdon Distribution Ltd,"Off Silverdale Road Pump Lane
+Hayes
+UB3 3BL
+GBR",145.0,3.0,115,127.42857142857143,187
+1016,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",411.0,14.0,331,314.14285714285717,350
+1017,Shakespeare Transport Ltd,"125 River Road
+Barking
+IG11 0EG
+GBR",96.6,2.0,67,19.571428571428573,67
+1018,Shakespeare Transport Ltd,"201 Glasgow Rd Rutherglen
+Glasgow
+G73 1SU
+GBR",222.2,3.8,181,55.0,278
+1019,Shakespeare Transport Ltd,"282 Farnham Road
+Slough
+SL1 4XL
+GBR",86.3,2.18,60,18.571428571428573,60
+1020,Shakespeare Transport Ltd,"675A Mitcham Road
+Croydon
+CR0 3AF
+GBR",144.9,3.0,114,23.714285714285715,67
+1021,Shakespeare Transport Ltd,"Dhamecha C & C 2 Fordmil Road Catford
+Lewisham
+SE6 3JH
+GBR",115.8,2.0,88,33.714285714285715,88
+1022,Shakespeare Transport Ltd,"Dhamecha C & C 243 Blyth Road
+Hayes
+UB3 1RY
+GBR",98.7,2.0,70,12.285714285714286,92
+1023,Shakespeare Transport Ltd,"Dhamecha Cash & Carry 101 Cobden Street
+Leicester
+LE1 2LB
+GBR",80.1,2.0,53,22.857142857142858,53
+1024,Shakespeare Transport Ltd,"Imperial Way
+Watford
+WD24 4UA
+GBR",45.2,1.0,34,13.857142857142858,34
+1025,Shakespeare Transport Ltd,"Steel Bright Road Off Rabone Lane Smethwick
+Birmingham
+B66 2NW
+GBR",80.1,2.0,53,24.142857142857142,53
+1026,Shakespeare Transport Ltd,"Wembley Stadium Industrial Estate First Way
+Wembley
+HA9 0TU
+GBR",166.65,3.0,135,36.714285714285715,67
+1027,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",174.65,6.0,145,103.14285714285714,96
+1028,Hoddesdon Distribution Ltd,"7 Solar WayInova Park
+Enfield
+EN3 7XY
+GBR",135.0,3.0,108,65.42857142857143,108
+1029,Hoddesdon Distribution Ltd,"A Division of Samworth Brothers Limited- Oak Spinney Park Ratby Lane Forest East
+Leicester
+LE3 3JZ
+GBR",210.0,2.0,170,58.714285714285715,187
+1030,Hoddesdon Distribution Ltd,"Greencore Food to go Spalding Wardentree Lane Pinchbeck
+Spalding
+PE11 3UY
+GBR",200.0,2.0,164,33.0,164
+1031,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",849.0,7.0,417,412.7142857142857,433
+1032,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,26.0,354,339.0,7
+1033,Hoddesdon Distribution Ltd,"Seafield Lane Beoley 
+Worcestershire
+Redditch 
+B98 9DB
+GBR",330.0,15.0,276,246.71428571428572,276
+1034,Lenham Storage Co Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",278.19,5.0,226,200.14285714285714,258
+1035,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",218.84,6.0,176,83.28571428571429,99
+1036,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",242.97,9.0,199,163.85714285714286,163
+1037,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",216.16,20.0,175,296.2857142857143,155
+1038,Hoddesdon Distribution Ltd,"32 Avis Way
+New Haven
+West Sussex
+BN9 0DD
+GBR",275.0,6.0,221,64.28571428571429,158
+1039,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",225.0,5.0,184,203.42857142857142,265
+1040,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",190.0,2.0,157,167.14285714285714,164
+1041,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,2.0,0,7.714285714285714,0
+1042,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,24.0,168,168.42857142857142,0
+1043,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",52.0,1.0,39,31.714285714285715,25
+1044,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",886.0,17.0,422,419.7142857142857,25
+1045,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",360.0,9.0,296,297.42857142857144,309
+1046,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",300.0,5.0,248,327.42857142857144,365
+1047,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,2.0,3,12.285714285714286,3
+1048,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",309.0,24.0,256,251.0,3
+1049,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",390.0,3.0,314,372.2857142857143,433
+1050,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",78.0,4.0,52,56.714285714285715,7
+1051,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",96.0,5.0,66,63.142857142857146,7
+1052,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",155.0,8.0,124,109.85714285714286,7
+1053,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",400.0,9.0,323,286.42857142857144,350
+1054,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",477.85,8.0,366,352.2857142857143,304
+1055,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",286.12,7.0,233,162.57142857142858,309
+1056,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",315.0,13.0,262,223.85714285714286,158
+1057,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+1058,Hoddesdon Distribution Ltd,"Dolphin Way Purfleet
+Purfleet
+RM19 1NZ
+GBR",125.0,4.0,97,34.714285714285715,92
+1059,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",205.0,11.0,166,142.14285714285714,173
+1060,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",52.0,3.0,39,117.85714285714286,137
+1061,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",158.0,11.0,126,137.57142857142858,137
+1062,Hoddesdon Distribution Ltd,"Unit 1a & 1b Cambrian Business Park Derby Street 
+Bolton
+BL3 6JF
+GBR",425.0,10.0,341,137.71428571428572,92
+1063,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",220.0,3.0,178,238.71428571428572,350
+1064,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",255.0,10.0,208,184.28571428571428,237
+1065,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",130.98,6.0,105,106.14285714285714,79
+1066,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",52.0,2.0,39,77.42857142857143,7
+1067,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",358.0,14.0,295,379.14285714285717,7
+1068,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",18.0,1.0,8,11.142857142857142,364
+1069,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",271.0,15.0,220,345.7142857142857,364
+1070,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",238.0,10.0,194,225.28571428571428,265
+1071,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",445.0,14.0,354,333.57142857142856,354
+1072,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",385.0,12.0,311,315.7142857142857,296
+1073,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",310.0,2.0,257,167.14285714285714,164
+1074,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",620.0,11.0,391,195.14285714285714,164
+1075,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+1076,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",38.0,1.0,25,31.714285714285715,25
+1077,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",685.0,18.0,398,419.7142857142857,25
+1078,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",17.0,2.0,7,12.0,7
+1079,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",281.0,17.0,229,319.85714285714283,7
+1080,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+1081,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",318.0,12.0,264,307.85714285714283,309
+1082,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",393.0,11.0,317,326.2857142857143,365
+1083,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",13.0,3.0,3,10.857142857142858,3
+1084,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",206.0,16.0,167,228.71428571428572,3
+1085,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",300.0,17.0,248,296.42857142857144,350
+1086,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",371.05,5.0,304,330.57142857142856,304
+1087,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+1088,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",269.44,7.0,217,202.14285714285714,217
+1089,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,5.0,213,228.14285714285714,213
+1090,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",228.0,2.0,185,372.2857142857143,433
+1091,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",12.0,1.0,2,54.57142857142857,3
+1092,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",267.0,21.0,214,224.71428571428572,3
+1093,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,26.0,354,339.0,7
+1094,Salvatori Medway Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",325.0,26.0,273,237.85714285714286,196
+1095,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+1096,Hoddesdon Distribution Ltd,"Amotherby Malton
+Malton
+YO17 6TQ
+GBR",250.0,3.0,205,67.14285714285714,205
+1097,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",320.0,22.0,265,249.42857142857142,164
+1098,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",410.0,24.0,330,315.2857142857143,330
+1099,Lenham Storage Co Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",310.56,6.0,258,200.14285714285714,258
+1100,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",126.51,3.0,99,83.28571428571429,99
+1101,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",130.98,6.0,105,106.14285714285714,79
+1102,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+1103,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",234.49,5.0,192,148.0,309
+1104,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",314.25,3.04,261,341.57142857142856,327
+1105,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",19.0,1.0,9,11.142857142857142,364
+1106,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",451.0,24.0,356,353.0,364
+1107,Hoddesdon Distribution Ltd,"7/9 Blackwater Way
+Aldershot
+GU12 4DG
+GBR",200.0,4.0,164,71.28571428571429,164
+1108,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",277.0,22.0,222,243.28571428571428,265
+1109,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",17.0,2.0,7,7.714285714285714,0
+1110,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",208.0,24.0,169,168.42857142857142,0
+1111,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",19.0,1.0,9,12.428571428571429,7
+1112,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",411.0,22.0,331,323.85714285714283,7
+1113,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,1.0,213,213.0,213
+1114,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",352.0,8.0,291,297.42857142857144,309
+1115,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",430.0,19.0,345,342.2857142857143,365
+1116,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+1117,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",170.0,4.0,140,142.85714285714286,140
+1118,Hoddesdon Distribution Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",168.0,5.0,137,116.85714285714286,119
+1119,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",380.0,19.0,309,299.2857142857143,350
+1120,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",371.05,5.0,304,330.57142857142856,304
+1121,Lenham Storage Co Ltd,"Waitrose National Dist Ctre Atkinson Way
+Milton Keynes
+MK17 8FF
+GBR",25.84,1.0,15,82.71428571428571,15
+1122,Salvatori Medway Ltd,"109-111 Lozells Road
+West Midlands
+B19 2TR
+GBR",100.5,3.0,74,194.57142857142858,205
+1123,Salvatori Medway Ltd,"173 Elswick Street Elswick
+Newcastle Upon Tyne
+NE4 6SR
+GBR",115.5,3.0,87,33.857142857142854,92
+1124,Salvatori Medway Ltd,"57 Kind Edwards Road
+Barking
+IG11 7TS
+GBR",117.0,3.0,90,14.571428571428571,92
+1125,Salvatori Medway Ltd,"Dolphin Way Purfleet
+Purfleet
+RM19 1NZ
+GBR",38.0,1.0,25,23.428571428571427,25
+1126,Salvatori Medway Ltd,"Mount Street  Off Bowling Back Lane
+Bradford
+BD4 8TA
+GBR",109.5,3.0,80,23.285714285714285,80
+1127,Hoddesdon Distribution Ltd,"1-3 Stadium ClosePenarth Road
+Cardiff, Wales
+CF11 8TS
+GBR",370.0,5.0,303,105.42857142857143,303
+1128,Hoddesdon Distribution Ltd,"2 Princess Road  West Sussex
+Crawley
+RH11 7BJ
+GBR",140.0,3.0,112,94.57142857142857,140
+1129,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",240.0,14.0,196,163.0,166
+1130,Hoddesdon Distribution Ltd,"5 Rima House, A13 Approach, Ripple Road, 					
+					
+
+Barking
+IG11 0RH
+GBR",260.0,26.0,209,240.71428571428572,209
+1131,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,24.0,276,267.7142857142857,276
+1132,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",116.0,2.0,89,149.0,193
+1133,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",174.0,3.0,143,163.85714285714286,193
+1134,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+1135,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",215.0,15.0,173,170.57142857142858,173
+1136,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",693.0,5.0,400,372.2857142857143,433
+1137,Hoddesdon Distribution Ltd,"Off Silverdale Road Pump Lane
+Hayes
+UB3 3BL
+GBR",270.0,13.0,218,181.57142857142858,187
+1138,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",168.0,5.0,137,136.57142857142858,137
+1139,Hoddesdon Distribution Ltd,"T/A Al Amin Cash & Carry Unit 17 Page Road Sweetbriar Industrial Estate
+Norwhich
+NR3 2BX
+GBR",255.0,5.0,208,45.0,208
+1140,Hoddesdon Distribution Ltd,"UNIT 24
+WHITESTONE BUSINESS PARK 
+
+Middlesbrough
+TS4 2ED
+GBR",480.0,5.94,367,67.71428571428571,367
+1141,Hoddesdon Distribution Ltd,"VIA LEA BRIDGE RD & ARGALL WAY
+LEYTON
+E10 7AS
+GBR",129.0,3.0,102,42.57142857142857,128
+1142,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",163.73,5.0,133,91.57142857142857,79
+1143,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",760.48,24.0,409,318.0,155
+1144,Salvatori Medway Ltd,"19 Mitre Road
+Longsight, Manchester
+M13 0NU
+GBR",100.5,3.0,74,51.57142857142857,184
+1145,Salvatori Medway Ltd,"237 -239 South Road 
+Birmingham
+B18 5JS
+GBR",69.0,2.0,49,108.85714285714286,205
+1146,Salvatori Medway Ltd,"40 Coldhurst Street
+Oldham
+OL1 2BQ
+GBR",130.0,4.0,104,30.142857142857142,104
+1147,Salvatori Medway Ltd,"Unit 15 Hallsford Bridge Ind. Est Stondon Road
+Ongar
+CM5 9RB
+GBR",108.0,3.0,77,58.57142857142857,94
+1148,Salvatori Medway Ltd,"Unit 2 Cliffe Commercial Park Longyoyd Bridge
+Huddersfield
+HD1 3JD
+GBR",100.5,3.0,74,21.285714285714285,74
+1149,Salvatori Medway Ltd,"Unit 2, Derby Shopping Centre
+
+Bolton
+BL3 5BP
+GBR",100.5,3.0,74,38.57142857142857,74
+1150,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",275.0,8.0,221,176.0,158
+1151,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",42.0,1.0,30,77.42857142857143,7
+1152,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",508.0,12.0,372,330.0,7
+1153,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+1154,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,18.0,364,345.7142857142857,364
+1155,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",303.0,18.0,250,237.85714285714286,265
+1156,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Industrial Estate  Clwyd  Wrexham
+Wrexham, Wales
+LL13 9UG
+GBR",460.0,17.0,361,277.42857142857144,361
+1157,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",165.0,3.0,134,235.71428571428572,296
+1158,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",225.0,21.0,184,167.28571428571428,0
+1159,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",380.0,24.0,309,309.0,309
+1160,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",62.0,1.0,43,31.714285714285715,25
+1161,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",928.0,15.0,427,423.14285714285717,25
+1162,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",420.0,15.0,337,319.85714285714283,7
+1163,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",422.0,15.0,338,305.2857142857143,309
+1164,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",465.0,11.0,362,326.2857142857143,365
+1165,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",19.0,1.0,9,5.428571428571429,3
+1166,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",316.0,17.0,263,230.42857142857142,3
+1167,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,11.0,433,420.0,433
+1168,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",17.0,2.0,7,9.571428571428571,3
+1169,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",296.0,18.0,244,226.57142857142858,3
+1170,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",52.0,3.0,39,12.714285714285714,7
+1171,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",393.0,15.0,317,328.7142857142857,7
+1172,Hoddesdon Distribution Ltd,"Quality Foods 34- 62 Staines Road Hounslow
+Hounslow
+TW3 3LZ
+GBR",205.0,6.0,166,92.42857142857143,166
+1173,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",83.0,3.0,57,38.857142857142854,7
+1174,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",111.0,4.0,82,56.714285714285715,7
+1175,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",221.0,8.0,180,109.85714285714286,7
+1176,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",168.0,5.0,137,136.57142857142858,137
+1177,Hoddesdon Distribution Ltd,"Unit 1a River Park Industrial Estate Billet Lane
+Berkhamsted
+HP4 1HL
+GBR",160.0,4.0,128,33.57142857142857,128
+1178,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",416.0,17.29,336,296.42857142857144,350
+1179,DHL Global Forwarding UK Ltd,"3 Avenue de Br?hat Villebon-sur-Yvette 
+91140Essonne
+FRA",750.0,4.0,405,185.14285714285714,405
+1180,Hoddesdon Distribution Ltd,"16 Cornwall Road
+Smethwick
+Birmingham
+Birmingham
+B66 2JS
+GBR",195.0,5.0,158,37.857142857142854,158
+1181,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",330.0,18.0,276,242.85714285714286,276
+1182,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+1183,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",243.18,9.0,201,166.71428571428572,155
+1184,Salvatori Medway Ltd,"Sonali Supermarket Birmingham ltd Lozells Road
+Birmingham
+B192TN
+GBR",100.5,3.0,74,69.71428571428571,205
+1185,Hoddesdon Distribution Ltd,"1 Uxbridge Road Hayes
+hayes
+UB4 0JU
+GBR",240.0,10.0,196,146.0,187
+1186,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,2.0,0,7.714285714285714,0
+1187,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,24.0,168,168.42857142857142,0
+1188,Hoddesdon Distribution Ltd,"Windmill Lane
+Southall
+UB2 4NA
+GBR",186.0,5.0,152,184.28571428571428,237
+1189,Lenham Storage Co Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",278.19,5.0,226,200.14285714285714,258
+1190,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+1191,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",229.4,8.0,186,163.85714285714286,163
+1192,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",81.06,3.0,54,128.0,155
+1193,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",220.87,5.0,179,196.71428571428572,179
+1194,Salvatori Medway Ltd,"675A Mitcham Road
+Croydon
+CR0 3AF
+GBR",41.0,1.0,29,17.714285714285715,29
+1195,Fercam Austria Gmbh,"Schaferhauser Str. 2/2
+73240Wendlingen
+DEU",670.0,25.0,396,314.42857142857144,392
+1196,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",20.0,2.0,10,11.0,364
+1197,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",430.0,21.0,345,328.85714285714283,364
+1198,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",310.0,14.0,257,237.42857142857142,265
+1199,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",200.0,3.0,164,162.0,164
+1200,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",41.0,1.0,29,31.714285714285715,25
+1201,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",949.0,23.0,430,423.7142857142857,25
+1202,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+1203,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",450.0,11.0,355,334.14285714285717,355
+1204,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",366.0,13.0,299,307.85714285714283,309
+1205,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",14.0,1.0,4,5.428571428571429,3
+1206,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",321.0,23.0,266,244.0,3
+1207,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",410.0,24.0,330,315.2857142857143,330
+1208,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",179.89,5.0,148,158.14285714285714,163
+1209,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",321.51,10.0,267,166.57142857142858,309
+1210,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",240.0,13.0,196,237.85714285714286,196
+1211,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,5.0,213,228.14285714285714,213
+1212,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",215.0,13.0,173,170.57142857142858,173
+1213,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",425.0,17.0,341,342.2857142857143,365
+1214,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,7.0,433,412.7142857142857,433
+1215,Hoddesdon Distribution Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",150.0,4.0,119,116.85714285714286,119
+1216,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",396.0,18.0,320,299.2857142857143,350
+1217,Barron Wood Distribution Ltd,"Keurweg 24  
+
+5145NX Waalwijk 
+NLD",495.0,26.0,368,271.85714285714283,368
+1218,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",371.05,6.0,304,330.57142857142856,304
+1219,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",415.02,6.0,335,330.57142857142856,304
+1220,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+1221,Lenham Storage Co Ltd,"Drum Ind Est Chester-Le-Street
+Durham
+DH2 1AE
+GBR",278.18,5.0,225,200.14285714285714,258
+1222,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",109.15,5.0,79,91.57142857142857,79
+1223,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",220.87,6.0,179,202.14285714285714,217
+1224,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",40.0,1.0,28,77.42857142857143,7
+1225,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",600.0,15.0,388,379.14285714285717,7
+1226,Hoddesdon Distribution Ltd,"21 High View Close
+Hamilton Office Park
+Leicester
+LE4 PEX
+GBR",195.0,5.0,158,37.857142857142854,158
+1227,Hoddesdon Distribution Ltd,"49 ramsay street
+Rochdale
+OL16 2BX
+GBR",370.0,5.05,303,58.57142857142857,303
+1228,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",28.0,1.0,18,11.142857142857142,364
+1229,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",442.0,16.0,351,345.7142857142857,364
+1230,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,25.0,364,358.14285714285717,364
+1231,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",420.0,14.0,337,237.42857142857142,265
+1232,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Ind Estate
+Wrexham, Wales
+LL13 9UG
+GBR",445.0,13.0,354,333.57142857142856,354
+1233,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",62.0,1.0,43,31.714285714285715,25
+1234,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",928.0,15.0,427,423.14285714285717,25
+1235,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",51.0,1.0,37,12.428571428571429,7
+1236,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",379.0,16.0,308,319.85714285714283,7
+1237,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",428.0,19.0,343,320.85714285714283,309
+1238,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",475.0,15.0,365,338.57142857142856,365
+1239,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",19.0,3.0,9,10.857142857142858,3
+1240,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",278.0,15.0,224,228.71428571428572,3
+1241,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",16.0,1.0,6,54.57142857142857,3
+1242,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",298.0,19.0,247,226.57142857142858,3
+1243,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",22.0,1.0,12,12.714285714285714,7
+1244,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",423.0,19.0,340,328.57142857142856,7
+1245,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+1246,Hoddesdon Distribution Ltd,"Quality Foods 34- 62 Staines Road Hounslow
+Hounslow
+TW3 3LZ
+GBR",160.0,5.0,128,92.42857142857143,166
+1247,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",104.0,6.0,75,88.71428571428571,7
+1248,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",207.0,6.0,168,88.71428571428571,7
+1249,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",218.84,6.0,176,83.28571428571429,99
+1250,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",324.24,12.0,271,242.71428571428572,155
+1251,Salvatori Medway Ltd,"14 Leofric SquareVicragefarm Road
+Peterborough
+PE1 5TU
+GBR",100.5,3.0,74,31.571428571428573,92
+1252,Salvatori Medway Ltd,"Stonehouse Street Lithorpe
+Middlesborough
+TS5 6HR
+GBR",115.5,3.0,87,24.714285714285715,92
+1253,Salvatori Medway Ltd,"Trading as Quality Foods 49-61 South Road
+Southall
+UB1 1SQ
+GBR",99.0,3.0,71,109.0,119
+1254,Hoddesdon Distribution Ltd,"237 -239 South Road 
+Birmingham
+B18 5JS
+GBR",325.0,13.0,273,230.57142857142858,205
+1255,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",225.0,21.0,184,167.28571428571428,0
+1256,Hoddesdon Distribution Ltd,"Do not use staples in PW Langley Park Chalk Lane
+Sutton Bridge
+PE12 9YF
+GBR",330.0,12.0,276,311.85714285714283,309
+1257,Hoddesdon Distribution Ltd,"Main Warehouse Bays 10 to 13 Gousto C O Bowmans Chilled Stores Camel Gate
+Spalding
+PE12 6HA
+GBR",340.0,8.0,282,315.2857142857143,330
+1258,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",873.0,9.0,418,412.0,433
+1259,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",16.0,1.0,6,54.57142857142857,3
+1260,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,23.0,350,338.2857142857143,350
+1261,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+1262,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",152.81,7.0,122,105.71428571428571,79
+1263,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",189.14,7.0,155,146.42857142857142,155
+1264,Lenham Storage Co Ltd,"Wincanton Elton Head oad
+St Helens
+WA9 5AX
+GBR",261.39,6.0,211,148.0,309
+1265,Salvatori Medway Ltd,"265-269 Linthorpe Road
+Middlesbrough
+TS1 4AS
+GBR",115.5,3.0,87,22.571428571428573,87
+1266,Salvatori Medway Ltd,"7 Solar WayInova Park
+Enfield
+EN3 7XY
+GBR",108.0,3.0,77,65.42857142857143,108
+1267,Salvatori Medway Ltd,"Unit A Trafalgar CentreBelfield Road
+Rochdale
+OL16 2UX
+GBR",100.5,3.0,74,48.57142857142857,74
+1268,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+1269,Hoddesdon Distribution Ltd,"Atlas Wharf Berkshire Road
+London
+E9 5NB
+GBR",265.0,26.0,213,237.85714285714286,196
+1270,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",225.0,25.0,184,172.28571428571428,0
+1271,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",310.0,14.0,257,248.42857142857142,276
+1272,Hoddesdon Distribution Ltd,"Golden House Golden Bus Park Orient Way
+Leyton
+E10 7FE
+GBR",220.0,10.0,178,114.28571428571429,166
+1273,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+1274,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,26.0,354,339.0,7
+1275,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",218.84,6.0,176,152.85714285714286,159
+1276,Lenham Storage Co Ltd,"Unit B Farmwell Lane Castlewood Business Park South Normanton
+Alferton
+NG17 1JF
+GBR",246.08,6.0,203,202.14285714285714,217
+1277,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",594.6,3.65,387,351.0,327
+1278,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",275.0,7.0,221,176.0,158
+1279,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",550.0,10.0,379,179.71428571428572,7
+1280,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,17.0,364,345.7142857142857,364
+1281,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",320.0,26.0,265,249.42857142857142,164
+1282,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",990.0,18.0,434,419.7142857142857,25
+1283,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",430.0,19.0,345,311.42857142857144,7
+1284,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",19.0,2.0,9,12.285714285714286,3
+1285,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",271.0,21.0,220,235.57142857142858,3
+1286,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",297.0,17.0,245,230.42857142857142,3
+1287,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",28.0,2.0,18,9.571428571428571,3
+1288,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",288.0,20.0,235,222.28571428571428,3
+1289,Hoddesdon Distribution Ltd,"Regional Distribution center 7502 Norman Road Belvedere
+Bexley
+DA17 6JY
+GBR",200.0,8.0,164,107.85714285714286,164
+1290,Hoddesdon Distribution Ltd,"Wag Hardwick Grange
+Willston
+WA1 4RJ
+GBR",370.0,5.0,303,303.0,303
+1291,Lenham Storage Co Ltd,"401 Edinburgh Road Newhouse  Motherwell  North Lanarkshire
+Motherwell
+ML1 5GH
+GBR",477.85,8.0,366,352.2857142857143,304
+1292,DHL Express Ltd,"3 Avenue de Br?hat Villebon-sur-Yvette 
+91140Essonne
+FRA",695.0,5.0,401,124.71428571428571,401
+1293,Hoddesdon Distribution Ltd,"44 Watts Grove
+Bow
+E3 3RE
+GBR",205.0,8.0,166,132.28571428571428,166
+1294,Hoddesdon Distribution Ltd,"5 Solar Way Innova Park
+Enfield
+EN3 7XY
+GBR",180.0,5.0,149,149.0,149
+1295,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",294.0,26.0,242,251.14285714285714,265
+1296,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",320.0,26.0,265,251.14285714285714,265
+1297,Hoddesdon Distribution Ltd,"Berkshire Road London
+London
+E9 5NB
+GBR",160.0,5.0,128,33.57142857142857,128
+1298,Hoddesdon Distribution Ltd,"Do not use staples in PW Laburnum Farm Old Leake 
+Boston
+PE22 9PN
+GBR",235.0,3.0,193,163.85714285714286,193
+1299,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",14.0,1.0,4,45.714285714285715,173
+1300,Hoddesdon Distribution Ltd,"Hailey Rd. Business Park
+Erith
+DA18 4AR
+GBR",201.0,14.0,165,170.57142857142858,173
+1301,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",450.0,26.0,355,331.42857142857144,309
+1302,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",475.0,25.0,365,354.42857142857144,365
+1303,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",19.0,5.0,9,16.0,3
+1304,Hoddesdon Distribution Ltd,"Manchester Superstore, Florence St, 
+Bradford
+BD3 8EX
+GBR",165.0,3.0,134,10.857142857142858,92
+1305,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",970.0,14.0,433,421.0,433
+1306,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",14.0,1.0,4,54.57142857142857,3
+1307,Hoddesdon Distribution Ltd,"Penzance Drive Churchward Park
+Swindon
+SN5 7JF
+GBR",295.0,5.0,243,243.0,243
+1308,Hoddesdon Distribution Ltd,"Unit 19 Small HeathTrading Estate Armoury Road
+Birmingham
+B11 2RJ
+GBR",162.0,4.0,129,33.714285714285715,129
+1309,Hoddesdon Distribution Ltd,"VIA LEA BRIDGE RD & ARGALL WAY
+LEYTON
+E10 7AS
+GBR",145.0,3.79,115,48.714285714285715,128
+1310,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,42.0,350,350.0,350
+1311,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",267.03,9.0,215,154.71428571428572,159
+1312,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",385.95,15.0,312,241.57142857142858,155
+1313,Salvatori Medway Ltd,"Unit 8198 Camford Way
+Luton
+LU33AN
+GBR",108.0,3.0,77,44.714285714285715,92
+1314,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",26.0,1.0,16,11.142857142857142,364
+1315,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",444.0,18.0,353,345.7142857142857,364
+1316,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,26.0,364,358.14285714285717,364
+1317,Hoddesdon Distribution Ltd,"A Division of Samworth Brothers Limited- Oak Spinney Park Ratby Lane Forest East
+Leicester
+LE3 3JZ
+GBR",210.0,2.0,170,58.714285714285715,187
+1318,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",306.0,22.0,254,243.28571428571428,265
+1319,Hoddesdon Distribution Ltd,"Ash Road South Wrexham Industrial Estate  Clwyd  Wrexham
+Wrexham, Wales
+LL13 9UG
+GBR",460.0,18.0,361,279.2857142857143,361
+1320,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",22.0,1.0,12,122.85714285714286,164
+1321,Hoddesdon Distribution Ltd,"Cob Drive Swan Valley
+Northampton
+NN4 9BB
+GBR",288.0,13.0,235,228.0,164
+1322,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",18.0,2.0,8,7.714285714285714,0
+1323,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",207.0,24.0,168,168.42857142857142,0
+1324,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",990.0,21.0,434,419.2857142857143,25
+1325,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",430.0,21.0,345,321.7142857142857,7
+1326,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",433.0,25.0,347,331.42857142857144,309
+1327,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",475.0,18.0,365,342.2857142857143,365
+1328,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",17.0,1.0,7,5.428571428571429,3
+1329,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",50.0,3.0,36,10.857142857142858,3
+1330,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",268.0,17.0,216,230.42857142857142,3
+1331,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",16.0,2.0,6,9.571428571428571,3
+1332,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",298.0,20.0,247,222.28571428571428,3
+1333,Hoddesdon Distribution Ltd,"Mr Shabir Ahmed36 Park Road Oldham
+Oldham
+OL8 1DB
+GBR",225.0,4.0,184,80.71428571428571,92
+1334,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,24.0,354,330.57142857142856,7
+1335,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",75.0,3.0,50,38.857142857142854,7
+1336,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",150.0,6.0,119,88.71428571428571,7
+1337,Hoddesdon Distribution Ltd,"Rockingham Way Redhouse Interchange
+Doncaster
+DN6 7FB
+GBR",200.0,8.0,164,109.85714285714286,7
+1338,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",168.0,5.0,137,136.57142857142858,137
+1339,Hoddesdon Distribution Ltd,"Unit 2, Derby Shopping Centre
+
+Bolton
+BL3 5BP
+GBR",158.0,3.0,126,38.57142857142857,74
+1340,Hoddesdon Distribution Ltd,"Unit 6
+Drome Road
+
+Deeside
+CH5 2NY
+GBR",310.0,4.0,257,17.571428571428573,92
+1341,Hoddesdon Distribution Ltd,"Unit8 Anchor Business Park Featherstall Road North
+Oldham
+OL9 6AZ
+GBR",330.0,8.0,276,99.85714285714286,276
+1342,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",440.0,26.0,350,350.0,350
+1343,Lenham Storage Co Ltd,"Murrayfield Road  Braunstone Frith Ind Estate   
+Leicester
+LE3 1UW
+GBR",126.51,3.0,99,83.28571428571429,99
+1344,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",189.14,7.0,155,146.42857142857142,155
+1345,Hoddesdon Distribution Ltd,"169 Ettingshall Road
+Wolverhampton
+WV2 2RB
+GBR",325.0,15.0,273,223.85714285714286,158
+1346,Hoddesdon Distribution Ltd,"730 Oxford Road,
+Reading
+RG30 1EH
+GBR",250.0,6.0,205,44.57142857142857,205
+1347,Hoddesdon Distribution Ltd,"Hilbert House
+New Street
+
+Manchester
+M40 8AW
+GBR",330.0,6.0,276,171.14285714285714,276
+1348,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",842.0,17.0,416,423.2857142857143,433
+1349,Hoddesdon Distribution Ltd,"Newhouse Farm Ind Est
+Chepstow
+NP6 6UD
+GBR",445.0,26.0,354,339.0,7
+1350,Hoddesdon Distribution Ltd,"Quality Foods 34- 62 Staines Road Hounslow
+Hounslow
+TW3 3LZ
+GBR",160.0,5.0,128,92.42857142857143,166
+1351,Hoddesdon Distribution Ltd,"Sonali Supermarket Birmingham ltd Lozells Road
+Birmingham
+B192TN
+GBR",250.0,6.0,205,72.14285714285714,205
+1352,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",280.0,4.0,228,238.71428571428572,350
+1353,Lenham Storage Co Ltd,"Andover Business Park Pioneer Road
+Andover
+SP11 8EZ
+GBR",124.75,5.0,96,103.14285714285714,96
+1354,Lenham Storage Co Ltd,"Oliver Road
+West Thurrock
+RM20 3EN
+GBR",152.81,7.0,122,105.71428571428571,79
+1355,Lenham Storage Co Ltd,"Rutherford Drive Park Farm
+South Wellingborough
+NN8 6AQ
+GBR",229.4,8.0,186,163.85714285714286,163
+1356,DHL Express Ltd,"1 avenue de Brehat
+91140Villebon-sur-Yvette
+FRA",750.0,5.0,405,73.14285714285714,405
+1357,Hoddesdon Distribution Ltd,"Booth Drive Parkfarm Ind. Estate    Wellingborough  Northants
+Wellingborough
+NN8 6GR
+GBR",145.0,3.0,115,33.142857142857146,81
+1358,Hoddesdon Distribution Ltd,"c/o DHL Foxhills Ind Est
+Scunthorpe
+DN159YA
+GBR",450.0,18.0,355,332.57142857142856,296
+1359,Hoddesdon Distribution Ltd,"Cameron Wood  Nettlehill Rd Houston Industrial Estate
+LIVINGSTON
+EH54 5DL
+GBR",600.0,5.0,388,231.0,388
+1360,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",9.0,2.0,0,7.714285714285714,0
+1361,Hoddesdon Distribution Ltd,"Crossways Business Park Galleon Boulevard
+Dartford
+DA2 6QL
+GBR",208.0,24.0,169,168.42857142857142,0
+1362,Hoddesdon Distribution Ltd,"Davy Close Park Farm Ind Est
+Wellingborough
+NN8 6XX
+GBR",310.0,14.0,257,248.42857142857142,276
+1363,Hoddesdon Distribution Ltd,"HAYDOCK IND EST HAYDOCK
+St Helens
+WA11 9WD
+GBR",450.0,11.0,355,334.14285714285717,355
+1364,Lenham Storage Co Ltd,"Popular Way West Cabot park Avonmouth  Bristol
+Bristol
+BS11 0YW
+GBR",196.26,5.0,159,161.42857142857142,159
+1365,Lenham Storage Co Ltd,"Unit 2D Central Boulevard Prologis Park    Coventry
+Coventry
+CV6 4BX
+GBR",162.12,6.0,130,128.0,155
+1366,Roche freight Ireland Ltd,"Killamonan Road The Ward Co.Dublin
+Co dublin
+DublinDublin
+IRL",414.0,2.44,333,279.42857142857144,327
+1367,Salvatori Medway Ltd,"Upper Thomas Street
+Aston
+Birmingham
+B6 5AD
+GBR",100.5,3.0,74,122.85714285714286,205
+1368,Hoddesdon Distribution Ltd,"2 Mandarin Way Pattison Ind. Estate District 15
+Washington
+NE38 8QA
+GBR",550.0,14.0,379,379.14285714285717,7
+1369,Hoddesdon Distribution Ltd,"7 Distribution Center 7500 Skyline Drive
+Warrington
+WA5 3TP
+GBR",470.0,18.0,364,345.7142857142857,364
+1370,Hoddesdon Distribution Ltd,"Earlsgate Park Earls Road   Grangemouth  Stirlingshire
+Stirlingshire
+FK3 8UZ
+GBR",990.0,18.0,434,419.7142857142857,25
+1371,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",21.0,1.0,11,12.428571428571429,7
+1372,Hoddesdon Distribution Ltd,"Foxbridge Way Off Pontefract Road Normanton
+Wakefield
+WF6 1TN
+GBR",409.0,19.0,329,311.42857142857144,7
+1373,Hoddesdon Distribution Ltd,"Greencore Food to go Spalding Wardentree Lane Pinchbeck
+Spalding
+PE11 3UY
+GBR",200.0,2.0,164,33.0,164
+1374,Hoddesdon Distribution Ltd,"Greencore Prepared Foods Hownsgill Park Consett Co. Durham
+Co Durahm
+DH8 7NU
+GBR",540.0,10.0,378,325.2857142857143,378
+1375,Hoddesdon Distribution Ltd,"Magna Park A5 Watling Street
+Lutterworth
+LE17 4QU
+GBR",335.0,19.0,279,235.57142857142858,3
+1376,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",16.0,1.0,6,54.57142857142857,3
+1377,Hoddesdon Distribution Ltd,"Milton Park Milton
+Abingdon
+OX14 4TF
+GBR",314.0,22.0,260,231.0,3
+1378,Hoddesdon Distribution Ltd,"South bridge way The Green
+Southall
+UB2 4AX
+GBR",210.0,6.0,170,136.57142857142858,137
+1379,Hoddesdon Distribution Ltd,"Altendiez Way
+Burton Latimer
+NN15 5YT
+GBR",304.0,19.0,251,237.85714285714286,265
+1380,Hoddesdon Distribution Ltd,"K ing St Rudheath (A556/A533)
+Northwich
+CW9 7WA
+GBR",333.0,7.0,277,297.42857142857144,309
+1381,Hoddesdon Distribution Ltd,"Kings Road
+Bridgwater
+TA6 4FG
+GBR",423.0,10.0,340,329.2857142857143,365
+1382,Hoddesdon Distribution Ltd,"Melford Road Righead Industrial Estate
+Bellshill
+ML4  3QD
+GBR",554.0,4.0,381,372.2857142857143,433
+1383,Hoddesdon Distribution Ltd,"T/A IqbroUnit 3 C Button End Industrial Estate Button End
+Harston
+CB22 7GX
+GBR",200.0,5.0,164,142.85714285714286,140
+1384,Hoddesdon Distribution Ltd,"Wakefield 41 Ind Est
+Wakefield
+WF2 0XF
+GBR",411.0,14.0,331,314.14285714285717,350
+1385,Hoddesdon Distribution Ltd,"Furnham Rd
+Chard
+TA20 1AA
+GBR",265.0,3.0,213,213.0,213

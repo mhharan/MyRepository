@@ -1,0 +1,1392 @@
+CardNo,EmployeeName,Location,Department,Designation,TACategory,CTC,Age
+1765,K. VISHWANATHAN,Noida,ESC-Head,Business Head,II,92.52,63.00
+3208,MAHESH GUPTA,Noida,Material Common Service,Head,II,95.22,57.00
+1510,P.V. NARASIMHA  SANJAY,Noida,EPC-Head of Division,Head,II,95.22,55.00
+0037,ASHOK DUTTA,Noida,SMD-Proposal Engg Department,Assistant General Manager,V,29.89,67.00
+1762,SUMAN KUMAR JAIN,Noida,FGD-Head of Division,Head,I,94.86,55.00
+5141,LAZAR PILLI,Noida,H R Department-HO,Head,II,93.42,59.00
+0022,V.K.LUTHRA,Noida,IBD1-Head of Division,Head,II,89.51,60.00
+0325,YOGESH MARWAHA,Noida,Export Marketing Department,Head,II,85.89,55.00
+5009,KISHORE CHATNANI,Noida,Accounts Department-HO,Head,II,85.63,54.00
+5233,VIPIN  KUMAR,Noida,System Department,Head,II,81.00,54.00
+5147,SHALABH SINGH,Noida,Corporate Business Development,Business Head,II,67.68,53.00
+5206,BHUPINDER KUMAR MALIK,Noida,Accounts Department-IJT,Sr. Vice President,III,61.34,54.00
+1241,SANJAY AWASTHI,Noida,SMD-Head of Division,Head,II,85.58,52.00
+1846,JAYARAMAN RAJAVEL,Noida,GEBD-Proposal Engg Department,Sr. Vice President,IIIA,56.55,53.00
+0122,ANUJ SACHDEVA,Noida,Accounts Department-IJT,Executive I,VIII,11.76,49.00
+0321,NIRANJAN R. SHASTRY,Noida,IBD1-Marketing Department,Sr. Vice President,IIIA,56.16,56.00
+0290,A.K. SUBRAMANIAN,Noida,Export Marketing Department,Sr. Vice President,IIIA,53.46,63.00
+2258,AMIT SURESH CHANDRA  JAIN,Noida,Quality Department,Sr. Vice President,IIIA,51.20,53.00
+0482,J. K. KHARBANDA,Noida,EM-MCL,Sr. Vice President,IIIA,50.98,66.00
+1239,SHRINIWAS SATYAPARAK,Pune,SMD-Marketing Dept-Pune,Associate Vice President,IV,43.01,57.00
+0861,SUNIL KUMAR GUPTA,Noida,ESC- Structural,Associate Vice President,IIIB,42.43,54.00
+0016,ALOK C KAURA,Noida,Commercial Department,Sr. Vice President,IIIA,50.60,64.00
+0144,PAWAN KUMAR,Noida,ESC- Mechanical,Assistant Manager,VII,13.22,52.00
+0147,CHANDRA  PRAKASH  VARUN,Noida,ESC- Structural,Senior Manager,VI,22.21,48.00
+0148,NAVEEN KUMAR,Noida,ESC- Structural,Manager,VII,19.13,50.00
+0150,SUSHIL KUMAR SAXENA,Noida,APCE-ESC- Mechanical,Deputy Manager,VII,13.74,50.00
+0156,N.SUDHAKARAN,Noida,General Secretary's Office,Contractual,VIII,14.40,120.00
+0057,SANJIV KUMAR MAKKAR,Noida,IBD1-Contracts Department,Sr. Vice President,IIIA,49.43,50.00
+2110,SUDHIR KUMAR NATHANI,Noida,Commercial Department,Associate Vice President,IV,38.21,54.00
+2532,AMIT SHANKER,Noida,SMD-After Sales,Associate Vice President,IIIB,37.68,53.00
+3004,PARMANAND RANAKOTI,Noida,Commercial Department,General Manager,IV,37.46,58.00
+0054,N.K.SHARMA,Noida,EM-ECL,General Manager,IV,35.72,58.00
+0180,VED PRAKASH,Noida,SMD-Contracts Department,Deputy Manager,VII,15.95,50.00
+0199,GANGADHARAN K.,Noida,GEBD-Proposal Engg Department,Officer-III,IX,9.05,50.00
+3075,SHEETAL DESHMUKH,Noida,EPC-Construction Department,Deputy General Manager,V,35.06,53.00
+0216,PRABIN KR. BEHURIA,Noida,Accounts Department-IJT,Officer-I,VIII,11.38,51.00
+0218,DHIRENDER SINGH RAWAT,Noida,Accounts Department-IJT,Executive I,VII,14.67,46.00
+0219,GYAN CHAND,Noida,EM-PRO,Assistant Officer,IX,7.91,52.00
+1903,B. KRISHNA KUMAR,Noida,FGD-Marketing Department,General Manager,IV,34.94,55.00
+1356,RAMASWAMY  HARI SHANKAR,Noida,Quality Department,General Manager,IV,34.88,59.00
+2510,YOGESH MALIK,Noida,SMD-Contracts Department,General Manager,IV,34.83,58.00
+1413,RAJESH   KUMAR SRIVASTAVA,Noida,EM-PRO,General Manager,IV,34.70,53.00
+0229,RAM NIWAS SHARMA,Noida,Commercial Department,Officer-III,VIII,9.00,44.00
+0042,MALAY DHAR,Noida,ESC- Piping,General Manager,IV,33.57,59.00
+3069,RAJIV WATTAL,Noida,EPC-Marketing Department,Associate Vice President,IIIB,32.33,57.00
+5014,J C MONGIA,Noida,Import Department,General Manager,IV,32.03,60.00
+2829,VINAYAK PRABHAKAR MO,Noida,SMD-Contracts Department,General Manager,IV,31.61,58.00
+0252,P.RISHI KUMAR,Noida,Accounts Department-IJT,Officer-I,VIII,10.47,49.00
+0273,SURENDRA KUMAR  SHARMA,Noida,GEBD-Material Department,Junior Assitant,XII,1.82,52.00
+0040,KUL BHUSHAN MADAN,Noida,Boiler Supply Chain Management,Deputy General Manager,V,30.99,58.00
+0295,N. BALASUBRAMANIAN,Noida,ESC- Mechanical,General Manager,IV,32.44,45.00
+3691,RAJNESH KUMAR TYAGI,Site,EPC-Construction Department,Assistant General Manager,V,27.32,54.00
+0075,V.D.SHARMA,Noida,SMD-Contracts Department,Assistant General Manager,V,27.08,60.00
+3207,VIJAY MALIK,Noida,Quality Department,Assistant General Manager,V,26.89,56.00
+2683,J. SHRIKANT,Noida,Export Marketing Department,Vice President,IIIB,46.89,51.00
+0330,VEENA RANI,Noida,System Department,Assistant General Manager,V,26.57,47.00
+3401,SANJIV  KUMAR,Site,EPC-Construction Department,Assistant General Manager,V,26.69,55.00
+0357,SWAPAN KR.  BHATTACHARJEE,Site,CONS-Erection Department,Assistant General Manager,V,28.40,61.00
+1709,MAHAVIR SURENDRA KININGE,Pune,SMD-ESC- Piping-Pune,Deputy General Manager,V,26.33,55.00
+0381,VIVEK GUPTA,Noida,CONS-Erection Department,Deputy General Manager,V,28.63,51.00
+2299,BALAKRISHNAN  RAJAMANI,Chennai,Chennai Proposal-EPC,Vice President,IIIB,46.67,50.00
+0389,VINAY RATHI,Noida,ESC- Mechanical,Senior Engineer,VIII,10.96,45.00
+0079,VIKAS GANDHI,Noida,SMD-Contracts Department,Vice President,IIIB,46.40,51.00
+0439,KISHOR  DIGAMBAR BHOSALE,Noida,Export Marketing Department,General Manager,V,33.15,46.00
+0477,I. CHOUDHARY,Noida,Quality Department,Manager,VI,20.35,46.00
+0479,NARESH ARORA,Noida,SMD-Material Department,Officer-I,VIII,10.03,41.00
+0480,HARDEO SAFI,Site,CONS-Erection Department,Manager,VI,17.55,52.00
+0036,A. SAJJAN,Noida,ESC- C&I,Vice President,IIIB,46.72,57.00
+0495,SANJAY GARG,Noida,GEBD-Material Department,Deputy General Manager,IV,31.10,50.00
+0498,VED PRAKASH,Noida,ESC- Mechanical,Assistant Manager,VII,12.94,48.00
+0516,JAYARAJ NATRAJAN,Site,CONS-Erection Department,Manager,VII,17.76,44.00
+0521,VINAY KUMAR TRIPATHI,Noida,Quality Department,Deputy Manager,VII,16.23,48.00
+0544,PRASHANT SAINI,Noida,ESC- C&I,Senior Manager,VI,22.49,38.00
+0552,NARESH KUMAR GOYAL,Noida,ESC- Electrical,Assistant General Manager,IV,24.59,51.00
+0056,KAILASH CHANDRA  BELWAL,Noida,GEBD-Contracts Department,Vice President,IIIB,45.90,50.00
+0565,A MUTHUKRISHNAN,Chennai,Chennai Proposal-EPC,Senior Manager,VI,21.45,38.00
+0586,V.G. SANTHOSH KUMAR,Site,CONS-Erection Department,Deputy Manager,VII,15.83,44.00
+0588,DOJI RAM,Noida,EM-MCL,Assistant Manager,VIII,12.09,50.00
+0590,GAURAV SARASWAT,Noida,SMD-Marketing Department,Assistant Design Controller,VII,11.76,35.00
+3645,GONGITI VISWA PRASAD,Chennai,EPC-Proposal Engg  Department,Assistant General Manager,V,25.96,55.00
+0592,SACHIN KUMAR GUPTA,Noida,Finance Department,Associate Vice President,IV,40.96,47.00
+0619,RAKESH KUMAR,Noida,Accounts Department-IJT,Officer-II,VIII,8.63,42.00
+0620,MOHD. ANWAR SAIFI,Site,Quality Department,Manager,VI,21.42,48.00
+0627,SANDEEP KUMAR TOMAR,Noida,ESC- Structural,Designer,VIII,8.03,36.00
+0631,LAKSHMI KANT PANDEY,Noida,ESC- Mechanical,Assistant Design Controller,VII,11.33,40.00
+0633,SANTOSH RAM,Noida,ESC- Mechanical,Designer,IX,7.90,32.00
+0635,AMIT KUMAR NIRWAN,Noida,ESC- Mechanical,Engineer-II,IX,8.72,38.00
+0636,DANIEL  MATHEW,Noida,ESC- Structural,Assistant Engineer,IX,6.73,37.00
+0638,ROBIN SAURAV,Noida,ESC- Mechanical,Assistant Engineer,IX,7.16,37.00
+0639,HARISH KUMAR,Noida,ESC- Mechanical,Assistant Manager,VII,12.42,36.00
+0649,K. RAJAVELU,Site,CONS-Erection Department,Manager,VII,18.68,46.00
+0654,VINOD MAMGAIN,Noida,ESC- Structural,Engineer-II,IX,8.32,40.00
+0657,RAJPAL SINGH,Noida,ESC- Piping,Deputy Manager,VII,14.60,37.00
+0668,SAJI KUMAR M.S,Noida,ESC- Structural,Assistant Manager,VII,13.52,43.00
+0674,ASHOK VERMA,Noida,EM-MCL,Assistant General Manager,V,28.04,62.00
+0679,B.S. VENKATA RAMUDU,Noida,ESC- Mechanical,Deputy Manager,VII,14.27,47.00
+0691,ANIRBAN GUHA,Noida,IBD1-Contracts Department,Deputy General Manager,V,29.01,47.00
+0693,K.V.S. NARAYANA,Noida,ESC- Mechanical,Senior Engineer,VIII,11.31,45.00
+0705,KHAJA PASHA,Noida,GEBD-Proposal Engg Department,Assistant Manager,VII,13.10,40.00
+0713,MUNISH KUMAR,Noida,GEBD-Contracts Department,General Manager,IV,32.86,48.00
+0719,A. NANDA KUMAR,Noida,Quality Department,Assistant Manager,VIII,14.68,39.00
+0728,C. ARUN KUMAR,Pune,EPC Material Handling-Pune,Senior Manager,VII,19.99,39.00
+0730,AKHILESWAR SINGH,Site,CONS-Erection Department,Deputy Manager,VII,13.09,48.00
+0737,MRINAL DEBNATH,Noida,CONS-Commissioning Department,Assistant Manager,VIII,12.69,37.00
+0742,VINOD KUMAR,Noida,Estimation Department,Designer,IX,8.07,40.00
+0746,NAVEEN CHANDRA VERMA,Noida,IBD1-Contracts Department,Assistant General Manager,VI,23.92,38.00
+0747,G. SIREESH BABU,Noida,Quality Department,Manager,VII,19.26,43.00
+0760,ANKIT SINGHAL,Noida,GEBD-Material Department,Officer-III,IX,8.00,35.00
+0762,NAVEEN KUMAR  UPADHYAY,Noida,EM-C&I,Senior Engineer,VIII,10.47,42.00
+0765,ROOP LAL,Noida,CONS-Erection Department,Manager,VII,19.94,42.00
+0772,ARUN TEWARI,Noida,GEBD-Proposal Engg Department,General Manager,IV,36.77,48.00
+0775,PIYUSH JAIN,Noida,GEBD-Material Department,Deputy General Manager,IV,28.02,47.00
+0778,RAKESH KUMAR,Noida,EM-MCL,Designer,IX,8.78,37.00
+0779,MANISH CHOUDHARY,Noida,EM-MCL,Assistant Engineer,IX,7.25,39.00
+0782,SATYAPAL,Noida,EM-MCL,Designer,IX,8.12,37.00
+0783,SHIV CHARAN SINGH,Noida,SMD-Contracts Department,Manager,VI,18.14,45.00
+0789,AVINASH KANT,Noida,Boiler Supply Chain Management,Senior Manager,VI,20.03,49.00
+0793,DHEERAJ KUMAR RAI,Noida,ESC- C&I,Assistant Engineer,IX,6.64,37.00
+0797,KIRAN KUMAR SINGH,Noida,ESC- Electrical,Designer,VIII,8.10,37.00
+0800,ANIL KUMAR SINGH,Site,CONS-Erection Department,Senior Manager,VI,21.20,51.00
+0807,SUDHAKANT JHA,Noida,SMD-Construction Department,Engineer-II,VIII,9.68,44.00
+0820,DEVENDRA KUMAR SINGH,Noida,ESC- Piping,Senior Manager,VII,18.59,47.00
+0823,V. SADEESH KUMAR,Noida,ESC- Mechanical,Assistant Manager,VIII,12.97,39.00
+0830,KIRTI KUMAR,Site,CONS-Erection Department,Assistant Manager,VII,11.12,33.00
+0841,SHIV KUMAR,Site,CONS-Erection Department,Assistant Manager,VIII,11.43,32.00
+0846,SHASHIKANT PATTAR,Noida,CONS-Erection Department,Manager,VII,21.16,38.00
+0856,PANKAJ KUMAR PATHAK,Site,Quality Department,Senior Manager,VI,23.41,48.00
+0860,ANAND T. P.,Noida,ESC- C&I,Deputy Manager,VII,14.31,37.00
+0069,RAKESH KUMAR,Noida,SMD-Contracts Department,Deputy General Manager,V,25.89,60.00
+0877,DINESH DHRUV,Site,CONS-Erection Department,Deputy Manager,VII,15.86,38.00
+0881,PRAMOD KUMAR,Noida,ESC- Mechanical,Engineer-II,VIII,9.36,38.00
+0885,DINESH KUMAR BARGURJ,Noida,ESC- Mechanical,Design Associate I,IX,6.50,31.00
+0895,DALIP KUMAR,Noida,ESC- Piping,Assistant Engineer,IX,6.70,34.00
+0896,PRAVESH KUMAR,Noida,ESC- Piping,Deputy Manager,VIII,13.62,45.00
+0898,PREMVEER YADAV,Noida,EPC-Contracts Department,Junior Officer,IX,6.36,44.00
+2688,SATYA SANTA BASU ROY,Noida,Boiler-Operation & Maintenance,Manager,VI,25.61,56.00
+0908,K.R. HARISUBRASH   MALLEESWAR,Noida,EPC-ESC- Project Engg Management- Chennai,Manager,VI,20.07,40.00
+0923,NEERAJ MISHRA,Noida,SMD-Contracts Department,Senior Manager,V,19.32,38.00
+0952,SUNIL KUMAR KUSHWAHA,Site,CONS-Erection Department,Deputy Manager,VII,15.63,40.00
+0955,MUKESH KUMAR,Noida,ESC- Structural,CHECKER I,VIII,9.84,41.00
+0958,AJAY KUMAR,Noida,GEBD-Material Department,Assistant Manager,VII,13.72,46.00
+0965,ALOK SAXENA,Noida,ESC- Electrical,Deputy Manager,VII,17.45,45.00
+0975,V. Y. JOGLEKAR,Site,EPC-Construction Department,Assistant General Manager,V,23.19,62.00
+0980,RAHUL SHARMA,Noida,ESC- Structural,CHECKER I,VIII,9.54,39.00
+0985,VIKASH KUMAR,Noida,ESC- Structural,Engineer-II,IX,8.51,43.00
+0987,R. LENIN,Noida,ESC-Automation,Assistant Manager,VIII,13.51,41.00
+0988,G. KUMAR,Noida,ESC- Mechanical,Senior Engineer,VIII,11.64,40.00
+0990,P. SURESH BABU,Noida,ESC- Mechanical,Engineer-II,VIII,9.14,37.00
+2093,DHIRENDRA SINGH   BISHT,Noida,System Department,Assistant General Manager,V,24.63,55.00
+0996,HIRA SINGH,Noida,CONS-Erection Department,Assistant Officer,IX,9.53,46.00
+1006,ATUL SINGH,Noida,EM-MCL,Assistant Design Controller,VII,12.38,42.00
+1008,H. N. SHARMA,Noida,GEBD-Material Department,Officer-III,IX,9.34,52.00
+0555,SHISHIR SAXENA,Noida,CONS-Commissioning Department,Vice President,IIIB,45.60,50.00
+1013,MARUTI MANE,Noida,ESC- Mechanical,Senior Engineer,VIII,10.35,42.00
+1027,BISHAN SINGH KHOLIYA,Noida,EM-MCL,Assistant Design Controller,VIII,11.29,46.00
+1032,SARVJEET CHAUDHRY,Noida,IBD1-Contracts Department,Senior Engineer,VIII,10.89,39.00
+1042,G.S. PECHIMUTHU,Noida,Quality Department,Deputy Manager,VII,12.33,38.00
+1046,S. VINOTH KUMAR,Noida,ESC- Mechanical,Engineer-II,IX,8.65,36.00
+1051,M. SUGUMAR,Site,CONS-Commissioning Department,Assistant Manager,VII,14.42,45.00
+1057,A. N. KANNAN,Chennai,Boiler-ESC- Mechanical-Chennai,Assistant Manager,VIII,12.83,35.00
+1059,AVINASH SINGH  KAUSHIK,Noida,Export Marketing Department,Manager,VI,16.97,37.00
+1071,SIDDHARTH MAHAJAN,Noida,GEBD-Contracts Department,Manager,VI,18.26,38.00
+1100,VINAY KUMAR SINGH,Site,Safety Department,Assistant Manager,VIII,12.01,51.00
+1101,RAJESH SINGLA,Noida,EPC-Marketing Department,Deputy General Manager,IV,30.40,47.00
+1103,MANISH TRIPATHI,Noida,CONS-Erection Department,Assistant General Manager,V,27.41,46.00
+1119,R. M. VELMURUGAN,Chennai,EPC-ESC- Mechanical-Chennai,Assistant General Manager,V,25.21,43.00
+1123,ANEESH P.M.,Site,Quality Department,Deputy Manager,VII,16.50,37.00
+1134,S. CHANDRA SEKARAN,Chennai,Boiler-ESC- Mechanical-Chennai,CHECKER I,VIII,10.26,37.00
+1136,R. G. PADMANATHAN,Chennai,EPC-ESC- Mechanical-Chennai,Assistant Manager,VII,14.68,46.00
+1138,PRAMESH KUMAR JAIN,Noida,CONS-Commissioning Department,Manager,VI,18.86,44.00
+1141,K. SOMA SUNDRAM,Chennai,Boiler-ESC- Mechanical-Chennai,Senior Engineer,VIII,11.32,40.00
+1142,ROHIT KUMAR  SHRIVASTAVA,Noida,IBD1-Proposal Engg Department,Deputy Manager,VII,16.47,36.00
+1143,H.S. SATHISH CHANDRA,Site,CONS-Erection Department,Assistant Manager,VIII,13.30,50.00
+1147,YALAVARTHI SREEKANTH,Chennai,Boiler-ESC- Mechanical-Chennai,Manager,VII,18.64,46.00
+0340,LALIT GUPTA,Noida,System Department,Assistant General Manager,V,23.81,49.00
+1162,L. GUNASEKARAN,Noida,GEBD-Proposal Engg Department,Deputy General Manager,V,26.84,40.00
+1166,PATIL DATTATRAYA   GAPATRAO,Noida,SMD-Construction Department,Manager,VII,20.89,42.00
+1170,R. ARUN KUMAR,Chennai,Boiler-ESC- Mechanical-Chennai,Manager,VII,20.78,37.00
+1175,K. ELUMALAI,Chennai,Boiler-ESC- Mechanical-Chennai,Assistant Manager,VII,13.21,48.00
+1178,RAJEEV KUMAR TYAGI,Noida,ESC- Piping,Assistant Manager,VIII,11.05,46.00
+1180,VIJENDER SINGH,Site,SMD-Construction Department,Senior Engineer,VIII,11.85,37.00
+1184,KAPIL KUMAR,Site,CONS-Erection Department,Assistant Engineer,IX,6.80,35.00
+1186,DEEN DAYAL,Noida,ESC- Piping,Engineer-II,IX,7.67,44.00
+1201,S. PRABAKARAN,Noida,Quality Department,Deputy Manager,VII,15.82,37.00
+1202,M. RAJESH KUMAR,Chennai,Boiler-ESC- Mechanical-Chennai,CHECKER I,VIII,10.12,37.00
+1204,VIPUL JAIN,Noida,Quality Department,Manager,VII,21.35,42.00
+1206,PRADEEP KUMAR PANDEY,Noida,ESC- C&I,Senior Manager,V,21.87,37.00
+1211,NARESH KUMAR JINDAL,Noida,IBD1-Marketing Department,Manager,VII,18.95,39.00
+1215,A. SHANMUGAM,Noida,GEBD-Proposal Engg Department,Senior Engineer,VIII,11.32,37.00
+1216,P. LOGANATHAN,Site,Quality Department,Deputy Manager,VII,16.34,35.00
+1217,C. JAGADEESHWARAN,Noida,Quality Department,Deputy Manager,VII,18.46,35.00
+1227,PRADEEP KUMAR  CHAUDHARY,Noida,HR Department-IJT,Deputy Manager,VII,16.23,50.00
+1228,SURYA PRATAP SINGH,Noida,Administration Dept-63,Senior Officer,VIII,12.13,35.00
+1233,B. SUGUMAR,Noida,ESC- Mechanical,Assistant Manager,VIII,12.49,36.00
+0591,J.M. JANGRA,Noida,SMD-Contracts Department,Deputy General Manager,V,24.57,56.00
+2966,RAJESH MITRA,Noida,CONS-Erection Department,Senior Manager,V,23.70,53.00
+2883,NAVEEN MITTAL,Noida,CONS-Erection Department,Associate Vice President,IV,45.47,51.00
+1248,R. BALA MURUGAN,Chennai,Boiler-ESC- Mechanical-Chennai,Senior Engineer,VIII,11.65,40.00
+1258,MUKESH BORA,Noida,CONS-Erection Department,Manager,VII,18.06,37.00
+1263,KARTHIK R.,Chennai,EPC-ESC- Mechanical-Chennai,Engineer-II,IX,8.42,37.00
+1271,DEEPAK SINGH,Site,SMD-Construction Department,Senior Engineer,VIII,11.63,38.00
+1273,P. CHELLADURAI,Chennai,EPC-ESC- Electrical-Chennai,Assistant Manager,VII,13.57,39.00
+1278,KUNTAL CHAKRABORTY,Noida,CONS-Commissioning Department,Senior Manager,V,21.49,51.00
+1279,ASHIS RANJAN DAS,Site,Quality Department,Deputy Manager,VII,14.28,39.00
+0995,SHIB SHANKAR SEN,Noida,ESC- Mechanical,Senior Manager,V,23.66,53.00
+1282,T. THANAPAL,Chennai,EPC-ESC- Mechanical-Chennai,Senior Manager,VII,20.83,39.00
+1285,SANDEEP DHALL,Noida,Quality Department,Deputy Manager,VII,14.83,36.00
+1293,JITENDRA PRASAD  GUPTA,Noida,ESC- Mechanical,Junior Engineer,IX,5.93,34.00
+1295,MANJU KUMARI,Noida,ESC- Mechanical,Junior Engineer,IX,5.57,32.00
+1296,PRAVEEN SINGH,Noida,IBD1-Proposal Engg Department,Assistant Engineer,IX,6.62,32.00
+1298,MANJEET SOLANKI,Noida,ESC- Mechanical,Assistant Engineer,IX,6.35,36.00
+1299,NEERAJ KUMAR,Noida,ESC- Mechanical,Design Associate I,IX,5.88,34.00
+1300,N.V.S. SUPER,Chennai,Boiler-ESC- Mechanical-Chennai,Engineer-II,VIII,9.23,38.00
+1243,K.V. ANGURAJU,Chennai,ESC- Project Engineering Management,Vice President,IIIB,45.43,48.00
+1305,V. RAGHAVENDRA,Noida,ESC- Project Engineering Management,Senior Manager,V,21.58,40.00
+1308,J. SUDHAKAR,Chennai,Boiler-ESC- Mechanical-Chennai,CHECKER I,IX,8.94,35.00
+1309,S. K. SATHESH KUMAR,Chennai,EPC-ESC- Mechanical-Chennai,Deputy Manager,VII,15.45,40.00
+1310,D. SATHISH KUMAR,Chennai,Boiler-ESC- Mechanical-Chennai,Engineer-II,IX,9.42,39.00
+1314,PUNEET KUMAR BANSAL,Noida,IBD1-Marketing Department,Deputy Manager,VII,18.74,35.00
+1327,R. G. AMRITHALINGAM,Chennai,Boiler-ESC- Mechanical-Chennai,Assistant Manager,VII,13.69,45.00
+2442,MOHINDER RAHEJA,Noida,Utility-Sec-24(For HO only),Senior Manager,VI,23.64,58.00
+1330,HEMANT KHATRI,Noida,GEBD-Contracts Department,Deputy Manager,VII,16.16,35.00
+1332,INGALE RANJEET  NARHARI,Noida,EM-MCL,Deputy General Manager,V,29.12,50.00
+1333,DEVRAJ SINGH,Noida,CONS-Commissioning Department,Manager,VI,18.02,36.00
+1334,ASHISH PANDEY,Noida,IBD1-Marketing Department,Deputy Manager,VII,15.08,37.00
+1338,K. KIRAN BALAJI,Noida,IBD1-Proposal Engg Department,Senior Manager,V,19.13,41.00
+1340,RAJU BISEN,Noida,CONS-Commissioning Department,Deputy Manager,VII,17.73,36.00
+1344,ROCKY KAINTH,Noida,EM-MCL,Assistant Engineer,IX,7.52,39.00
+1353,S. KANNA,Chennai,Chennai Proposal-EPC,Deputy Manager,VII,15.41,36.00
+1558,S. M. KSHIRSAGAR,Site,SMD-Construction Department,Deputy General Manager,V,23.33,57.00
+1360,AKSHAY GARG,Noida,EPC-ESC- C&I,Assistant General Manager,VI,22.20,38.00
+1361,B. SARAVANAN,Chennai,Boiler-ESC- Mechanical-Chennai,Assistant Manager,VII,13.78,42.00
+1369,ARUN KUMAR K.,Noida,ESC-Automation,Deputy Manager,VII,16.29,41.00
+1387,N. ALAGAR RAJA,Noida,CONS-Erection Department,Manager,VII,17.79,37.00
+1394,E. SRILINGA GNANA  PRAGASAM,Noida,ESC- Mechanical,Vice President,IIIB,44.96,48.00
+1403,VIVEK JAIN,Noida,GEBD-Proposal Engg Department,Assistant Manager,VIII,13.10,32.00
+1412,SATYA PRAKASH,Noida,IBD1-Contracts Department,Assistant Manager,VII,13.47,39.00
+3651,RAJESH KUMAR SOHAL,Noida,EPC-Construction Department,Senior Manager,V,22.99,54.00
+2649,TAPAS BATABYAL,Site,CONS-Erection Department,Manager,VI,22.55,55.00
+1418,SEENUSUBHASH,Site,CONS-Erection Department,Deputy Manager,VII,17.11,37.00
+1422,T.K. SEETHARAMAN,Chennai,Chennai Proposal-EPC,Deputy Manager,VII,16.61,37.00
+1562,GANESWARA RAO  MULLAPUDI,Noida,GEBD-Proposal Engg Department,Associate Vice President,IIIB,44.30,51.00
+1438,G. DURAIRAJ,Chennai,EPC-ESC- Mechanical-Chennai,Manager,VII,18.71,40.00
+1449,T. S. MURUGANAND,Chennai,EPC-ESC- Electrical-Chennai,Senior Manager,VII,18.27,41.00
+1453,N. RAJA PRAKASH,Noida,Quality Department,Assistant Manager,VII,13.06,37.00
+1459,VISHAL SHUKLA,Site,SMD-Construction Department,Deputy Manager,VII,13.37,45.00
+1469,VIKRANT YADAV,Noida,Material Common Service,Assistant Manager,VII,15.15,37.00
+0903,SANJAY KUMAR JHA,Noida,Quality Department,Senior Manager,V,22.33,57.00
+1480,RIZWAN AHMAD,Noida,ESC- Structural,Manager,VI,17.16,40.00
+1483,P. SARATH BABU,Noida,Quality Department,Assistant Manager,VII,12.92,35.00
+1500,NITIN SACHDEVA,Noida,ESC- C&I,Assistant Manager,VIII,12.45,33.00
+1503,V. SATHEESH KUMAR,Chennai,EPC-ESC- Mechanical-Chennai,Deputy Manager,VII,15.68,41.00
+1505,D. GANESH PANDI,Site,Quality Department,Deputy Manager,VII,15.95,39.00
+1509,DEEPAK KUMAR,Noida,EM-MCL,Senior Manager,V,19.78,40.00
+2051,PUNEET KUMAR  AGGARWAL,Noida,GEBD-Material Department,Associate Vice President,IIIB,44.04,49.00
+1511,SAURABH NIGAM,Noida,GEBD-Material Department,Manager,VII,21.17,38.00
+1512,BRIJENDER PAL,Noida,EM-MCL,Junior Engineer,IX,6.72,38.00
+1517,M. SHUNMUGAM,Site,CONS-Commissioning Department,Deputy Manager,VII,16.18,36.00
+1532,R. BALASUBRAMANIAN,Noida,SMD-Construction Department,General Manager,IV,30.60,50.00
+1534,SARANIAN P. S.,Chennai,EPC-ESC- Electrical-Chennai,Deputy Manager,VII,16.13,40.00
+1535,M. SELVAM,Site,CONS-Erection Department,Deputy Manager,VII,15.76,36.00
+1536,SUBRAMAMIAN SENTHIL,Noida,Quality Department,Deputy Manager,VII,15.23,40.00
+1538,S. SARAVANAN,Noida,Estimation Department,Senior Manager,V,21.52,43.00
+1542,KARTHICK VIGNESWARAN,Site,CONS-Erection Department,Manager,VII,17.20,37.00
+1544,SRIDHAR S,Site,CONS-Erection Department,Engineer-II,IX,9.90,33.00
+1549,P. NATARAJAN,Site,CONS-Erection Department,Assistant Manager,VIII,13.36,35.00
+1552,RADHEY SHYAM,Noida,ESC- Piping,Design Associate I,IX,6.03,32.00
+1553,RAJEEV KUMAR,Noida,EM-MCL,Design Associate I,IX,6.05,33.00
+1556,I. LAWRANCE,Chennai,EPC-ESC- Electrical-Chennai,Senior Manager,V,18.63,43.00
+1557,DEEPINDER SINGH,Noida,EPC-Contracts Department,Deputy Manager,VII,16.00,36.00
+1695,TRIBENI PRASAD  KARMAKAR,Noida,ESC- Piping,Senior Manager,V,22.18,55.00
+1560,KANHAIYA LAL AGARWAL,Noida,EPC-Construction Department,General Manager,IV,31.62,47.00
+2236,RAJIV KUMAR GUPTA,Noida,EPC-Contracts Department,Vice President,IIIB,43.69,48.00
+1577,ASHOK KUMAR,Noida,CONS-Erection Department,Deputy Manager,VII,16.98,40.00
+1580,RAVINDRAN M.,Site,Quality Department,Assistant Manager,VII,14.06,36.00
+1581,D. DURAISAMY,Chennai,Chennai Proposal-EPC,CHECKER I,VIII,8.83,38.00
+1582,DINESH KUMAR,Noida,SMD-Proposal Engg Department,Assistant Engineer,IX,6.89,42.00
+1589,NARENDRA KUMAR SHARM,Noida,EM-ECL,Engineer-II,VIII,8.84,44.00
+1590,NEERAJ SHARMA,Noida,SMD-Marketing Department,Design Associate I,IX,5.79,32.00
+1593,KARUN SINGHAL,Noida,ESC- C&I,Deputy Manager,VII,14.71,35.00
+1600,ARVIND SINGH,Site,SMD-Construction Department,Deputy Manager,VII,13.83,51.00
+1613,KADAM JAYAJI BHIMRAO,Site,CONS-Erection Department,Deputy Manager,VII,14.34,45.00
+1615,SUDHANSHU KAKKAR,Noida,EPC-Materials Department,Senior Manager,V,22.78,39.00
+0082,PARAMANAND MAHTO,Noida,EM-MCL,Senior Manager,V,22.12,57.00
+1620,M.P. ARULSELVAN,Noida,CONS-Erection Department,Deputy Manager,VII,16.80,35.00
+1624,LOKESH UPADHYAY,Noida,EPC-ESC- C&I,Assistant Manager,VII,12.46,35.00
+1628,MANVENDRA SINGH,Noida,CONS-Commissioning Department,Deputy Manager,VII,15.99,37.00
+1629,KANSE BALASAHEB  MURLIDHAR,Pune,EPC Material Handling-Pune,Assistant Manager,VII,13.92,45.00
+1640,MANISH KUMAR,Noida,GEBD-Contracts Department,Assistant Manager,VII,13.81,34.00
+1652,SILAK RAM,Site,CONS-Erection Department,Assistant Engineer,IX,6.51,29.00
+1654,NARESH,Site,CONS-Erection Department,Engineer-II,IX,7.32,29.00
+1660,GAURAV RASTOGI,Noida,Export Marketing Department,Senior Manager,V,19.00,38.00
+1661,HARISH MADAN BANSOD,Pune,SMD-ESC- Piping-Pune,CHECKER I,VIII,9.51,40.00
+1669,AJAY KUMAR,Noida,GEBD-Proposal Engg Department,Junior Engineer,IX,5.35,35.00
+1670,AMIT KUMAR,Noida,GEBD-Proposal Engg Department,Design Associate I,IX,5.23,30.00
+1671,MANOJ KUMAR,Noida,ESC- Piping,Design Associate I,IX,5.70,31.00
+1672,POON PRAKASH GUPTA,Noida,ESC- Mechanical,Junior Engineer,IX,4.99,29.00
+1674,PREM KUMAR DUBEY,Noida,ESC- Mechanical,Junior Engineer,IX,4.93,34.00
+1688,PRATEEK SHARMA,Noida,GEBD-Contracts Department,Assistant Manager,VII,12.11,33.00
+0123,MAHESH KUMAR,Noida,ESC- Mechanical,Senior Manager,V,22.10,60.00
+1698,MANISH KUMAR SRIVASTAVA,Noida,CONS-Commissioning Department,Assistant Manager,VII,14.68,39.00
+1703,YOGESH P. DIWAN,Pune,SMD-ESC- Piping-Pune,Deputy Design Controller,VII,15.58,42.00
+1707,RAHUL KUMAR SRIVASTAVA,Noida,GEBD-Material Department,Deputy Manager,VII,13.84,37.00
+1708,NEERAJ AGARWAL,Noida,SMD-Contracts Department,Deputy General Manager,IV,25.41,49.00
+2127,A.PRAGASAM,Site,CONS-Erection Department,Senior Manager,V,21.47,53.00
+1713,VINEET KUMAR VERMA,Noida,GEBD-Contracts Department,Assistant Manager,VIII,13.10,34.00
+1716,HUMTOJ GOYAL,Noida,SMD-Contracts Department,Manager,VII,23.20,39.00
+1728,RANJEET SINGH NEGI,Noida,EPC-Construction Department,Engineer-II,VIII,8.78,50.00
+1730,ALAGUSITHIAH KANNAN YADAV,Site,EPC-Construction Department,Manager,VII,19.52,43.00
+1731,KUMAR DEEP MISHRA,Noida,Boiler-Operation & Maintenance,Assistant General Manager,VI,21.51,38.00
+1733,PERWAIZ ANWER,Noida,ESP-Material Department,Assistant Manager,VIII,14.73,43.00
+1741,VIVEK SINGH,Noida,EPC-Marketing Department,Assistant Manager,VII,13.49,32.00
+1742,GIRISH BELWAL,Noida,Export Logistic Department,Deputy General Manager,IV,32.18,49.00
+1743,ANUJ PANDEY,Site,Quality Department,Assistant Manager,VIII,13.43,37.00
+1745,ZALA RAMESH KUMAR R.  ZALA RAMESH KUMAR R.,Site,CONS-Commissioning Department,Assistant Manager,VII,12.38,36.00
+1749,RAVI R.,Site,Quality Department,Deputy Manager,VII,17.27,40.00
+1750,RAMPHAL SINGH,Noida,ESC- Piping,Assistant Engineer,IX,7.71,36.00
+1752,ANURAG GOYAL,Noida,SMD-Marketing Department,Assistant General Manager,V,26.06,43.00
+1758,SWARUP KUMAR GAYEN,Noida,ESC- Mechanical,Deputy Manager,VII,15.66,42.00
+1759,RAJKUMAR GODAGE,Pune,SMD-ESC- Piping-Pune,Assistant Design Controller,VII,11.75,44.00
+1416,SAI NAGENDRA RAO M.,Site,CONS-Erection Department,Senior Manager,V,21.42,56.00
+3044,CH S N SREENIVASA,Noida,EM-PEM,Vice President,IIIA,44.89,59.00
+1766,B. SANKARANARAYANAN,Site,EPC-Construction Department,Deputy Manager,VII,14.93,39.00
+1775,RAJEEV SRIVASTAVA,Noida,Commercial Department,Deputy Manager,VII,12.82,43.00
+1780,BRIJMOHAN SINGH   RAWAT,Site,CONS-Erection Department,Assistant Manager,VII,12.81,45.00
+1782,MAHESH S,Site,Quality Department,Senior Engineer,VIII,11.58,33.00
+1788,RAJNIDHI SHARMA,Noida,GEBD-Material Department,Senior Manager,VII,19.93,46.00
+1789,P. HEMARAJ,Noida,Quality Department,Assistant Manager,VII,15.06,36.00
+1801,ADEEB BEG,Noida,ESC- Structural,Manager,VII,17.87,41.00
+1805,PANKAJ GARG,Noida,SMD-Contracts Department,Manager,VII,19.98,47.00
+1806,AASHISH SHARMA,Noida,GEBD-Proposal Engg Department,Assistant Manager,VIII,12.96,33.00
+1811,K. THARSAN,Noida,Estimation Department,Deputy Manager,VII,17.09,37.00
+1812,G. PARTHASARATHY,Noida,Estimation Department,Senior Engineer,VIII,10.79,37.00
+1816,VIKAS RANA,Site,Quality Department,Senior Engineer,VIII,11.75,35.00
+1818,AMRIT KUMAR HALDER,Noida,FGD-Proposal Eng. Department,Associate Vice President,IV,36.75,45.00
+1822,SUNIL KUMAR,Noida,IBD1-Contracts Department,Officer-III,IX,10.06,39.00
+1824,HARSHASRIPHANI  RAVURI,Noida,IBD1-Proposal Engg Department,Deputy Manager,VII,15.22,34.00
+1825,R. PARTHIBAN,Chennai,Chennai Office-Common,Senior Officer,VIII,15.25,52.00
+1826,DEEPAK KUMAR,Noida,ESC- Piping,Assistant Manager,VIII,11.57,38.00
+1832,AMITESH DWIVEDI,Noida,GEBD-Proposal Engg Department,Assistant General Manager,V,22.51,40.00
+1833,PETER PAUL,Noida,SMD-Proposal Engg Department,Senior Manager,VI,19.91,65.00
+1837,ANIL KUMAR,Noida,CONS-Erection Department,Officer-I,VIII,10.74,45.00
+1838,SUKHDEEP SINGH,Noida,EPC-Construction Department,Assistant Manager,VII,12.19,33.00
+1841,ROHIT GROVER,Noida,CONS-Erection Department,Deputy Manager,VII,18.34,41.00
+1844,M. SASI ARAVIND RAJ,Chennai,Chennai Proposal-EPC,Engineer-II,IX,7.73,35.00
+2500,MANOJ KUMAR GUPTA,Noida,SMD-Proposal Engg Department,Assistant General Manager,V,21.37,56.00
+1849,ANUJ KUMAR,Noida,SMD-Construction Department,Manager,VII,18.74,38.00
+1851,RAMKUMAR R.,Site,CONS-Erection Department,Deputy Manager,VII,16.70,36.00
+1856,PANKAJ SHARMA,Noida,Export Marketing Department,Senior Manager,V,21.98,41.00
+1857,MOHIT SINGH NEGI,Noida,GEBD-Contracts Department,Deputy Manager,VII,15.63,35.00
+1871,G. VENKATAKRISHNAN,Chennai,BLR-Proposal Eng.-Chennai,Assistant General Manager,V,25.79,42.00
+1873,SHUBHAM GOEL,Noida,IBD1-Contracts Department,Assistant Manager,VII,12.44,34.00
+1874,AMIT MARUTI KOKILE,Pune,EPC-Marketing Department,Manager,VII,19.13,43.00
+1881,VISHWANATH KUMAR  SRIVASTAVA,Site,CONS-Commissioning Department,Assistant Manager,VII,12.49,40.00
+1885,SARVESH KUMAR YADAV,Noida,CONS-Erection Department,Manager,VII,17.69,40.00
+1886,LAXMINDRA MOHAN,Noida,Estimation Department,General Manager,IV,37.45,52.00
+1896,NEELESH KUMAR  VISHWAKARMA,Site,CONS-Erection Department,Assistant Manager,VIII,15.27,43.00
+1897,SUSHIL KUMAR ROY,Noida,EPC-Contracts Department,Manager,VI,21.27,37.00
+1280,VINOD KUMAR,Noida,SMD-Construction Department,Senior Manager,V,21.02,55.00
+1906,FAKHRE ALAM,Site,Safety Department,Engineer-II,IX,8.53,36.00
+1909,ANKUR SHARMA,Noida,CONS-Erection Department,Senior Engineer,VIII,11.09,33.00
+1910,NAVNEET KUMAR SHARMA,Noida,ESC- C&I,Assistant Manager,VIII,13.94,36.00
+1912,VARINDER VIR SINGH,Site,CONS-Commissioning Department,Assistant Manager,VIII,12.33,34.00
+1913,A. SARAVANA BOOPATHI,Chennai,BLR-Proposal Eng.-Chennai,CHECKER I,VIII,9.65,39.00
+1917,DEEPAK KUMAR  CHAUHAN,Noida,GEBD-Contracts Department,Deputy Manager,VII,18.97,41.00
+1924,S. BHARATHI RAJA,Noida,EPC-ESC- Piping-Chennai,Engineer-II,VIII,9.44,32.00
+1927,SAKTHIVEL P,Noida,GEBD-Material Department,Senior Manager,VI,22.03,41.00
+1932,ZEESHAN JALEEL,Noida,ESC- Structural,Design Associate I,IX,6.90,36.00
+1935,SAMSON PAUL  PHILIPOSE KULANGARA,Pune,EPC Material Handling-Pune,Associate Vice President,IV,32.18,47.00
+1939,RAJESH SHARMA,Noida,SMD-Proposal Engg Department,Senior Manager,V,18.96,46.00
+1942,AJAY KOUL,Noida,EPC-Marketing Department,Deputy Manager,VII,15.55,40.00
+1946,VIJAYANAND,Chennai,EPC-ESC- Piping-Chennai,Senior Engineer,VIII,11.88,32.00
+1972,JEETANDRA BHARGAWA,Noida,ESC- C&I,Senior Engineer,VIII,12.31,35.00
+1974,R. ARUN KUMAR,Noida,ESC- Mechanical,Deputy Manager,VII,15.38,34.00
+1975,S. BALAJI,Chennai,BLR-Proposal Eng.-Chennai,Manager,VII,19.98,39.00
+1976,AMIT MISHRA,Kolkata,EPC-Marketing Department,Deputy General Manager,IV,28.13,47.00
+1978,SURAJ PARKASH SINGH,Noida,Commercial Department,Senior Officer,VIII,12.92,43.00
+1981,PANKAJ KUMAR,Noida,ESC- Mechanical,Design Associate IV,IX,4.22,29.00
+1982,MANNU PAL,Noida,ESC- Piping,Design Associate III,IX,4.53,30.00
+1983,SHRUTI PANDEY,Noida,EM-MCL,Design Associate II,IX,4.34,29.00
+1988,SHWETA SHARMA,Noida,ESC- Mechanical,Design Associate II,IX,5.03,29.00
+1989,ANUSUYA SAHU,Noida,ESC- Piping,Design Associate III,IX,4.77,28.00
+1990,SITA SHARMA,Noida,ESC- C&I,Design Associate IV,IX,4.40,30.00
+1994,ARUN SHARMA,Noida,EM-MCL,Deputy Manager,VIII,13.41,34.00
+1995,VARINDER SINGH,Noida,EM-MCL,Assistant Design Controller,VIII,11.48,38.00
+2008,RAVINDER TANWAR,Noida,EPC-ESC- C&I,Assistant Manager,VIII,11.68,35.00
+2010,LAKSHMI,Noida,ESC- Structural,Design Associate III,IX,4.46,31.00
+2013,KISHORE KUMAR DASH,Noida,SMD-Material Department,Assistant Manager,VIII,12.09,34.00
+2017,INDERDEEP SINGH  KOHLI,Noida,SMD-Material Department,Deputy Manager,VII,15.73,36.00
+2023,DEVANSH GAUR,Noida,GEBD-Material Department,Manager,VI,18.52,37.00
+2027,RAHUL BAJAJ,Noida,EPC Commissioning,Deputy Manager,VII,14.21,45.00
+2028,R. MAHENDRAN,Noida,ESC- Electrical,Assistant Manager,VIII,14.45,41.00
+2030,ABHISHEK MOHAN,Noida,GEBD-Contracts Department,Assistant General Manager,V,24.58,42.00
+2035,PRANAV PRADIP GATANE,Pune,EPC Material Handling-Pune,Engineer-II,VIII,8.15,34.00
+2038,C.D.PAKKIYARAJ,Noida,GEBD-Proposal Engg Department,Manager,VII,20.33,39.00
+2043,MAHESH KUMAR SHARMA,Noida,Travel Department,Executive I,VII,14.27,44.00
+2047,DEEPAK AGARWAL,Noida,GEBD-Material Department,General Manager,IV,35.04,49.00
+0400,PUNEET BHATIA,Noida,CONS-Commissioning Department,Associate Vice President,III,42.04,48.00
+2059,ASHOK KUMAR RAULA,Site,Quality Department,Assistant Engineer,IX,8.78,34.00
+2064,CHANDER PARKASH,Noida,Commercial Department,Executive I,VIII,11.65,38.00
+2067,CHOOTE LAL,Site,SMD-Construction Department,Senior Engineer,VIII,11.26,46.00
+2068,SHRINIVAS BARTAKKE,Pune,EPC Material Handling-Pune,Manager,VI,18.41,40.00
+2073,B. ARIVAZHAGAN,Chennai,EPC-ESC- Mechanical-Chennai,Senior Engineer,VIII,9.85,31.00
+2075,SUNIL SRIVASTAVA,Noida,SMD-Material Department,Deputy General Manager,V,26.17,50.00
+2079,PRAVEEN KUMAR,Noida,EM-MCL,Senior Engineer,VIII,10.23,35.00
+2080,NEERAJ NAGAICH,Noida,ESC- Structural,Design Associate I,IX,7.50,35.00
+2081,KAMLESH KUSHVAHA,Noida,ESC- Structural,Assistant Engineer,IX,7.59,32.00
+2090,NARESH KUMAR,Noida,ESC- Mechanical,Assistant Design Controller,VIII,13.94,52.00
+0335,VINAY SHARMA,Noida,System Department,Senior Manager,VI,20.48,47.00
+2094,ATUL KUMAR SINGH,Noida,GEBD-Material Department,Manager,VII,16.58,38.00
+2095,PRIYA VIRAT ARYA,Noida,EM-C&I,Senior Manager,V,22.51,44.00
+2098,PINGALE S.P.,Pune,EPC Material Handling-Pune,Assistant Design Controller,VIII,11.78,44.00
+2102,GAGANDEEP SINGH,Noida,CONS-Commissioning Department,Manager,VII,21.35,43.00
+2103,A. VENUGOPAL,Site,CONS-Erection Department,Assistant Manager,VII,15.25,49.00
+2108,SOURAV ROY,Site,Safety Department,Engineer-II,IX,9.28,40.00
+0309,SURESH KUMAR,Site,SMD-Construction Department,Senior Manager,VI,20.35,54.00
+2111,K. R. THINAKARAN,Noida,EPC-Construction Department,Assistant General Manager,V,22.37,42.00
+2112,PRAMOD KUMAR SHARMA,Noida,GEBD-Contracts Department,Deputy General Manager,V,28.86,50.00
+2113,TARUN KUMAR GUPTA,Noida,GEBD-Contracts Department,Senior Manager,VII,20.19,38.00
+2114,MUDRADI NIRMAL  KRISHNA,Site,Quality Department,Senior Engineer,VIII,12.18,33.00
+2117,SANJAY K. BHATIA,Noida,GEBD-Contracts Department,Deputy General Manager,V,30.77,51.00
+2122,RAMBHAGAT SINGH  BISHT,Noida,GEBD-Material Department,Officer-I,VIII,9.02,51.00
+2769,V. AMALABABU,Site,CONS-Erection Department,Manager,VI,20.34,53.00
+2128,RAHUL DESHMUKH,Pune,EPC Material Handling-Pune,Assistant Manager,VIII,11.99,35.00
+2129,SUNIL KUMAR SINGH,Noida,EPC-Construction Department,Senior Manager,VI,21.19,42.00
+2130,MANISH KUMAR MALIK,Site,SMD-Construction Department,Assistant Engineer,IX,8.62,35.00
+2131,M. SENTHIL KUMAR,Site,CONS-Commissioning Department,Manager,VI,19.63,49.00
+2132,SREEJESH K.H.,Site,Quality Department,Engineer-II,VIII,7.34,33.00
+2135,MUKESH DHIMAN,Noida,IBD1-Marketing Department,Manager,VII,19.78,47.00
+2139,D.  KANNAN,Chennai,EPC-ESC- Piping-Chennai,Senior Engineer,VIII,10.64,35.00
+2142,S. ALISON,Noida,GEBD-Proposal Engg Department,Deputy Manager,VII,17.63,36.00
+2146,SHEKHAR SINGHI,Pune,CONS-Commissioning Department,Senior Manager,V,23.01,47.00
+2147,YOGESH KUMAR SAINI,Noida,Export Logistic Department,Senior Officer,VIII,12.00,38.00
+2148,VADIVEL,Chennai,Chennai Proposal-EPC,Assistant Manager,VII,14.54,38.00
+2151,J. PRADEEP M DAVID,Chennai,EPC-ESC- Project Engg Management- Chennai,Manager,VII,19.83,39.00
+2154,ANIL SACHDEVA,Site,SMD-Construction Department,Assistant General Manager,V,24.88,48.00
+2157,NARENDER SINGH,Noida,EM-PEM,Assistant General Manager,V,26.44,41.00
+2160,AJAY RANA,Noida,SMD-Contracts Department,Deputy Manager,VII,22.27,44.00
+2163,DEVESHWAR TYAGI,Noida,Commercial Department,Executive I,VII,10.15,38.00
+2164,RAHUL KUMAR MISHRA,Noida,Commercial Department,Deputy Manager,VII,14.18,39.00
+2166,R. SATHEESH,Site,CONS-Erection Department,Deputy Manager,VII,17.61,40.00
+2167,MIDHUN P.V.,Site,Quality Department,Assistant Engineer,IX,6.28,31.00
+2168,A. TAMIL SELVAN,Site,GEBD-Proposal Engg Department,Senior Engineer,VIII,10.06,33.00
+2169,VAISAKH  K  V,Site,Quality Department,Junior Engineer,IX,7.16,31.00
+2175,ANKIT AGGARWAL,Noida,CONS-Commissioning Department,Senior Engineer,VIII,10.00,30.00
+2178,HIMANSHU SAWHNEY,Noida,GEBD-Material Department,Senior Engineer,VIII,10.00,31.00
+2181,SOUMIK SAHA,Noida,FGD-Marketing Department,Assistant Manager,VII,11.50,30.00
+2182,ALOK GUPTA,Noida,IBD1-Contracts Department,Senior Engineer,VIII,9.51,30.00
+2186,EKKIRALA TAPASWI  DEEPAK,Noida,CONS-Commissioning Department,Senior Engineer,VIII,10.00,29.00
+2189,SATYA PRAKASH,Noida,ESC- Piping,Assistant Engineer,IX,6.82,38.00
+2191,ARUN RAJ R.,Chennai,Chennai Proposal-EPC,Assistant General Manager,VI,22.33,42.00
+2194,R. BALASUBRAMANIAN,Chennai,EPC-ESC- Mechanical-Chennai,Designer,IX,7.73,32.00
+2196,ARVIND KUMAR,Noida,SMD-Construction Department,Assistant General Manager,V,22.72,43.00
+2197,AMIT  KUMAR,Noida,SMD-Contracts Department,Deputy Manager,VII,16.61,37.00
+2199,P. RAMKUMAR,Noida,IBD1-Proposal Engg Department,Assistant General Manager,VI,22.10,40.00
+2200,GANESH KUMAR  R.,Chennai,Chennai Proposal-EPC,Assistant General Manager,V,24.63,43.00
+2202,TANUJ  DWIVEDI,Noida,GEBD-Contracts Department,Senior Engineer,VIII,11.86,36.00
+2212,GREESH CHAND PUROHIT,Noida,Estimation Department,Manager,VI,20.25,53.00
+2221,KARTHIKBABU  N,Noida,GEBD-Proposal Engg Department,Deputy Manager,VII,15.72,36.00
+2223,R. KUMARAN,Noida,Boiler-ESC- Mechanical-Chennai,Manager,VII,19.21,39.00
+2224,ARUN  E. SOCRATES,Site,Safety Department,Manager,VI,21.00,41.00
+2225,KARTHIKEYAN  N.,Chennai,EPC-ESC- Electrical-Chennai,Manager,VII,20.46,41.00
+2226,NIMIT KAUSHIK,Noida,CONS-Erection Department,Senior Engineer,VIII,9.51,30.00
+2228,SHASHANK KUMAR  AWASTHI,Noida,CONS-Erection Department,Senior Engineer,VIII,9.51,31.00
+2229,DHIRAJ,Noida,GEBD-Material Department,Assistant General Manager,VI,23.36,39.00
+2230,DINESH CHAND,Noida,Commercial Department,Senior Officer,VIII,10.18,42.00
+0132,SATISH KUMAR KAUSHIK,Noida,SMD-Proposal Engg Department,Manager,VI,19.96,56.00
+2237,ALOK KUMAR BHATT,Noida,SMD-Proposal Engg Department,Deputy Manager,VII,12.85,36.00
+2238,AMIT SHARMA,Noida,SMD-Contracts Department,Manager,VI,18.42,43.00
+2239,KAJAL PAL,Noida,ESC- Piping,Design Associate IV,IX,4.05,30.00
+2240,YOGESH KAUSHIK,Noida,Commercial Department,Senior Officer,VIII,11.23,35.00
+2242,MANIVANNAN  B,Chennai,EPC-ESC- Mechanical-Chennai,Deputy Manager,VII,14.49,36.00
+2245,FAIQUE AHMED,Site,Safety Department,Senior Engineer,VIII,9.39,43.00
+2248,VIKAS MISHRA,Noida,IBD1-Contracts Department,Senior Engineer,VIII,11.79,33.00
+2249,AKHILESH KUMAR MANI,Noida,IBD1-Contracts Department,Senior Manager,VII,20.68,43.00
+2256,NITIN TRIPATHI,Noida,GEBD-Material Department,Assistant Manager,VIII,14.35,35.00
+5073,SANJOY MATHUR,Noida,Corporate Communication,Vice President,IV,41.89,59.00
+2260,S. A. NITHYANANTH,Noida,EPC-ESC- Project Engg Management- Chennai,Assistant General Manager,V,24.29,49.00
+2261,SURESH  K.,Chennai,EPC-ESC- Electrical-Chennai,Deputy Manager,VII,13.67,39.00
+2264,B. SATHISH,Noida,EPC-Construction Department,Deputy Manager,VII,14.46,35.00
+2265,SUDHAKAR  V.,Noida,ESP-Marketing Department,Deputy Manager,VIII,13.33,34.00
+2266,NARENDRA KUMAR,Noida,CONS-Erection Department,Senior Engineer,VIII,11.28,39.00
+2267,S. RAJASEKAR,Noida,Quality Department,Senior Manager,V,19.94,43.00
+2269,C. BALASUBRAMANIAN,Site,EPC-Construction Department,Deputy Manager,VII,14.98,40.00
+2270,CHETAN KULSHRESTHA,Noida,Commercial Department,Officer-I,VIII,10.05,42.00
+2272,DHEERAJ BHAN SINGH  RANA,Noida,Export Marketing Department,Deputy General Manager,V,27.78,49.00
+2279,RAVICHANDRAN  K,Chennai,EPC-ESC- Piping-Chennai,Assistant Design Controller,VIII,12.87,42.00
+1301,SUSHEEL KUMAR THUSU,Noida,IBD1-Marketing Department,Associate Vice President,IIIB,40.19,51.00
+2286,R. VIGNESH KUMAR,Noida,APCE-ESC- Mechanical,Design Associate I,IX,7.24,32.00
+2287,R. SATHEESH KUMAR,Noida,APCE-ESC- Mechanical,Assistant Manager,VIII,12.92,34.00
+2288,SELVARAJ.  R,Chennai,EPC-ESC- Piping-Chennai,Designer,IX,7.38,33.00
+2293,ANIL SAINI,Noida,IBD1-Marketing Department,Deputy General Manager,V,30.95,49.00
+2295,SUBRAMANIAN  A.,Site,CONS-Commissioning Department,Senior Engineer,VIII,11.42,33.00
+2296,SIDDHARTH TOMAR,Noida,Export Marketing Department,Assistant Manager,VIII,13.15,35.00
+2297,VIJAYAKANTH,Noida,GEBD-Proposal Engg Department,Assistant Manager,VII,12.93,33.00
+2298,GUGULOTH  RAMDAS,Site,CONS-Erection Department,Senior Engineer,VIII,13.11,49.00
+5152,HARVINDER SINGH,Noida,HR Department-IJT,Associate Vice President,IIIB,39.73,49.00
+2301,SHAIKMOHAMED  NAZEERAHAMED,Site,EPC-Construction Department,Deputy General Manager,IV,37.79,51.00
+2303,G. MATHANRAJ,Noida,IBD1-Proposal Engg Department,Senior Manager,V,22.18,42.00
+2305,AVISHEK BANERJEE,Noida,CONS-Commissioning Department,Senior Manager,VI,19.09,42.00
+2306,ROHIT VIJ,Noida,ESP-Contracta Department,Assistant Manager,VII,12.07,32.00
+2307,R. RATHEESH KUMAR,Chennai,EPC-ESC- Electrical-Chennai,Deputy Manager,VII,12.90,38.00
+2320,KISHORE CHANDRA  JOSHI,Noida,Export Logistic Department,Officer-II,VIII,7.77,38.00
+2323,RAJARAJAN S.,Noida,GEBD-Proposal Engg Department,Deputy Manager,VII,16.44,37.00
+2324,SANGEETA RANA,Noida,HR Department-IJT,Officer-I,VIII,11.03,40.00
+2325,M. SARAVANKUMAR,Noida,Boiler-ESC- Mechanical-Chennai,Deputy Manager,VII,16.54,41.00
+2327,A. GOKULAKRISHNAN,Noida,GEBD-Proposal Engg Department,Manager,VI,17.71,39.00
+2343,GURPREET SINGH,Noida,SMD-Construction Department,Senior Engineer,VIII,8.77,30.00
+2347,SHEAK DAVOOD,Noida,ESC- Mechanical,Assistant Design Controller,VIII,12.01,40.00
+2349,ABHISHEK BHARDWAJ,Noida,ESC- Mechanical,Design Associate IV,IX,4.13,26.00
+2352,DEEPAK ARORA,Noida,Commercial Department,Senior Manager,V,20.48,45.00
+2354,SHANMUGA VALLIAPPAN,Site,PCB-Construction Dept,Manager,VI,21.52,43.00
+2356,KARTHIKEYAN,Noida,ESC- Mechanical,Designer,VIII,8.26,35.00
+2359,ANUJ KUMAR,Noida,EM-MCL,Junior Engineer,IX,6.17,34.00
+2364,PRABIR KUMAR SINGH,Site,Quality Department,Assistant Manager,VII,11.61,34.00
+2365,ROMEO R,Noida,SMD-Construction Department,Engineer-II,VIII,8.62,36.00
+2368,AMIT KUMAR JAIN,Noida,GEBD-Commercial Department,Deputy Manager,VII,13.40,44.00
+2375,AKHIL CHAUDHARY,Noida,SMD-Contracts Department,Assistant Engineer,IX,7.82,33.00
+2378,SEK MUKATAR ALLI,Site,CONS-Erection Department,Assistant Engineer,IX,6.76,30.00
+2382,THAYASEKARAPANDIAN J,Noida,IBD1-Contracts Department,Senior Manager,V,21.87,40.00
+2385,SACHIN MUKHEKAR,Noida,EPC Material Handling-Pune,CHECKER I,VIII,8.82,43.00
+2393,P. DAYANANDHAN,Noida,Chennai Proposal-EPC,Deputy Manager,VII,18.76,37.00
+2394,MUTHU AYYAPPAN,Site,Quality Department,Deputy Manager,VII,15.28,40.00
+2398,NAVEEN CHANDER,Noida,SMD-Contracts Department,Supervisor,X,5.92,40.00
+2401,P N V RAVI KUMAR,Site,CONS-Erection Department,Senior Engineer,VIII,11.54,38.00
+2402,JOGINDER SINGH,Noida,EM-ECL,Deputy Manager,VII,16.66,41.00
+3610,LALIT MOHAN PANT,Noida,EPC-Construction Department,Assistant General Manager,IV,19.87,54.00
+2407,GANGA PRASAD,Noida,Quality Department,Deputy Manager,VII,14.53,51.00
+2408,RAVI SATIJA,Noida,GEBD-Contracts Department,Senior Manager,V,20.78,42.00
+2410,ASIT JANA,Site,CONS-Erection Department,Deputy Manager,VII,14.25,39.00
+2412,NASEEMUDDIN,Noida,SMD-Material Department,Assistant General Manager,V,23.27,50.00
+2414,KAPIL SHARMA,Noida,Commercial Department,Senior Officer,VIII,10.82,38.00
+2415,SURAJIT PANJA,Site,CONS-Erection Department,Senior Engineer,VIII,12.58,41.00
+2416,ASHUTOSH  KUMAR TIWARI,Site,EPC-Construction Department,Senior Engineer,VIII,9.77,34.00
+2418,AMALENDRA KR. SINGH,Site,Quality Department,Senior Engineer,VIII,11.65,36.00
+2424,N. SHANMUGAM,Site,Quality Department,Manager,VI,22.43,48.00
+2426,DIPANJAN JANA,Noida,EM-C&I,Assistant Manager,VIII,12.80,33.00
+2431,SHADAB KHAN,Site,EPC-Construction Department,Senior Manager,V,22.11,39.00
+2432,GOVIND BALLABH  LOHUMI,Noida,GEBD-Contracts Department,Assistant Manager,VII,12.49,35.00
+2433,VIJAY KUMAR,Noida,Quality Department,Senior Engineer,VIII,13.04,41.00
+2441,SANJEEV KUMAR,Noida,ESC- Piping,CHECKER I,IX,9.43,35.00
+0127,K.S.VERMA,Noida,EM-MCL,Manager,VI,19.51,55.00
+2444,GAURAV KUMAR,Noida,ESC- Mechanical,Design Associate I,IX,6.05,29.00
+2447,AMIT AGRAWAL,Noida,SMD-Material Department,Senior Manager,V,20.93,42.00
+2451,ANIRBAN CHAKRABORTY,Noida,ESC- Electrical,Manager,VII,19.33,42.00
+2452,P. SURENDAR,Chennai,EPC-ESC- Piping-Chennai,Deputy Manager,VII,16.45,39.00
+2454,GORRE SATEESH KUMAR,Site,CONS-Erection Department,Manager,VI,18.62,49.00
+2455,PRAVEEN KUMAR,Noida,ESC- Electrical,Engineer-II,VIII,9.06,38.00
+2457,PRABHU,Site,Quality Department,Engineer-I,VIII,10.04,31.00
+3395,CHANDRA PRAKASH SHRIVASTAVA,Noida,EPC-Construction Department,Senior Manager,V,18.75,54.00
+2462,MANOJ KUMAR,Noida,Administration Dept-63,Assistant Manager,VIII,12.09,47.00
+2466,RITURAJ SHUKLA,Noida,ESC- C&I,Assistant Manager,VIII,12.93,34.00
+2470,SAURABH KUMAR THAKUR,Noida,EPC-Marketing Department,Deputy Manager,VII,15.43,37.00
+2479,VIKASH,Noida,SMD-Material Department,Deputy Manager,VII,13.80,35.00
+2480,NAVDEEP SINGH,Noida,GEBD-Material Department,Assistant Manager,VIII,12.61,35.00
+2481,PARVEEN KUMAR  CHAUHAN,Noida,EPC-Materials Department,Deputy Manager,VII,15.87,38.00
+2485,KONARK JAIN,Noida,ESC- Mechanical,Deputy Manager,VII,15.30,36.00
+2489,UDAY PRATAP SINGH,Site,EPC-Construction Department,Deputy Manager,VII,17.35,51.00
+2492,SUMIT YADAV,Noida,Utility-Sec-24(For HO only),Senior Engineer,VIII,11.16,33.00
+2494,MANISH MANOHAR,Noida,GEBD-Proposal Engg Department,Assistant Manager,VIII,11.53,35.00
+2495,MANJUNATH HALKUDE,Site,Quality Department,Senior Engineer,VIII,11.17,40.00
+2496,AJAY GUPTA,Noida,GEBD-Material Department,Assistant General Manager,V,24.18,46.00
+2497,HARSH PAL SINGH,Noida,EM-MCL,Deputy Manager,VII,14.74,38.00
+0135,RAJESH KUMAR,Noida,ESC- Mechanical,Manager,VII,18.42,53.00
+2503,DEEPTI MISHRA,Noida,SMD-Proposal Engg Department,Senior Engineer,VIII,11.53,32.00
+2504,ANIMESH CHAKRABORTY,Site,Quality Department,Engineer-I,VIII,8.89,31.00
+2506,PRASATH,Site,Quality Department,Senior Engineer,VIII,10.31,32.00
+2509,SUNIT KUMAR SANGAL,Site,SMD-Construction Department,Manager,VII,20.66,47.00
+2460,DHIRENDRA KUMAR   SAHOO,Noida,Commercial Department,Deputy Manager,VII,17.93,57.00
+2512,S. SIVA KUMAR,Site,Quality Department,Assistant Manager,VII,13.74,38.00
+2514,A. RANJITH PANDIAN,Site,CONS-Erection Department,Deputy Manager,VIII,14.97,36.00
+2531,SUSHIL KUMAR,Site,CONS-Erection Department,Assistant Manager,VII,10.86,34.00
+0138,ROSHAN LAL,Noida,ESC- Mechanical,Manager,VII,17.91,58.00
+2535,PRASANTH K. M.,Site,CONS-Erection Department,Engineer-I,VIII,9.27,32.00
+2537,ROHIT MOZA,Noida,ESC- Piping,Senior Engineer,VIII,9.23,31.00
+2538,DILEEP KUMAR MISHRA,Site,CONS-Erection Department,Deputy Manager,VII,15.14,36.00
+2540,SURENDER KUMAR,Noida,ESC- Piping,Assistant Engineer,IX,7.04,30.00
+2541,HARISH CHANDRA  SHARMA,Site,CONS-Erection Department,Deputy Manager,VII,14.80,45.00
+2542,SAHIL GUPTA,Noida,ESC- Piping,Assistant Engineer,IX,7.04,32.00
+2546,ASHOK KUMAR,Noida,ESC- Piping,Design Associate IV,IX,3.26,26.00
+2547,PAWAN KUMAR,Noida,ESC- Piping,Design Associate IV,IX,3.20,30.00
+2548,KOMAL SAINI,Noida,ESC- Piping,Design Associate IV,IX,3.26,28.00
+2549,MADHVI,Noida,ESC- Piping,Design Associate IV,IX,3.26,30.00
+2554,MANSI,Noida,SMD-Commercial Department,Officer-II,VIII,8.63,34.00
+2555,K.C . KARTHICK,Noida,EPC-ESC- Piping-Chennai,Senior Engineer,VIII,10.22,31.00
+2557,VINIT KUMAR SINGH,Noida,EPC-Contracts Department,Senior Engineer,VIII,13.10,31.00
+2558,RAJA R.,Noida,ESC- Piping,Engineer-II,VIII,8.62,36.00
+2559,YOGENDRA KUMAR SHARM,Noida,Commercial Department,Assistant General Manager,V,22.69,49.00
+2563,AMIT KUMAR,Noida,Commercial Department,Senior Officer,VIII,11.37,43.00
+2565,S. SAKTHIKUMAR,Noida,EPC-ESC- Mechanical-Chennai,Assistant Manager,VII,12.38,37.00
+2566,PRAVEEN KUMAR,Noida,GEBD-Material Department,Officer-II,VIII,9.57,36.00
+2570,SANJAY KOUL,Noida,EPC-Marketing Department,Senior Manager,V,20.94,44.00
+2571,A. ROBINSON,Chennai,EPC-ESC- Mechanical-Chennai,Assistant Engineer,IX,7.79,35.00
+2577,GAURAV AWASTHI,Noida,SMD-Proposal Engg Department,Senior Manager,V,22.22,43.00
+2578,V. RAJESHWARAN,Site,CONS-Erection Department,Deputy Manager,VII,15.33,37.00
+1149,PRAVEEN KUMAR,Noida,System Department,Senior Engineer,VIII,11.78,42.00
+2581,DEEPENDRA KUMAR   GUPTA,Noida,SMD-Construction Department,Manager,VI,19.40,45.00
+2583,KULDEEP SINGH,Noida,SMD-Construction Department,Assistant General Manager,V,24.07,49.00
+2591,MANDAR PRAKASH   VHAVAL,Noida,EPC-Contracts Department,Manager,VI,19.51,39.00
+2597,VIKAS KUMAR SINGH,Noida,GEBD-Contracts Department,Senior Engineer,VIII,12.26,32.00
+2598,SAURAV RAJPUT,Noida,SMD-Material Department,Assistant Manager,VIII,11.75,33.00
+2600,A. TAMILSELVAN,Chennai,EPC-ESC- Mechanical-Chennai,Assistant Engineer,IX,7.79,36.00
+2602,SUKHWINDER SINGH,Noida,ESC- Mechanical,Designer,IX,7.93,36.00
+2606,DIVIK KUMAR KANSAL,Noida,SMD-Proposal Engg Department,Assistant Manager,VII,13.85,41.00
+2609,SUNIL  KUMAR SHARMA,Noida,EM-MCL,Assistant Engineer,IX,7.61,36.00
+2610,ABRAR,Noida,EM-MCL,Assistant Engineer,IX,7.10,33.00
+2611,ROHIT SHARMA,Noida,Boiler-Operation & Maintenance,Deputy Manager,VII,12.50,35.00
+2615,RAVI KUMAR,Noida,ESC- Structural,Design Associate IV,IX,3.37,28.00
+2616,AMIT KUMAR,Noida,EM-ECL,Deputy Manager,VII,13.72,37.00
+2620,ANKUSH AGGARWAL,Noida,CONS-Commissioning Department,Assistant Manager,VIII,11.89,34.00
+2621,PANNEERSELVAM P.,Site,Quality Department,Deputy Manager,VII,18.13,38.00
+2623,GURUMATHAVAMOORTHI A,Noida,BLR-Proposal Eng.-Chennai,Assistant Manager,VII,13.44,39.00
+2626,A. MOHAMED IBRAHIM,Noida,ESC- Mechanical,Designer,IX,7.61,33.00
+2627,SACHIN SANKHALA,Noida,EM-ECL,Assistant Manager,VII,12.77,36.00
+2628,MAHENDRAN RAMASAMY,Noida,ESC- Mechanical,Deputy Manager,VII,15.63,34.00
+2630,AMANDEEP SINGH,Noida,EM-MCL,Design Associate I,IX,6.94,33.00
+2631,SAMEER SHARMA,Noida,SMD-Commercial Department,Assistant General Manager,V,31.53,45.00
+2632,ISHAN AGGARWAL,Noida,Export Marketing Department,Assistant Manager,VII,12.35,33.00
+2635,YOGESH MAHAJAN,Noida,EPC-Materials Department,General Manager,IV,38.94,47.00
+2640,A. LOUIE VINODH KUMA,Noida,ESC- Mechanical,Designer,IX,7.60,33.00
+2642,BADUGU KOTESHWAR,Noida,ESC- Mechanical,Engineer-II,VIII,9.63,40.00
+2646,ANAND SONI,Site,CONS-Commissioning Department,Senior Engineer,VIII,13.26,33.00
+2647,ASHOK  SINGH,Noida,Export Marketing Department,Assistant Manager,VII,12.90,34.00
+0142,SATYENDRA NATH TIWAR,Noida,ESC- Electrical,Manager,VI,17.65,54.00
+2650,SESHAGIRIRAO MADDALA,Site,Boiler-Operation & Maintenance,Manager,VI,22.01,44.00
+2651,PRAFULLA CHANDRA  BEHERA,Site,Boiler-Operation & Maintenance,Senior Manager,V,24.64,50.00
+2654,NATWAR LAL MALL,Noida,GEBD-Commercial Department,Assistant Manager,VII,14.95,42.00
+2655,MANISH SHARMA,Noida,IBD1-Contracts Department,Senior Manager,VII,20.96,37.00
+2657,VIVEK KUMAR,Site,Quality Department,Engineer-I,VIII,8.58,35.00
+2659,I RAJA SEKAR,Chennai,EPC-ESC- Electrical-Chennai,Engineer-II,VIII,8.46,35.00
+2665,SUDHIR KUMAR RAI,Site,Quality Department,Engineer-II,VIII,8.64,37.00
+2667,MANISH JAIN,Noida,EPC-Materials Department,Senior Manager,V,19.11,44.00
+2672,VIJAY KUMAR GIRI,Noida,GEBD-Commercial Department,Manager,VII,16.09,47.00
+2674,K. SIVA KUMAR,Chennai,EPC-ESC- Electrical-Chennai,Senior Engineer,VIII,12.87,34.00
+2675,BHUSHAN KUMAR BHARTI,Noida,ESC- Mechanical,Senior Engineer,VIII,10.76,32.00
+2677,GANESH R.,Site,CONS-Erection Department,Deputy Manager,VII,15.25,48.00
+2679,MAREDU ANJANEYULU,Site,EPC-Construction Department,Manager,VI,19.68,43.00
+2682,Y. PREM KUMAR,Chennai,EPC-ESC- Piping-Chennai,Assistant Engineer,IX,7.40,35.00
+1434,KAPIL KUMAR SINGH,Noida,Commercial Department,Vice President,IIIB,40.67,60.00
+2684,YOGESH  JALANDHAR PRASAD PANDEY,Noida,EPC-Contracts Department,Assistant Manager,VII,15.31,37.00
+2685,GAGANDEEP SINGH,Noida,ESC- C&I,Deputy Manager,VII,18.35,38.00
+0066,DEEPAK KUNDRA,Noida,Commercial Department,Manager,VI,17.55,57.00
+2689,NEERAJ TRIPATHI,Noida,EPC-Contracts Department,Engineer-II,VIII,8.97,36.00
+2693,S. KRISHNARAJ,Noida,ESC- Mechanical,Assistant Design Controller,VIII,12.24,35.00
+2695,PRADEEP KUMAR SHARMA,Noida,EM-MCL,Junior Engineer,IX,5.06,29.00
+2697,KUNAL MATHUR,Noida,EPC-Materials Department,Deputy Manager,VII,16.22,36.00
+2702,NAVDEEP MALHOTRA,Noida,SMD-Material Department,Senior Engineer,VIII,11.13,34.00
+2703,K. SATHEESH KUMAR,Noida,ESC- Mechanical,Senior Manager,VI,19.14,37.00
+2705,PREM SINGH,Noida,GEBD-Proposal Engg Department,Design Associate IV,IX,3.09,33.00
+2707,PATIL DINESH ZAMBAR,Noida,EPC Material Handling-Pune,Design Associate I,IX,5.50,32.00
+2710,A. SELVANAYAGAM,Site,EPC-Construction Department,Manager,VII,19.39,47.00
+2713,SUNIL PRASAD,Site,Boiler-Operation & Maintenance,Assistant Manager,VII,13.49,37.00
+2715,NAGAMOHAN M.,Noida,FGD-Proposal Eng. Department,Senior Manager,V,22.01,39.00
+2716,AMRIT SINGH CHAND,Noida,GEBD-Contracts Department,Assistant Manager,VIII,11.20,33.00
+2718,SIDDHARTH GOEL,Site,CONS-Erection Department,Engineer-I,VIII,8.71,30.00
+2720,DIGVIJAY SINGH,Noida,SMD-Proposal Engg Department,Senior Manager,V,20.67,49.00
+2725,DIGVIJAY SINGH,Noida,EPC-Contracts Department,Deputy Manager,VII,19.63,38.00
+2726,SHANMUGAVEL K,Noida,ESC- Mechanical,Assistant Manager,VII,12.72,34.00
+2728,VINAY KUMAR PATHAK,Noida,Export Marketing Department,General Manager,IV,34.92,52.00
+2730,VED PRAKASH,Noida,APCE-ESC- Mechanical,Junior Draftsman,IX,2.68,29.00
+2731,DIPAK VINOD KUKAWALKAR,Noida,EPC Material Handling-Pune,Assistant Manager,VIII,13.10,37.00
+2732,P. JAYAPAL,Site,Quality Department,Senior Engineer,VIII,10.14,35.00
+2739,PARTHASARTHY R,Site,Quality Department,Senior Engineer,VIII,11.31,34.00
+2740,S. VEERAKUMAR,Site,ESP-Share of Common Expenses,Senior Engineer,VIII,9.91,33.00
+2741,ANBUPANDIYAN R.,Noida,APCE-ESC- Mechanical,Engineer-II,VIII,8.79,34.00
+2747,RINKU KAMBOJ,Noida,ESC- Electrical,Assistant Engineer,IX,7.98,32.00
+2749,A. JAYAPAUL,Site,CONS-Erection Department,Deputy Manager,VII,18.67,40.00
+2751,JOGINDER SINGH,Noida,APCE-ESC- Mechanical,Junior Engineer,IX,4.66,33.00
+2752,SACHIN TOMAR,Noida,GEBD-Material Department,Senior Engineer,VIII,11.73,34.00
+2753,T. BARANIDHARAN,Noida,APCE-ESC- Mechanical,CHECKER I,VIII,9.54,38.00
+2755,KESHAV SINGH,Site,CONS-Erection Department,Deputy Manager,VII,15.62,38.00
+2756,RAJESH SHARMA,Site,SMD-Construction Department,Junior Engineer,IX,7.62,46.00
+2759,PAWAN DIKSHIT,Noida,Boiler Supply Chain Management,Assistant Manager,VII,10.51,39.00
+2763,SHAANTANU RASTOGI,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.55,28.00
+2764,AVINASH SINGH,Noida,ESP-Contracta Department,Senior Engineer,VIII,7.71,29.00
+0139,HEMANT KUMAR JOSHI,Noida,ESC- Structural,Manager,VII,16.70,53.00
+2780,PRABHAKAR K. SHARMA,Noida,Boiler Supply Chain Management,Assistant Manager,VII,14.02,41.00
+2782,R. MANOJ KUMAR,Noida,ESC- Mechanical,Senior Engineer,VIII,10.71,33.00
+2783,JAI PRAKASH SHARMA,Noida,ESC- Electrical,Deputy Manager,VII,17.78,42.00
+2784,RITAM SARKAR,Noida,ESC- C&I,Engineer-I,VIII,7.34,27.00
+2785,SACHIN GUPTA,Noida,GEBD-Contracts Department,Deputy Manager,VII,15.19,38.00
+2788,MRITUNJAY SINGH,Noida,ESP-Contracta Department,Assistant Manager,VIII,9.81,34.00
+2793,VIRENDRA KUMAR YADAV,Site,CONS-Erection Department,Senior Engineer,VIII,12.13,41.00
+2800,VIVEK KUMAR SEHGAL,Noida,Commercial Department,General Manager,IV,36.20,47.00
+2804,R. KARTHICK,Noida,EPC-ESC- Mechanical-Chennai,Assistant Manager,VII,13.25,38.00
+2806,DINESH KUMAR,Noida,EM-ECL,Senior Engineer,VIII,13.24,35.00
+2811,RAJESH KUMAR,Noida,Import Department,Officer-III,VIII,9.92,40.00
+2812,NITISH SHARMA,Noida,EPC-Construction Department,Senior Engineer,VIII,9.23,31.00
+2813,SATENDER SINGH NEGI,Noida,HR Department-IJT,Officer-I,VIII,10.12,45.00
+2814,ANKUSH SINGH KUSHWAH,Site,Boiler-Operation & Maintenance,Assistant Manager,VII,9.41,36.00
+2818,BALMUKUND SINGH,Noida,GEBD-Material Department,Assistant Officer,VIII,9.21,42.00
+2820,BISWARANJAN DASH,Site,CONS-Erection Department,Assistant Engineer,IX,6.76,32.00
+2822,G. RAJASEKARAN,Chennai,Chennai Proposal-EPC,Assistant Manager,VII,16.09,38.00
+2824,UMESH RAI,Noida,EPC-Contracts Department,General Manager,IV,31.56,45.00
+2827,SUNIL KUMAR RANA,Noida,SMD-Contracts Department,Assistant General Manager,V,22.67,49.00
+0165,PRAMOD KUMAR VASHIST,Noida,Material Common Service,Deputy Manager,VII,15.63,58.00
+2830,R. HEMA PRIYA,Noida,Chennai Proposal-EPC,Deputy Manager,VII,18.86,37.00
+2280,E  ADHIMOOLAM,Chennai,EPC-ESC- Electrical-Chennai,Associate Vice President,IV,39.10,48.00
+2835,DATTATRAY EKNATH GAW,Noida,EPC Material Handling-Pune,Manager,VII,19.84,39.00
+2836,KARAN VIR SINGH,Noida,SMD Animation,Engineer-II,VIII,8.60,38.00
+2838,ALOK SEHGAL,Noida,SMD-Contracts Department,Manager,VI,21.04,37.00
+2845,RAVI KUMAR,Noida,EM-MCL,Designer,IX,7.33,35.00
+2847,MUKUL MISHRA,Noida,EM-PRO,Engineer-I,VIII,7.34,27.00
+2848,MANISH GARG,Noida,EPC-Construction Department,Assistant General Manager,V,25.94,47.00
+2853,KRISHNA KUMAR RAI,Noida,SMD-Construction Department,Deputy Manager,VII,15.70,46.00
+2854,ASHWIN KUMAR,Noida,GEBD-Proposal Engg Department,Assistant Manager,VIII,14.15,38.00
+2858,DINESH,Chennai,EPC-ESC- Mechanical-Chennai,Senior Engineer,VIII,11.52,33.00
+2859,SANDEEP TRIPATHY  TRIPATHY,Noida,CONS-Commissioning Department,Senior Engineer,VIII,9.41,38.00
+2860,LOVEKESH JAIN,Noida,GEBD-Commercial Department,General Manager,IV,38.45,47.00
+2862,SANJEEV KUMAR YADAV,Noida,SMD-Construction Department,Manager,VI,20.48,45.00
+2863,SARBJEET SINGH,Noida,EPC Commissioning,Deputy General Manager,IV,29.89,47.00
+2864,V V ANANDA KUMAR GUN KUMAR GUNNU,Noida,CONS-Erection Department,Assistant Manager,VII,16.00,42.00
+2867,V L HIREMATH,Noida,EM-C&I,Deputy Manager,VII,15.26,37.00
+2869,ROHINI KIRAN FALE,Pune,SMD-ESC- Mechanical-Pune,Junior Engineer,IX,4.73,31.00
+2870,ARCHANA  DHANANJAY JADHAV,Pune,SMD-ESC- Piping-Pune,Junior Engineer,IX,4.50,28.00
+2871,ASHFAQ BEG,Noida,CONS-Commissioning Department,Senior Engineer,VIII,8.62,35.00
+2876,S. VARADHARAJA PERUM,Noida,CONS-Commissioning Department,Manager,VI,19.20,40.00
+2881,NARENDRA SINGH RAGHA,Noida,CONS-Erection Department,Assistant Engineer,IX,6.57,36.00
+2882,SUDHIR KUMAR,Noida,GEBD-Proposal Engg Department,Design Associate IV,IX,4.18,28.00
+1009,RAGHUNATH SRINIVASAN,Noida,FGD-Marketing Department,Associate Vice President,IV,38.89,50.00
+2885,SHRIHARI C   DHARMADHIKARI,Pune,SMD-Proposal Engg Department,Senior Manager,V,22.37,43.00
+2886,KAMTAR VENKAPPA MAYA,Pune,EM-MCL,Senior Manager,V,20.70,52.00
+2889,VIKAS TAKROO,Noida,IBD1-Marketing Department,Senior Manager,V,23.06,42.00
+2893,SUMAN SINGH,Noida,EPC-Materials Department,Assistant Manager,VII,14.33,35.00
+2896,B D KUMBHAR,Pune,SMD-ESC- Mechanical-Pune,Senior Engineer,VIII,11.27,50.00
+2897,MANOHAR YADAV,Noida,CONS-Commissioning Department,Engineer-I,VIII,8.85,28.00
+2899,B. GAGAN,Chennai,EPC-ESC- Mechanical-Chennai,Senior Engineer,VIII,9.32,29.00
+2900,MALLAMPALLI VEERANJA,Noida,Boiler-Operation & Maintenance,Deputy Manager,VIII,13.98,34.00
+2901,SATENDRA PAL SINGH,Site,SMD-Construction Department,Deputy Manager,VII,20.77,48.00
+2902,MUNNA SINGH,Noida,SMD-Construction Department,Junior Engineer,XII,7.38,47.00
+2903,BRIJESH KUMAR,Noida,ESC- Mechanical,Engineer-II,VIII,8.28,33.00
+2904,SHYAM SINGH,Noida,EM-MCL,Engineer-I,VIII,7.18,27.00
+2905,ASHISH SRIVASTAV,Noida,CONS-Erection Department,Senior Engineer,VIII,11.61,32.00
+2906,ANSHUL SHARMA,Noida,CONS-Erection Department,Senior Engineer,VIII,12.74,31.00
+2907,ASHISH KUMAR,Noida,Boiler-Operation & Maintenance,Engineer-I,VIII,10.01,32.00
+2909,SANTOSH KUMAR,Noida,Boiler-Operation & Maintenance,Senior Engineer,VIII,13.12,35.00
+2910,SUNIL WALMIKRAO   KUMAWAT,Pune,SMD-Proposal Eng. Dept.-Pune,Engineer-II,VIII,8.91,36.00
+2916,PRASHANT KUMAR SINGH,Noida,CONS-Commissioning Department,Engineer-I,VIII,8.15,28.00
+2919,RAKHONDE SATISH,Site,EPC-Construction Department,Senior Manager,V,22.38,43.00
+2921,UMANG SWAROOP,Noida,GEBD-Proposal Engg Department,Engineer-I,VIII,8.95,31.00
+2922,S PANNEER SELVAM,Noida,Boiler-Operation & Maintenance,Deputy Manager,VII,15.70,47.00
+2923,LOVE SHARMA,Site,SMD-Contracts Department,Senior Engineer,VIII,11.22,34.00
+2924,BHUPESH CHANDRA,Noida,SMD Animation,Junior Engineer,IX,4.71,36.00
+2925,SAMPAT B PATIL,Pune,SMD-Proposal Eng. Dept.-Pune,Engineer-II,VIII,9.33,34.00
+2926,RAVI SHANKAR CHANDRA,Noida,EM-C&I,Senior Engineer,VIII,7.76,33.00
+2927,SUNIL S MADALGI,Pune,EPC-Contracts Department,Senior Engineer,VIII,11.64,35.00
+2928,P MURUGESAN,Chennai,EPC-Contracts Department-Chennai,Engineer-II,VIII,7.81,34.00
+2930,RANIT  CHAKRABORTY,Noida,CONS-Commissioning Department,Engineer-I,VIII,8.67,30.00
+2931,AYUSH TAYAL,Noida,Export Marketing Department,Senior Engineer,VIII,8.33,27.00
+2933,MUNISEKHAR RAPURU,Noida,CONS-Commissioning Department,Assistant Manager,VIII,14.12,43.00
+2935,SHAILENDRA PRATAP SINGH,Noida,SMD-Commercial Department,Officer-II,VIII,7.80,34.00
+2936,KRISHNADEO A ATAKEKAR,Noida,CONS-Erection Department,Assistant Manager,VII,15.35,40.00
+2938,SOWNDARRAJAN R,Noida,GEBD-Proposal Engg Department,Assistant Manager,VII,11.44,32.00
+2939,PUNEETH KUMAR IDUPUGANTI,Noida,Boiler-Operation & Maintenance,Senior Engineer,VIII,12.31,33.00
+2948,SURENDRA NATH SHUKLA,Site,SMD-Construction Department,Manager,VI,17.22,49.00
+2950,ANURAG GAUR,Site,SMD-Contracts Department,Deputy Manager,VII,17.72,39.00
+2951,SHINDE AMOL DATTATRAY,Pune,EM-MCL,Assistant Engineer,IX,7.53,35.00
+2955,Amarjeet Aharwal,Noida,EPC-Contracts Department,Engineer-I,VIII,9.37,30.00
+2957,RAHUL CHAWLA,Noida,SMD-Proposal Engg Department,Engineer-I,VIII,6.71,27.00
+2963,KALIDASAN,Site,EPC-Construction Department,Manager,VI,19.76,43.00
+1616,RAJ MANI,Site,SMD-Construction Department,Deputy Manager,VII,14.84,59.00
+2967,ANAND JOSHI,Site,EPC-Construction Department,Assistant General Manager,V,20.11,49.00
+2968,MALAYA SAMAL,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,6.28,31.00
+2969,N SAKTHIVEL,Site,Quality Department,Engineer-I,VIII,8.96,30.00
+2972,DEEPU MANDAL,Noida,EM-C&I,Engineer-I,VIII,7.65,29.00
+2974,ARUNAKUMAR V,Chennai,EPC-Marketing Department-Chennai,Deputy Manager,VII,16.17,35.00
+2976,KUSUM,Noida,EM-C&I,Engineer-I,VIII,7.34,30.00
+2979,AASHISH NANDWANA,Site,SMD-Construction Department,Assistant Manager,VII,14.88,34.00
+2984,VIPIN KUMAR TIWARI,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,6.80,32.00
+2986,V HIRALDIN AROCKIADASS,Chennai,Chennai Proposal-EPC,Assistant Manager,VII,10.72,39.00
+2989,AWANISH KUMAR,Noida,EM-MCL,Engineer-I,VIII,6.92,25.00
+2990,KUMARI NIKITA,Noida,EM-MCL,Engineer-I,VIII,6.39,29.00
+2991,ADITYA SACHAN,Noida,SMD-Marketing Department,Engineer-I,VIII,6.39,25.00
+2992,PRASHANT KISHORE DIXIT,Noida,SMD-Contracts Department,Engineer-I,VIII,6.55,26.00
+2993,SOHAM SANYAL,Noida,SMD-Marketing Department,Engineer-I,VIII,6.39,27.00
+2999,DINESH KUMAR,Noida,ESC- Mechanical,Assistant Engineer,IX,5.90,34.00
+3002,P GOPINATH,Noida,ESC- Mechanical,Engineer-II,VIII,8.86,33.00
+3003,RANJIT SINGH P,Site,CONS-Erection Department,Deputy Manager,VII,14.26,37.00
+0171,SUBHRANSHU SAHA,Noida,Accounts Department-IJT,Assistant Manager,VII,14.72,57.00
+3006,SUBAPATHY VIMAL ELANGOVAN,Site,EPC-Construction Department,Deputy Manager,VII,19.57,38.00
+3007,KAMLESH KUMAR VERMA,Site,CONS-Erection Department,Engineer-I,VIII,8.10,32.00
+3008,JAIPRAKASH PAL,Noida,EM-MCL,Engineer-I,VIII,6.55,29.00
+3015,DEBASISH ROY  CHOUDHURY,Noida,EPC-Construction Department,Deputy General Manager,IV,31.27,50.00
+0384,B.KALIMUTHU,Noida,IBD1-Proposal Engg Department,Associate Vice President,IV,38.57,48.00
+3023,SANYOGITA M RAUT,Pune,EPC Material Handling-Pune,Senior Manager,V,22.65,41.00
+3024,ANIMESH KUMAR JHA,Site,CONS-Erection Department,Assistant Engineer,IX,6.54,48.00
+3025,ARVIND KUMAR SHARMA,Site,CONS-Erection Department,Assistant Manager,VII,13.40,43.00
+3026,J PARIMELAZHAGAN,Chennai,Chennai Proposal-EPC,Assistant Manager,VII,14.90,36.00
+3027,SOURABH KUMAR,Noida,Quality Department,Engineer-I,VIII,8.64,32.00
+3030,AJITKUMAR DINDAYALRAM PRAJAPATI,Noida,CONS-Commissioning Department,Senior Manager,V,21.41,49.00
+3032,GANESH BHOSALE,Noida,EPC Material Handling-Pune,Design Associate I,IX,7.09,40.00
+3034,RAJESH TIWARI,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,5.96,33.00
+3039,ARUN SUTRAVE,Pune,EPC Material Handling-Pune,Manager,VI,18.57,35.00
+3040,GADI RAMESH,Site,CONS-Commissioning Department,Senior Engineer,VIII,10.86,40.00
+3042,VINEET KAPOOR,Noida,EPC-Marketing Department,Assistant General Manager,V,29.84,48.00
+0237,SWATANTER SHARMA,Noida,Commercial Department,Assistant Manager,VII,14.70,59.00
+3046,TANU SHREE,Noida,EM-PRO,Engineer-I,VIII,7.65,29.00
+3047,SUMIT KUMAR SINGH,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,5.45,29.00
+3048,SANJIB LOCHAN BAG,Site,EPC-Construction Department,Assistant Manager,VII,12.71,41.00
+3049,UMESH VASANTRAO MADE,Site,GEBD-Proposal Engg Department,Assistant Engineer,IX,6.63,34.00
+3050,SANJAY KUMAR PANDEY,Site,Boiler-Operation & Maintenance,Deputy Manager,VII,15.07,46.00
+3052,SYED IZHAR,Noida,GEBD-Marketing Department,Assistant Manager,VII,12.80,36.00
+3053,MANOJ KUMAR GUPTA,Noida,EM-PEM,Deputy General Manager,IV,29.28,51.00
+3055,RAGHWENDRA KUMAR SINGH,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,5.57,28.00
+3056,RAJA RAJAMOHAN,Site,CONS-Commissioning Department,Assistant Manager,VII,17.27,38.00
+3057,SHANTANU MAJUMDER,Site,EPC-Construction Department,Assistant General Manager,V,31.03,52.00
+3059,BALA MURUGAN GUNA SEKARAN,Noida,CONS-Erection Department,Senior Engineer,VIII,10.78,36.00
+3061,AMRESH KUMAR,Site,Boiler-Operation & Maintenance,Senior Engineer,VIII,8.95,34.00
+3065,NITENDRA SINGH,Noida,GEBD-Contracts Department,Engineer-I,VIII,5.92,29.00
+3067,PALLAV GUPTA,Noida,EM-MCL,CHECKER I,VIII,10.82,42.00
+3019,M HARIHARAN,Noida,System Department,Associate Vice President,IIIB,37.97,49.00
+3071,PUNYAPU KUMAR VASUDEV,Site,CONS-Erection Department,Senior Engineer,VIII,10.09,39.00
+3375,RAMESHWAR  DWIVEDI,Noida,SMD-Construction Department,Deputy Manager,VII,13.55,55.00
+3076,ARUN SANKAR PITCHAI PANDIAN,Site,CONS-Erection Department,Engineer-I,VIII,7.87,35.00
+3079,MUTHUMANICKAM KUPPUSAMY,Site,CONS-Erection Department,Senior Engineer,VIII,12.22,35.00
+3080,NIKUNJA KUMAR SAHOO,Site,CONS-Erection Department,Senior Engineer,VIII,9.23,38.00
+3081,ALBIN KURIAKOSE,Site,CONS-Erection Department,Engineer-I,VIII,6.16,28.00
+3082,ROHIT SINGH,Noida,Quality Department,Assistant Manager,VII,10.32,36.00
+3085,RAMAN PRATAP SINGH,Noida,SMD-Proposal Engg Department,Manager,VI,17.92,45.00
+3086,GUNDA RAMANAREDDY,Noida,Safety Department,Senior Manager,V,19.05,42.00
+3088,ROHIT ANAND GUPTA,Noida,EPC-Contracts Department,Senior Officer,VIII,11.85,41.00
+3089,NARENDRA KUMAR,Noida,FGD-Proposal Eng. Department,Senior Engineer,VIII,9.47,35.00
+3090,MULPUR RAVIBABU,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,6.85,29.00
+3092,CHANDRAPRABHU  JAIN,Noida,EPC Material Handling-Pune,Manager,VI,16.33,41.00
+3094,ANKIT BIRTHARE,Noida,EM-C&I,Engineer-I,VIII,7.18,30.00
+3095,MANJEET RATHI,Noida,EM-C&I,Senior Engineer,VIII,9.05,32.00
+3096,AVINASH KUMAR SINGH,Noida,EPC-Contracts Department,Engineer-I,VIII,8.80,32.00
+3097,SHEKHAR PATHAK,Noida,SMD-Material Department,Senior Engineer,VIII,9.31,34.00
+3101,UJJAWAL KUMAR PANDEY,Noida,EPC-Contracts Department,Engineer-I,VIII,7.74,29.00
+3102,AKASH GUPTA,Noida,EPC-Contracts Department,Engineer-I,VIII,8.06,29.00
+3105,JAGDISH  SINGH,Noida,SMD-Construction Department,Engineer-I,VIII,10.58,50.00
+3106,RAJESH ANNA KAMBLE,Noida,EPC-Contracts Department,Associate Vice President,IV,34.88,48.00
+3107,SANTOSH KUMAR THAKUR,Noida,GEBD-Material Department,Engineer-I,VIII,6.94,28.00
+3111,LAKHAN DEEP,Site,CONS-Commissioning Department,Engineer-I,VIII,9.11,31.00
+3112,P RAMESH BABU,Chennai,EPC-ESC- Mechanical-Chennai,Assistant Manager,VII,11.75,36.00
+3113,SOURAV KUMAR NAYAK,Site,Quality Department,Assistant Manager,VII,15.71,37.00
+3114,PRAVESH KUMAR JHAMB,Noida,GEBD-Material Department,Senior Engineer,VIII,10.86,32.00
+3115,NISHANT KUMAR SAHU,Noida,GEBD-Material Department,Engineer-I,VIII,8.26,30.00
+3119,TANUJ NEGI,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.69,28.00
+3120,ACHYUT PRALHADRAO DHAGE,Noida,EM-MCL,Senior Engineer,VIII,10.46,33.00
+3121,AZHAGU SAKTHI R,Site,Quality Department,Engineer-I,VIII,6.47,32.00
+3122,HIMANSHU RANJAN,Noida,EPC-Contracts Department,Assistant Manager,VII,10.49,33.00
+3123,GAUTAM KUMAR  SHARMA,Noida,EPC-Contracts Department,Deputy Manager,VII,16.09,37.00
+3124,SATYENDRA KUMAR YADAV,Site,Boiler-Operation & Maintenance,Senior Engineer,VIII,10.15,37.00
+3128,MAINAK PAUL,Noida,EM-PRO,Engineer-I,VIII,5.76,26.00
+3129,MOHD FAIZ,Noida,SMD-Proposal Engg Department,Engineer-I,VIII,5.76,28.00
+3130,SAYAN SARKAR,Noida,SMD-Proposal Engg Department,Engineer-I,VIII,5.76,30.00
+3131,SHAILENDRA MANI,Noida,EM-PRO,Engineer-I,VIII,5.92,24.00
+3134,ANKIT  MENDHIRATTA,Noida,EPC-Contracts Department,Assistant Manager,VII,13.23,35.00
+3135,JITENDRA KUMAR CHAURASIYA,Site,CONS-Commissioning Department,Assistant Engineer,IX,6.08,30.00
+3136,ES KUMAR DEWANGAN,Site,CONS-Commissioning Department,Engineer-I,VIII,8.94,32.00
+3140,RAJEEV RANJAN,Noida,GEBD-Contracts Department,Deputy Manager,VII,18.02,38.00
+3143,CHANDRASEKARAN R,Chennai,Chennai Proposal-EPC,Deputy Manager,VII,14.62,35.00
+3144,ISHAAN MISHRA,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.99,28.00
+3147,VIJAY NARAYAN PAWAR,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,7.63,33.00
+3149,VELLIKAMALANATHAN GANESAN,Site,CONS-Erection Department,Assistant Manager,VII,15.21,36.00
+3150,SHREYAS SHRIVASTAV,Noida,GEBD-Contracts Department,Senior Engineer,VIII,8.01,34.00
+3152,G SARAVANA KUMAR,Chennai,EPC-ESC- Electrical-Chennai,Assistant Manager,VII,11.41,32.00
+3154,AJEET KUMAR SINGH,Site,Boiler-Operation & Maintenance,Assistant Manager,VII,10.53,34.00
+3156,MUTHUKUMAR K,Noida,ESC-Automation,Assistant Manager,VII,11.20,35.00
+3159,ASHOKA,Noida,EPC Commissioning,Assistant Manager,VII,12.31,39.00
+3160,NAVNEET KUMAR SINGH,Noida,SMD-Contracts Department,Senior Manager,V,23.74,40.00
+3161,SOHAN KUMAR MISHRA,Noida,CONS-Erection Department,Officer-III,VIII,8.14,39.00
+3162,SAURABH SINHA,Noida,ESP-Marketing Department,Assistant General Manager,V,26.44,45.00
+3166,MANUJ PRATAP SINGH,Noida,GEBD-Material Department,Senior Engineer,VIII,9.70,33.00
+3168,PRATUSH GARG,Noida,GEBD-Contracts Department,Senior Manager,V,23.68,37.00
+3169,MANISH KUMAR,Noida,SMD-Material Department,Field Engineer,VIII,6.66,27.00
+3171,P RAMESHBABU,Noida,GEBD-Proposal Engg Department,Assistant Manager,VII,11.48,32.00
+3172,PAVENDHAN E,Noida,GEBD-Proposal Engg Department,Senior Engineer,VIII,9.93,30.00
+3173,VIKESH SHARMA,Noida,SMD-Material Department,Field Assistant Engineer,IX,6.37,32.00
+3174,KATRU HARIKRISHNA,Site,Boiler-Operation & Maintenance,Manager,VIII,22.85,42.00
+3175,PRIYANK KOCHHAR,Noida,GEBD-Contracts Department,Manager,VII,17.01,34.00
+3177,MRUGANK MADHUKAR SAINDANE,Noida,Material Common Service,Manager,VI,19.90,40.00
+3183,DHARAM PRAKASH PANDEY,Noida,Export Logistic Department,Senior Officer,VIII,11.64,52.00
+3186,PARTHA DAS,Site,CONS-Erection Department,Engineer-II,VIII,6.58,31.00
+3187,SARFARAZ KHAN,Noida,ESP-Marketing Department,Senior Engineer,VIII,9.36,31.00
+3188,SHIKHA,Noida,EPC-Contracts Department,Engineer-I,VIII,5.92,24.00
+3189,DEBIPRASANNA  MOHAPATRA,Noida,EPC-Commercial Department,Deputy General Manager,V,27.16,44.00
+3190,NITESH SHRIDHARRAO WAT,Noida,Boiler Supply Chain Management,Field Engineer,VIII,7.52,32.00
+3191,ANKIT SRIVASTAVA,Site,CONS-Erection Department,Senior Engineer,VIII,10.60,37.00
+3192,R SELVAKUMAR,Noida,GEBD-Proposal Engg Department,Senior Engineer,VIII,9.75,30.00
+3195,PRASHANT MISHRA,Noida,SMD-Material Department,Engineer-I,VIII,6.66,28.00
+3197,JITENDRA BHAU GOLE,Pune,EPC Material Handling-Pune,Design Associate III,IX,4.21,36.00
+3199,VEBHAV ANAND,Noida,CONS-Erection Department,Engineer-I,VIII,6.32,32.00
+0169,RAKESH KR.SHARMA,Noida,Accounts Department-IJT,Assistant Manager,VII,13.44,57.00
+3202,ASHOK SURESH  GADHAVE,Pune,EPC Material Handling-Pune,Design Associate I,IX,6.49,35.00
+3203,ANUP KUMAR,Noida,GEBD-Contracts Department,Assistant Manager,VII,12.96,36.00
+3204,GANESH UTTAMRAO LOHAR,Pune,EPC Material Handling-Pune,CHECKER I,VIII,10.38,39.00
+3205,SHASHANK  BHATIA,Noida,ESC- Project Engineering Management,Assistant Manager,VII,13.92,33.00
+3206,AJAY,Noida,SMD-Construction Department,Senior Engineer,VIII,12.00,33.00
+2403,RAM PRASAD SINGH,Site,CONS-Erection Department,Assistant Manager,VII,13.16,54.00
+3201,BISHWA MITRA GOPE,Noida,EM-MCL,Assistant Design Controller,VII,12.60,60.00
+3209,HARIPRASANNA BALASUBRAMANIAN,Noida,IBD1-Proposal Engg Department,Deputy Manager,VII,19.70,38.00
+3210,HARIKRISHNAN B,Noida,IBD1-Proposal Engg Department,Assistant Manager,VII,12.97,33.00
+3212,VISHNU PALIWAL,Noida,EPC-Commercial Department,Officer-I,VIII,9.50,33.00
+3214,AJEET YADAV,Site,CONS-Erection Department,Engineer-I,VIII,7.51,32.00
+3216,VIGNESH V,Chennai,EPC-ESC- Electrical-Chennai,Designer,VIII,9.33,34.00
+3218,AMIT KUMAR,Noida,EPC-Contracts Department,Assistant Manager,VII,11.53,35.00
+3219,NARAYAN PALIT,Noida,EPC-Contracts Department,Senior Engineer,VIII,10.59,34.00
+3221,ASHWINI  BAGAL,Noida,SMD-ESC- Piping-Pune,Design Associate III,VIII,4.13,29.00
+3225,N UDAYAKUMAR,Noida,IBD1-Proposal Engg Department,Designer,VIII,8.43,32.00
+3226,VENKATRAMAN PERIYASAMY,Noida,EPC-Contracts Department,Deputy Manager,VII,17.04,35.00
+3227,VIVEKANAND KRIPASHANKAR SINGH,Noida,EPC-Construction Department,Senior Manager,V,17.82,51.00
+3228,ATISH KUMAR DHIMAN,Noida,EM-PEM,Deputy Manager,VIII,12.15,35.00
+3229,RAJENDRA VASANT  DONGALE,Pune,SMD-ESC- Mechanical-Pune,Design Associate II,IX,4.68,32.00
+3230,PANKAJ NAUDIYAL,Noida,EM-MCL,Design Associate I,VIII,6.67,34.00
+3231,MAHENDRA KUMAR SAI,Noida,SMD-Material Department,Deputy Manager,VII,18.69,37.00
+3232,UDAY A BHANGE,Noida,EPC-Contracts Department,Manager,VI,17.06,37.00
+3234,PANKAJ BHARDWAJ,Noida,EM-MCL,CHECKER II,VIII,8.89,40.00
+3235,MELVIN MARIA LOUIS,Pune,EPC Material Handling-Pune,Engineer-I,VIII,6.11,26.00
+3236,SAGAR SHANKAR  YAMAGAR,Pune,SMD-ESC- Mechanical-Pune,Design Associate II,IX,4.45,27.00
+3238,A ESWARAN,Chennai,EPC-ESC- Civil-Chennai,Manager,VI,14.85,43.00
+3239,ANURAG GARG,Noida,EM-MCL,Engineer-I,VIII,6.82,28.00
+3241,M PRABHU,Chennai,EPC-ESC- Civil-Chennai,Manager,VI,17.53,39.00
+3242,SANDIP BABASO PATIL,Pune,EPC Material Handling-Pune,Designer,VIII,10.42,36.00
+3243,PUNYATMA KALYAN DWIVEDI,Noida,EPC-Construction Department,Assistant General Manager,V,20.52,50.00
+3244,UPPILI SRINIVASAN V,Chennai,EPC-Marketing Department-Chennai,Senior Manager,V,18.57,48.00
+3246,SANTOSH KUMAR,Site,Quality Department,Assistant Engineer,IX,6.28,41.00
+3247,SULEKHA PRASHANT DHAMDHERE,Pune,EPC Material Handling-Pune,Senior Engineer,VIII,14.19,35.00
+3248,AVANISH KUMAR SINGH,Noida,EM-MCL,Engineer-I,VIII,6.46,26.00
+3249,KULDEEP RAWAT,Noida,Commercial Department,Officer-II,VIII,7.54,31.00
+3250,DEEPAK KAUSHIK,Noida,Boiler Supply Chain Management,Assistant Manager,VII,10.47,36.00
+3255,SAURABH  ARORA,Noida,SMD-Material Department,Senior Engineer,VIII,12.25,33.00
+3256,GOURAV SARBADHIKARY,Noida,IBD1-Marketing Department,Assistant Manager,VII,13.11,35.00
+3257,PANKAJ ASHOK WAHANE,Noida,Boiler Supply Chain Management,Senior Engineer,VIII,8.32,31.00
+3258,VIVEK DOBRIYAL,Noida,HR Department-IJT,Assistant Officer,IX,6.49,27.00
+3260,JUHI SINGH,Noida,ESC- Mechanical,Engineer-I,VIII,5.13,24.00
+3263,VIPUL,Site,EPC-Construction Department,Junior Engineer,IX,2.59,20.00
+3264,MARIMUTHU SELVARAJ,Chennai,EPC-ESC- Mechanical-Chennai,Engineer-I,VIII,5.13,23.00
+3265,HARDIK BATRA,Noida,GEBD-Material Department,Engineer-I,VIII,5.13,25.00
+3268,SHASHANK RAI,Noida,EPC-Contracts Department,Engineer-I,VIII,5.13,25.00
+3269,SANDEEP,Noida,FGD-Materials Department,Engineer-I,VIII,5.13,25.00
+3271,NITESH,Site,EPC-Construction Department,Junior Engineer,IX,2.59,20.00
+3272,CHAMAN PRAKASH,Site,SMD-Construction Department,Junior Engineer,IX,2.59,23.00
+3273,NITIN YADAV,Site,SMD-Construction Department,Junior Engineer,IX,2.59,21.00
+3275,ANUBHA  JAISWAL,Noida,EPC-Contracts Department,Senior Engineer,VIII,7.53,34.00
+3276,MANICKAM R,Noida,ESC-Automation,Assistant Manager,VII,10.96,36.00
+3277,MAGENDIRAN RAMAMOORTHY,Site,Quality Department,Deputy Manager,VII,16.48,39.00
+3279,AMIT KUMAR ARYA,Noida,Boiler Supply Chain Management,Deputy Manager,VII,16.65,38.00
+3281,HARDESH KUMAR GUPTA,Noida,ESP-Material Department,Engineer-I,VIII,9.76,34.00
+3282,AMIT JAJORIA,Noida,ESC- Project Engineering Management,Deputy Manager,VII,16.47,36.00
+3283,YOGITA TOKE,Noida,EM-STL,Deputy Manager,VII,17.50,35.00
+3284,K RAMACHANDRAN,Chennai,EPC-ESC- Project Engg Management- Chennai,Deputy Manager,VII,15.73,36.00
+3286,MAHESH MATHIVANAN,Noida,APCE-ESC- Mechanical,Deputy Manager,VII,14.11,38.00
+3287,NITIN SUBHASH PATIL,Pune,APCE-ESC- Mechanical,Deputy Manager,VII,11.46,38.00
+3288,MANAS PATHAK,Noida,FGD-Contracts Department,Deputy General Manager,IV,28.85,43.00
+3289,SANTHOSH KUMAR JAJIMOGGALA,Noida,EPC-Contracts Department,Senior Engineer,VIII,11.95,34.00
+3290,RAKESH,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.52,31.00
+3291,BAPPADITYA MONDAL,Noida,FGD-Proposal Eng. Department,Senior Engineer,VIII,11.13,32.00
+3292,MARUTI KERABA PATIL,Pune,EPC Material Handling-Pune,Design Associate II,IX,4.70,30.00
+3293,MANISH JALCHHATRI,Noida,APCE-ESC- Mechanical,Senior Engineer,VIII,13.74,34.00
+3294,G VARUN,Noida,GEBD-Material Department,Assistant Manager,VII,15.60,36.00
+3297,VISHAL KUMAR,Noida,FGD-Materials Department,Senior Manager,V,21.79,38.00
+3298,LABDHA BIJOY CHOUDHURY,Noida,FGD-Contracts Department,General Manager,IV,34.72,48.00
+3299,JITENDRA BANSAL,Noida,EPC-ESC- Civil,Manager,V,21.94,39.00
+3300,JITENDER SHARMA,Noida,EPC-Materials Department,Engineer-I,VIII,5.76,26.00
+3304,ANKIT KUMAR,Noida,FGD-Contracts Department,Senior Engineer,VIII,8.79,33.00
+3305,DHANASEKARAN,Noida,Quality Department,Engineer-I,VIII,9.96,29.00
+3306,K S  RAJKUMAR,Chennai,BLR-Proposal Eng.-Chennai,Senior Engineer,VIII,8.71,30.00
+3307,SURENDRAN,Noida,CONS-Erection Department,Engineer-I,VIII,9.29,31.00
+3309,DEEPAK KUMAR SHARMA,Noida,ESP-Contracta Department,Senior Engineer,VIII,11.44,37.00
+3310,VARUN KUMAR JHA,Noida,EPC-Materials Department,Engineer-I,VIII,6.82,27.00
+3311,TAMAL GHOSH,Site,CONS-Erection Department,Senior Engineer,VIII,10.90,40.00
+3314,DEEPAK KUMAR,Noida,FGD-Contracts Department,Deputy Manager,VII,20.69,42.00
+3317,MUDIT JAIN,Noida,EPC-Contracts Department,Deputy General Manager,V,32.45,48.00
+3318,SUMAN NANDY,Noida,ESP-Contracta Department,Manager,VI,21.01,39.00
+3319,TARUN MADAAN,Noida,EPC-Contracts Department,Deputy Manager,VII,19.57,40.00
+3320,RAJA P,Chennai,EPC-ESC- Electrical-Chennai,Assistant Manager,VII,12.11,37.00
+3321,M MANIMARAN,Chennai,EPC-ESC- Electrical-Chennai,Design Associate I,IX,9.13,37.00
+3322,SHASHANK SRIVASTAVA,Noida,GEBD-Material Department,Assistant Manager,VII,12.45,36.00
+3323,PUNEET GUPTA,Noida,FGD-Materials Department,Assistant Manager,VII,11.75,35.00
+3325,VINOTH BALASUBRAMANIYAN,Noida,APCE-ESC- Mechanical,Assistant Manager,VII,13.11,36.00
+3326,SONU KUMAR YADAV,Noida,ESP-Contracta Department,Junior Engineer,IX,3.71,25.00
+3328,THANNEERU VEERAM RAJU,Noida,APCE-ESC- Mechanical,Engineer-I,VIII,7.54,28.00
+3329,PAVAN DATTATRAYA TIKATE,Pune,EPC Material Handling-Pune,Engineer-I,VIII,8.24,29.00
+3330,MAHESH KUMAR,Noida,FGD-Commercial Department,Officer-II,VIII,7.72,30.00
+3400,NARESH  KUMAR,Noida,SMD-Proposal Engg Department,Deputy Manager,VII,11.92,54.00
+3332,KIRAN RAMESH DEO,Pune,EPC Material Handling-Pune,Assistant Design Controller,VII,13.55,40.00
+3333,ANANDKUMAR BISAMBARLAL SURYAWANSHI,Noida,Safety Department,Engineer-II,VIII,7.69,35.00
+3334,MOHIT SHARMA,Noida,GEBD-Contracts Department,Assistant Manager,VII,11.39,34.00
+3335,RUPESH BHATTACHARYA,Noida,FGD-Contracts Department,Engineer-I,VIII,4.97,28.00
+3336,VISHAL KUMAR CHOURASIA,Site,Quality Department,Engineer-I,VIII,6.89,30.00
+3337,RAJWINDER SINGH,Noida,SMD-Material Department,Engineer-I,VIII,8.96,33.00
+2580,BHUPENDER  KUMAR KASHYAP,Noida,System Department,Assistant Manager,VII,10.09,44.00
+3339,DNYANESHWAR R GAWADE,Pune,EPC Material Handling-Pune,Designer,VIII,7.02,42.00
+3340,ANAGOUDA K PATIL,Site,EPC-Construction Department,Assistant General Manager,V,24.55,51.00
+3341,MALAY  MAITY,Pune,EPC Material Handling-Pune,Designer,VIII,11.75,45.00
+3342,SIDDHARTH  SHUKLA,Noida,SMD-Construction Department,Senior Engineer,VIII,10.77,30.00
+3344,MAHESHKUMAR MOHANBHAI BARI,Site,Quality Department,Engineer-I,VIII,9.79,32.00
+3345,ARUNKUMAR CHOKKALINGAM,Noida,APCE-ESC- Mechanical,Designer,VIII,8.84,32.00
+3346,SHAHRUKH  ANSARI,Noida,EM-MCL,Engineer-I,VIII,7.18,28.00
+3347,RAHUL TEJPAL,Noida,GEBD-Material Department,Engineer-I,VIII,7.22,27.00
+3349,SOURABH  TRIPATHI,Noida,EM-ECL,Engineer-I,VIII,8.12,31.00
+3350,PARITOSH  VINOD,Noida,EPC-Marketing Department,Assistant Manager,VII,16.29,35.00
+3354,JITENDRA KUMAR GIRI,Noida,ESP-Contracta Department,Engineer-I,VIII,7.43,32.00
+3355,TIRUPATI SARKAR,Site,Quality Department,Assistant Manager,VII,17.31,46.00
+3356,RAJESH  KUMAR,Pune,EPC Material Handling-Pune,Senior Engineer,VIII,10.99,37.00
+3357,BABU M,Noida,ESC- Project Engineering Management,Senior Engineer,VIII,11.85,34.00
+3359,RAJESH KUMAR DWIVEDI,Noida,FGD-Construction Department,Deputy General Manager,IV,26.95,49.00
+3361,GAJANAN RAGHUNATH PATIL,Pune,EPC Material Handling-Pune,Manager,VI,18.53,42.00
+3362,PRATEEK SONI,Noida,FGD-Proposal Eng. Department,Engineer-I,VIII,6.34,29.00
+3363,ABHISEK ABHINASH,Noida,Boiler Supply Chain Management,Assistant Manager,VII,12.54,36.00
+3364,Md. Faisal,Site,Quality Department,Senior Engineer,VIII,10.90,34.00
+3365,SANTHAKUMAR SHANMUGAM,Site,FGD-Construction Department,Senior Manager,V,19.76,40.00
+3366,BALMIKI MISHRA,Noida,FGD-Commercial Department,Assistant Manager,VII,12.11,44.00
+3367,ABDULLAH JAVED,Noida,FGD-Contracts Department,Engineer-I,VIII,6.92,30.00
+3369,MUNISH GUPTA,Noida,SMD-Contracts Department,Deputy Manager,VII,15.30,37.00
+3370,AMRIK  SINGH,Site,SMD-Construction Department,Senior Engineer,VIII,8.65,33.00
+3371,P REGU RAMAN,Site,EPC-Construction Department,Manager,VI,14.28,50.00
+3372,SANJAY  KUMAR,Noida,EPC-Contracts Department,Deputy General Manager,V,32.89,48.00
+3374,DIBBYAJYOTI  CHATTERJEE,Site,Quality Department,Assistant Engineer,IX,7.45,32.00
+1329,NISAR ALI SHAH,Noida,EM-MCL,Assistant Design Controller,VIII,11.87,54.00
+3376,SIRAJUDDIN AHAMAD,Site,CONS-Erection Department,Assistant Manager,VII,11.15,42.00
+3378,ANUBHAV GUPTA,Noida,IBD1-Contracts Department,Deputy Manager,VII,19.26,40.00
+3379,MEGHA  JAIN,Noida,Commercial Department,Officer-III,VIII,6.71,30.00
+3380,KRISHNA KUMAR RAGHAVA,Noida,EPC-Construction Department,Assistant Officer,IX,8.18,33.00
+3383,ASHOK ROY,Noida,FGD-Proposal Eng. Department,Assistant Manager,VII,17.00,33.00
+3384,SABAREESHWARAN  S,Site,Quality Department,Engineer-I,VIII,6.88,29.00
+3386,KAUSHIK  CHAUDHURY,Pune,EPC Material Handling-Pune,Assistant Manager,VII,14.01,44.00
+3387,SUPRATIM DEY,Noida,EPC-Construction Department,Senior Manager,V,19.58,39.00
+3388,DINESH  KUMAR,Site,EPC-Construction Department,Deputy General Manager,IV,36.66,48.00
+3390,PREMKUMAR  THANGAMUTHU,Noida,EPC-ESC- Civil-Chennai,Deputy General Manager,IV,25.70,48.00
+3391,MUKESH KUMAR,Noida,CONS-Erection Department,Assistant Engineer,IX,6.89,29.00
+3392,VINEET KUMAR YADAV,Site,Safety Department,Engineer-II,VIII,9.92,32.00
+3394,AMIT KUMAR SINGH,Noida,EPC-Contracts Department,Engineer-I,VIII,5.87,27.00
+0174,SUBHENDU GHOSH,Noida,Accounts Department-IJT,Officer-I,VIII,11.49,54.00
+3396,MAHESH UTTAM LENGARE,Site,EPC-Construction Department,Civil Head- Latur Site,VII,19.30,37.00
+3397,RAMESHWAR  YADAV,Site,Quality Department,Junior Engineer,IX,7.34,31.00
+3398,KAMAL  SINGH,Noida,EPC-ESC- C&I,Design Associate II,IX,5.42,39.00
+3399,MAHESH KUMAR SHARMA,Noida,Export Logistic Department,Manager,VI,19.76,45.00
+3331,NINDAR SINGH,Site,SMD-Construction Department,Engineer-II,VIII,10.91,54.00
+0362,GOUTAM GUPTA,Site,CONS-Erection Department,Assistant Manager,VII,10.36,58.00
+3402,KISHOR SARANGDHAR SURYAWANSHI,Site,EPC-Construction Department,Assistant General Manager,V,24.61,46.00
+3403,VIBHOR  AGARWAL,Noida,EPC-Contracts Department,Senior Engineer,VIII,10.04,33.00
+3404,AMAR RAJ SAXENA,Noida,EPC-Contracts Department,Engineer-I,VIII,5.13,25.00
+3406,NILESH KUMAR GUPTA,Noida,EPC-Contracts Department,Engineer-I,VIII,5.13,24.00
+3409,SATYAJIT CHOWDHURY,Noida,ESP-Material Department,Senior Engineer,VIII,8.99,34.00
+3410,SUJIT KUMAR THAKUR,Site,ESP-Share of Common Expenses,Engineer-II,VIII,6.61,37.00
+3411,SUBRAMANI  AZHAGUMALAI,Chennai,EPC-Proposal Engg  Department,Design Associate I,IX,4.63,30.00
+3413,ABHIJIT BHAHUSAHEB LATTHE,Pune,EPC Material Handling-Pune,Deputy Manager,VII,16.45,34.00
+3414,KUNAL  SINGH,Site,SMD-Construction Department,Engineer-II,VIII,7.74,28.00
+3416,SOUMYA KANTI  GUHA,Noida,FGD-Proposal Eng. Department,Deputy Manager,VII,14.96,34.00
+3417,PARVEEN  KUMAR,Site,SMD-Construction Department,Senior Engineer,VIII,12.10,41.00
+3419,N. R. Gopinathan,Noida,APCE-ESC- Mechanical,Senior Manager,V,22.82,38.00
+3420,PRAVIN KUMAR SINGH,Site,CONS-Erection Department,Engineer-I,VIII,5.76,29.00
+3421,MANAS  GHOSAL,Site,Quality Department,Senior Engineer,VIII,11.33,43.00
+3422,SHRIKRISHAN GUPTA,Noida,CONS-Erection Department,Engineer-II,VIII,6.75,29.00
+3423,DEVID  JOHNSON,Site,Quality Department,Engineer-I,VIII,7.24,28.00
+3424,RAJESH HOUSNUR,Noida,GEBD-Material Department,Assistant Manager,VII,11.12,34.00
+3425,AMAR SOLANKI,Noida,ESP-Marketing Department,Assistant Manager,VII,13.41,46.00
+3426,VIKASH  MOHAN,Noida,EPC-Commercial Department,Assistant Manager,VII,9.75,42.00
+3427,GAURAV KUMAR,Noida,GEBD-Contracts Department,Senior Engineer,VIII,9.38,30.00
+3428,RAJESH  R,Chennai,EPC-Proposal Engg  Department,Senior Engineer,VIII,7.25,33.00
+3429,ASHOK KUMAR PANDEY,Site,Boiler-Operation & Maintenance,Senior Engineer,VIII,8.54,38.00
+3430,CHANDRAKANT KALYAN BHADKE,Pune,EM-PPG,Design Associate II,IX,5.61,31.00
+3432,ASHRAF  ANWAR,Site,EPC-Construction Department,Officer-III,VIII,9.86,31.00
+3433,RAHUL PANDEY,Noida,GEBD-Material Department,Engineer-I,VIII,7.46,33.00
+3434,ABHINAV SHARMA,Noida,GEBD-Material Department,Engineer-I,VIII,5.92,26.00
+3435,ASOKA V,Site,FGD-Construction Department,Senior Engineer,VIII,10.85,37.00
+3436,S SUDHARSANAN,Site,FGD-Construction Department,Engineer-I,VIII,6.88,29.00
+3437,CHANNABASAVESWAR SIDDARAM,Site,Boiler-Operation & Maintenance,Assistant Engineer,IX,6.43,29.00
+3438,LALIT KUMAR AGARWAL,Noida,FGD-Construction Department,Deputy General Manager,IV,25.79,47.00
+3440,SANDEEP  DHULL,Noida,EPC-Contracts Department,Assistant Manager,VII,13.19,34.00
+3441,PRIYANSHEE  BORDOLOI,Noida,EPC-Contracts Department,G.E.T,VIII,4.86,27.00
+3442,SHIKHAR  MISHRA,Noida,SMD-Construction Department,G.E.T,VIII,4.86,25.00
+3443,HARSH  AWASTHI,Noida,SMD-After Sales,G.E.T,VIII,4.86,22.00
+3445,GAURAV KESTWAL,Noida,GEBD-Contracts Department,Senior Engineer,VII,11.05,33.00
+3446,PANKAJ KAPOOR,Noida,CONS-Commissioning Department,Assistant Manager,VII,13.26,36.00
+3447,AMIT KUMAR SINGH,Noida,Boiler-Operation & Maintenance,Engineer-II,VIII,4.86,34.00
+3448,VACHASPATI VYAS,Site,GEBD-Marketing Department,Senior Engineer,VIII,8.72,35.00
+3450,AMIT KUMAR,Noida,EM-STL,Design Associate I,IX,7.51,37.00
+3451,PALANIRAJA  SANTHANAM,Chennai,EPC-ESC- Piping-Chennai,Manager,VI,21.65,41.00
+3452,BHUSHAN KUMAR,Noida,ESC- Piping,Designer,VIII,8.65,30.00
+3453,PRABIR KUMAR BEHERA,Site,FGD-Construction Department,Senior Engineer,VIII,10.85,34.00
+3454,RAJKUMAR S MUNE,Noida,Boiler Supply Chain Management,Engineer-I,VIII,6.71,29.00
+3455,NILESH BALBHIM WAYKULE,Site,EPC-Construction Department,Senior Engineer,VIII,14.30,38.00
+3456,ANKIT AGRAWAL,Noida,GEBD-Material Department,Assistant Manager,VII,13.41,33.00
+3457,ANIL KUMAR VISHWAKARMA,Noida,Quality Department,Assistant Engineer,IX,5.91,32.00
+3458,PRAVEEN KUMAR SINGH,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.01,28.00
+3460,UMESH CHANDRA MISHRA,Site,Boiler-Operation & Maintenance,Assistant Manager,VII,10.63,37.00
+3461,PANKAJ KUMAR JAIN,Site,FGD-Construction Department,Assistant Manager,VII,18.71,44.00
+3462,DEBJIT CHAKRABORTY,Noida,GEBD-Contracts Department,Assistant Manager,VII,11.55,35.00
+3463,SURYA PRAKASH DUBEY,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,6.70,30.00
+3464,ASHOK N,Noida,APCE-ESC- Mechanical,Manager,VII,20.12,38.00
+3465,ANMOLDEEP SINGH BILKHU,Noida,GEBD-Contracts Department,Senior Engineer,VIII,10.49,32.00
+3467,KAPIL BHARGAVA,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,3.28,28.00
+3468,R RAJESH,Chennai,Boiler-ESC- Mechanical-Chennai,Designer,VIII,10.44,41.00
+3469,SIVARAMAN,Site,CONS-Commissioning Department,Deputy Manager,VII,16.31,40.00
+3470,HIMANSHU SHARMA,Noida,GEBD-Material Department,Engineer-I,VIII,7.01,26.00
+3471,BASKARAN,Noida,ESP-Share of Common Expenses,Engineer-I,VIII,4.59,28.00
+3472,ANIL KUMAR PANDEY,Noida,ESP-Share of Common Expenses,Engineer-I,VIII,8.99,41.00
+0223,JAGDISH ARORA,Noida,SMD-Marketing Department,Officer-II,VIII,9.50,54.00
+3476,ARAVINDKUMAR BHARATHI,Noida,GEBD-Proposal Engg Department,Engineer-I,VIII,6.03,27.00
+3477,PRAFULLA MARUTI MORE,Pune,APCE-ESC- Mechanical,Designer,VIII,6.86,41.00
+3478,ASHISH GURJAR,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,5.33,30.00
+3479,VIRENDRA KUMAR,Site,CONS-Commissioning Department,Engineer-I,VIII,8.06,33.00
+3480,ARPIT NIGAM,Site,CONS-Commissioning Department,Engineer-I,VIII,4.64,27.00
+3481,PRABHAT KUMAR CHAUDHARY,Noida,APCE-ESC- Mechanical,Senior Engineer,VIII,10.94,33.00
+3482,KUMAR DHANAPAL,Site,CONS-Erection Department,Deputy Manager,VII,14.13,38.00
+3483,ASHWANI KUMAR RAICHANDANI,Noida,EPC-Contracts Department,Deputy Manager,VII,18.72,35.00
+3484,YATISH CHAND SINGH,Noida,EPC-Construction Department,Manager,VI,19.74,43.00
+3485,KUSHAGRA THAKRE,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.16,28.00
+3486,BRIJESH KUMAR SHAKYA,Noida,Boiler-Operation & Maintenance,Deputy Manager,VII,13.68,38.00
+3487,VISHWAJEET VATS,Noida,GEBD-Contracts Department,Assistant Manager,VII,12.50,36.00
+3489,AJAY  ARORA,Noida,Quality Department,Assistant Manager,VII,12.49,37.00
+3490,SANTHOSH  SRIDHARAN,Chennai,EPC-Proposal Engg  Department,Assistant Manager,VII,13.10,34.00
+3491,ABHISHEK  GUPTA,Noida,EM-PPG,Deputy Manager,VII,16.02,39.00
+3492,AYYAPPAN  SUBRAMANIAN,Chennai,EPC-Proposal Engg  Department,Assistant Manager,VII,13.29,34.00
+3493,GOPINATH DURAI,Site,CONS-Commissioning Department,Engineer-I,VIII,6.70,31.00
+3494,AJAY KUMAR,Noida,GEBD-Material Department,Engineer-I,VIII,5.72,27.00
+3495,RAJAN SINGH,Noida,ESC- Mechanical,Engineer-I,VIII,8.17,27.00
+3497,KAVASKAR V,Chennai,Boiler-ESC- Mechanical-Chennai,Designer,VIII,9.44,39.00
+3498,ARUL PRAKASH H,Chennai,EPC-Proposal Engg  Department,Design Associate I,IX,7.40,35.00
+3499,SARAVANAN  SUBRAMANIAN,Chennai,EPC-Proposal Engg  Department,Assistant Manager,VII,12.85,33.00
+3500,J ARUN,Noida,APCE-ESC- Mechanical,Deputy Manager,VII,16.62,37.00
+3502,NEERAJ  HADA,Site,Safety Department,Engineer-II,VIII,7.15,33.00
+3504,SUMIT  BARMAN,Site,EPC-Construction Department,Engineer-II,VIII,5.90,31.00
+3505,VINOD KRISHNARAO JARODE,Site,EPC-Construction Department,Deputy Manager,VII,19.79,44.00
+3506,S GANESH PRABU,Noida,GEBD-Proposal Engg Department,Deputy Manager,VII,17.28,38.00
+3507,SUNIL DUTT PANDEY,Site,Quality Department,Engineer-I,VIII,11.16,32.00
+3509,ANKIT VATSAL,Noida,GEBD-Contracts Department,Senior Engineer,VIII,8.51,28.00
+3510,KAVINDRA SINGH MEHRA,Noida,Boiler Supply Chain Management,Assistant Manager,VII,14.27,36.00
+3511,PANDIYARAJ  MADURAIVEERAN,Chennai,EPC-Proposal Engg  Department,Design Associate I,IX,7.38,35.00
+3512,JAYAKUMAR S,Noida,ESC- Mechanical,Design Associate I,IX,9.02,34.00
+3513,PRATIK CHOUDHURY,Noida,IBD1-Proposal Engg Department,Engineer-I,VIII,4.97,26.00
+3514,MANISH KUMAR PATEL,Noida,EPC-Materials Department,Senior Engineer,VIII,9.17,28.00
+3515,NATARAJAN,Noida,FGD-Proposal Eng. Department,Assistant Manager,VII,14.18,32.00
+3516,AMIT KUMAR,Noida,ESP-Contracta Department,Engineer-I,VIII,5.92,31.00
+3518,ASHWANI SENGAR,Site,CONS-Erection Department,Assistant Manager,VII,12.39,41.00
+3519,PIYUSH VINOD DIXIT,Noida,FGD-Contracts Department,Manager,IV,21.02,37.00
+3520,NAVEEN KUMAR R,Noida,IBD1-Proposal Engg Department,Engineer-I,VIII,6.24,27.00
+3521,GAURAV RAJ,Noida,FGD-Contracts Department,Engineer-I,VIII,5.90,31.00
+3523,PRADEEP AMULU,Noida,ESC- Structural,Assistant Design Controller,VII,11.22,39.00
+3524,SUBHASIS  MANNA,Site,EPC-Construction Department,Senior Engineer,VIII,7.42,29.00
+3525,BHUWAN CHANDRA JOSHI,Site,EPC-Construction Department,Manager,VI,18.76,52.00
+3526,V P SARAVANAN,Noida,ESC- Structural,Senior Manager,V,21.13,47.00
+3527,DARSHAN KUMAR ANAND,Noida,APCE-ESC- Mechanical,Engineer-I,VIII,8.24,28.00
+3528,PUNINDER SINGH,Site,CONS-Erection Department,Assistant Engineer,IX,7.91,32.00
+3530,ADARSH  PAL,Noida,System Department,Programmer-I,VIII,7.39,25.00
+3532,KUMARESAN  P,Chennai,EPC-ESC- Civil-Chennai,Design Associate I,IX,8.44,37.00
+3533,SWADESH GAURAV SINGH,Noida,Export Logistic Department,Assistant Manager,VII,13.86,37.00
+3534,MAHESHKUMAR M,Chennai,EPC-Proposal Engg  Department,Senior Engineer,VIII,8.54,30.00
+3535,YOMESH  KUMAR,Noida,Commercial Department,Officer-III,VIII,5.97,30.00
+3536,SEEMA,Noida,ESC- Mechanical,Design Associate II,IX,5.54,35.00
+3537,VELANGANNI S,Site,Quality Department,Engineer-I,VIII,6.45,28.00
+3539,AMIT KUMAR PANDEY,Noida,EPC-Contracts Department,Assistant Manager,VII,13.48,32.00
+3540,ANSHUMAN  TYAGI,Noida,EPC-Construction Department,Manager,V,19.07,40.00
+3541,RIPUDALAN  MOHANTY,Site,EPC-Construction Department,Manager,VI,19.40,39.00
+3542,MOHAMED IMDADULLAH MOHAMED NASRULLAH,Chennai,EPC-Proposal Engg  Department,Senior Engineer,VIII,8.89,30.00
+3543,RISHI  GUPTA,Noida,EPC-Contracts Department,Manager,VI,21.77,40.00
+3544,ARJUN A,Site,CONS-Erection Department,Senior Engineer,VIII,10.82,33.00
+3545,S ASHWINRAJ,Noida,GEBD-Proposal Engg Department,Engineer-I,VIII,4.91,23.00
+3548,BIPIN  SINGH,Noida,EPC-Contracts Department,Senior Engineer,VIII,9.89,34.00
+3549,M MUTHIAH,Site,CONS-Erection Department,Assistant Manager,VIII,15.32,38.00
+3550,ALUGU NAVEEN,Site,CONS-Erection Department,Assistant Manager,VII,12.23,36.00
+3551,SANDEEP  SHARMA,Noida,SMD-Contracts Department,Senior Officer,VIII,9.83,39.00
+3552,VIVEK KUMAR SHARMA,Noida,EPC-Contracts Department,Engineer-I,VIII,7.41,29.00
+3553,RAJENDRA SINGH,Noida,ESC- Mechanical,Design Associate I,IX,7.30,35.00
+3555,NITIN KUMAR,Site,CONS-Erection Department,Engineer-I,VIII,8.13,29.00
+3556,SUNEEL  PANDEY,Site,Quality Department,Assistant Engineer,IX,5.96,35.00
+3557,ASHOK KUMAR P,Noida,APCE-ESC- Mechanical,Assistant Manager,VII,14.04,32.00
+3558,GOUTAM  HOTA,Site,EPC-Construction Department,Deputy Manager,VII,15.24,39.00
+3559,G SUBASH CHANDRAN,Chennai,Boiler-ESC- Mechanical-Chennai,Engineer-I,VIII,4.73,28.00
+3560,TANAJI DNYANU SHINDE,Noida,EPC-Contracts Department,General Manager,IV,34.65,51.00
+3561,SANJEEVKUMAR  MANICKAM,Chennai,EPC-ESC- Piping-Chennai,Designer,VIII,7.24,29.00
+3562,AMIT KUMAR MISHRA,Site,Quality Department,Engineer-II,VIII,7.95,34.00
+3563,PRATIK  NARULA,Noida,EPC-Materials Department,Senior Engineer,VIII,8.80,33.00
+3564,BRAJ NANDAN SINGH,Noida,EPC-Contracts Department,Deputy General Manager,IV,29.95,47.00
+3565,GARIMA  SAXENA,Noida,EPC-Contracts Department,Engineer-I,VIII,7.99,29.00
+3566,SIVA MURUGAN,Noida,APCE-ESC- Mechanical,Design Associate IV,IX,3.08,21.00
+3567,PRABHU  THIRUVENGADAM,Site,Quality Department,Engineer-I,VIII,6.21,29.00
+3568,KRISHAN KUMAR JHA,Noida,GEBD-Proposal Engg Department,G.E.T,VIII,4.86,24.00
+3569,KARAN,Noida,EPC-Contracts Department,G.E.T,VIII,4.86,24.00
+3570,DEVANSHU GROVER,Noida,EPC-Contracts Department,G.E.T,VIII,4.86,24.00
+3571,NISHIKA  CHAURASIA,Noida,EPC-Contracts Department,G.E.T,VIII,4.86,23.00
+3572,PIYUSH  SINGHAL,Noida,EPC-Materials Department,G.E.T,VIII,4.86,23.00
+3573,PRATYUSH  PRIYADARSHI,Noida,EPC-Materials Department,G.E.T,VIII,4.86,22.00
+3574,TUSHAR KHURANA,Noida,ESC- Electrical,G.E.T,VIII,4.86,24.00
+3575,CHIRAG MITAAL,Noida,GEBD-Material Department,G.E.T,VIII,4.86,22.00
+3576,DEEPANSHU DAGA,Noida,ESC- Mechanical,G.E.T,VIII,4.86,24.00
+3577,VANITHA R,Chennai,EPC-ESC- Electrical-Chennai,G.E.T,VIII,4.86,22.00
+3578,NANDHINI  R,Chennai,EPC-ESC- Electrical-Chennai,G.E.T,VIII,4.86,23.00
+3579,KAUSHICK SYLVESTER JONES,Chennai,EPC-ESC- Mechanical-Chennai,G.E.T,VIII,4.86,22.00
+3580,ILANSERAN RAMADASS,Chennai,EPC-ESC- Mechanical-Chennai,G.E.T,VIII,4.86,22.00
+3581,SAHIL RAMAN,Noida,ESC- Structural,G.E.T,VIII,4.86,23.00
+3582,VIKAS RUHIL,Noida,IBD1-Contracts Department,G.E.T,VIII,4.86,24.00
+3583,JAYANT,Noida,EPC-Contracts Department,G.E.T,VIII,4.86,22.00
+3584,HIMANI KAUSHIK,Noida,GEBD-Proposal Engg Department,G.E.T,VIII,4.86,25.00
+3585,RUDRAKSH SHARMA,Noida,APCE-ESC- Mechanical,G.E.T,VIII,4.86,23.00
+3586,HITESH MULANI,Noida,GEBD-Material Department,G.E.T,VIII,4.86,23.00
+3587,RAJIV KUMAR,Noida,FGD-Marketing Department,G.E.T,VIII,4.86,24.00
+3588,RAJA GAUTAM,Noida,ESC- Piping,G.E.T,VIII,4.86,22.00
+3589,ASHUTOSH CHAUHAN,Noida,FGD-Proposal Eng. Department,G.E.T,VIII,4.86,22.00
+3590,VINAY MEHRA,Noida,FGD-Proposal Eng. Department,G.E.T,VIII,4.86,22.00
+3593,MD ASHRAF RAZI,Noida,GEBD-Contracts Department,G.E.T,VIII,4.86,24.00
+3594,NAVEEN  KUMAR,Site,EPC-Construction Department,D.E.T.,IX,2.59,21.00
+3595,DEEPAK,Site,EPC-Construction Department,D.E.T.,IX,2.59,22.00
+3596,VINEET  KUMAR,Site,EPC-Construction Department,D.E.T.,IX,2.59,21.00
+3597,SHIV  KUMAR,Site,EPC-Construction Department,D.E.T.,IX,2.59,20.00
+3598,RAHUL,Site,EPC-Construction Department,D.E.T.,IX,2.59,22.00
+3599,MAYUR BHARDWAJ,Noida,GEBD-Proposal Engg Department,Designer,VIII,7.13,33.00
+3600,M HARI,Chennai,EPC-ESC- Civil-Chennai,Designer,VIII,8.82,37.00
+3601,DUSHYANT  SHARMA,Site,EPC-Construction Department,D.E.T.,IX,2.59,21.00
+3602,MUNISH  KUMAR,Site,EPC-Construction Department,Engineer-II,VIII,9.29,28.00
+3603,PREMKUMAR KAMATCHI,Noida,ESC- Mechanical,Assistant Manager,VII,12.96,38.00
+3604,S IYAN BABU,Chennai,EPC-ESC- Piping-Chennai,Deputy Manager,VII,14.69,41.00
+3605,NIPUN  SHRIVASTAVA,Noida,EPC-Contracts Department,Engineer-I,VIII,5.72,26.00
+3607,JOY BANERJEE,Noida,ESC- Piping,Design Associate II,IX,5.81,30.00
+3608,BALAGOPALAN  NANDAKUMAR,Chennai,EPC-ESC- Piping-Chennai,Senior Engineer,VIII,8.82,33.00
+3609,SENTHILKUMAR MOTTAIYANDI,Chennai,Boiler-ESC- Mechanical-Chennai,Design Associate I,IX,7.20,39.00
+0162,MS.GRACY THOMAS,Noida,SMD-Contracts Department,Officer-III,IX,9.48,59.00
+3611,PRAKASH SHANKAR BORATE,Noida,ESC- Mechanical,Design Associate II,IX,7.30,39.00
+3612,MEENAKSHI,Noida,ESC- Electrical,Engineer-I,VIII,4.16,29.00
+3613,DUPPALA PRASADA RAO,Site,EPC-Construction Department,Assistant Manager,VII,11.74,33.00
+3616,INDAL  SINGH,Site,EPC-Construction Department,Senior Engineer,VIII,9.53,30.00
+3617,SUSIL KUMAR SAHOO,Site,Safety Department,Engineer-II,VIII,6.07,30.00
+3618,SATISH GINDE,Pune,APCE-ESC- Mechanical,Design Associate II,IX,5.40,34.00
+3619,HARENDRA GIRI,Site,FGD-Construction Department,Senior Engineer,VIII,14.44,48.00
+3620,SHAILESH NATH TRIPATHI,Site,EPC-Construction Department,Senior Manager,V,17.42,49.00
+3621,ANITA  CHADHA,Noida,EPC-Contracts Department,Officer-III,VIII,8.82,42.00
+3622,SANJEEV  KUMAR,Site,EPC-Construction Department,Deputy Manager,VII,14.90,36.00
+3623,SHUBHAM JASUJA,Noida,GEBD-Material Department,Engineer-I,VIII,6.48,27.00
+3625,PRAVEENKUMAR  KATHIRKAMAVEL,Chennai,EPC-ESC- Civil-Chennai,Senior Engineer,VIII,8.80,34.00
+3626,YENUGULA SAI TEJ KUMAR,Site,Safety Department,Engineer-I,VIII,5.40,28.00
+3627,KRISHNAKANT SHIVAJIRAO JADHAV,Site,EPC-Construction Department,Deputy Manager,VII,12.78,38.00
+3628,AMIT  KUMAR,Site,Safety Department,Engineer-II,VIII,8.82,37.00
+3629,PRASANNA KUMAR PATAMBER,Site,EPC-Construction Department,Senior Manager,V,24.19,48.00
+3630,KHWAIRAKPAM SHYAM SINGH,Site,EPC-Construction Department,Assistant General Manager,V,22.91,42.00
+3631,ARUNKUMAR  AR,Chennai,EPC-ESC- Mechanical-Chennai,Assistant Manager,VII,11.65,32.00
+3632,ANKIT  SAXENA,Noida,EPC-Materials Department,Engineer-II,VIII,6.66,31.00
+3633,KISHOR KUMAR GUPTA,Noida,ESC- Piping,Design Associate II,IX,5.62,28.00
+3634,SACHIN,Noida,ESC- Piping,Design Associate IV,IX,1.98,23.00
+3635,AMAN SINGH,Noida,ESC- Piping,Design Associate IV,IX,1.98,23.00
+3636,SHOEB AKHTAR,Noida,ESC- Piping,Design Associate IV,IX,1.98,22.00
+3637,SUJEET  KUMAR,Noida,EPC-Construction Department,Assistant Manager,VII,15.18,30.00
+3638,JOSEPH BESCHI ARUL PRAKASAM,Noida,GEBD-Proposal Engg Department,Senior Manager,V,20.64,41.00
+3640,CHETANBHAI SUMANBHAI PATEL,Site,EPC-Construction Department,Senior Engineer,VIII,8.00,33.00
+3641,RAKESH KUMAR DASH,Site,EPC-Construction Department,Deputy Manager,VII,15.32,38.00
+3642,SHATRUGHAN  JHA,Noida,Export Logistic Department,Officer-I,VIII,9.49,37.00
+3643,M RAMESH  KUMAR,Chennai,EPC-ESC- Piping-Chennai,Deputy Manager,VII,15.34,36.00
+3644,NIRANJAN PRADHAN,Site,Quality Department,Engineer-II,VIII,7.65,43.00
+0239,MOHINDER PAL SINGH,Noida,Accounts Department-IJT,Officer-II,VIII,9.37,57.00
+3646,K SUTHAKAR,Site,CONS-Erection Department,Manager,VI,15.28,42.00
+3647,RATNESH  GUPTA,Noida,EPC-Contracts Department,Deputy Manager,VII,19.07,37.00
+3648,K PRAKASH,Noida,APCE-ESC- Mechanical,Deputy Design Controller,VII,16.06,43.00
+3650,PATEL BHARAT JAYARAMBHAI,Site,EPC-Construction Department,Senior Manager,V,17.73,42.00
+5044,VIBHORA NAND SHARMA,Noida,Import Department,Officer-II,VIII,9.25,56.00
+3652,UMAKANT KHATARKAR,Site,CONS-Erection Department,Assistant Manager,VII,11.40,34.00
+3653,SRI RAM R,Noida,ESC- Mechanical,Design Associate I,VIII,7.96,31.00
+3654,S ARUNKUMAR,Noida,GEBD-Proposal Engg Department,Design Associate I,IX,7.94,31.00
+3655,AJAY  GOVIL,Noida,EPC-Contracts Department,Senior Manager,V,22.93,50.00
+3656,PARDEEP KUMAR,Noida,ESC- Mechanical,Design Associate I,IX,7.94,35.00
+3657,YUGANDHARARAO  GORIPARTHI,Site,Safety Department,Engineer-II,VIII,5.94,40.00
+3658,SATYANARAYANA J,Chennai,EPC-Proposal Engg  Department,Deputy General Manager,IV,31.63,41.00
+3659,P THANGARAJ,Chennai,Boiler-ESC- Mechanical-Chennai,Design Associate I,IX,9.80,37.00
+3660,AMIT SHARMA,Noida,Boiler Supply Chain Management,Engineer-I,VIII,5.13,25.00
+3661,MUKESH KUMAR KAMAT,Noida,ESC- Piping,Design Associate IV,IX,1.98,21.00
+3662,BHUMESH,Noida,ESC- Mechanical,Design Associate II,IX,6.92,31.00
+3663,DINESH SINGH KOTIYAL,Noida,ESC- Mechanical,Design Associate I,IX,7.56,38.00
+3664,JAMEEL  BASHA,Chennai,EPC-ESC- Civil-Chennai,Design Associate II,IX,5.31,33.00
+3665,JINESH SAINI,Noida,ESC- C&I,Senior Engineer,VIII,8.01,30.00
+3666,PRAVEEN KUMAR PRABHAKAR,Noida,EPC Commissioning,Manager,VI,18.00,38.00
+3667,MUKUL DHIRENDRA PANDEY,Noida,IBD1-Contracts Department,Senior Manager,V,21.35,43.00
+3668,ANURAG SHUKLA,Noida,ESC- Mechanical,Design Associate II,IX,5.44,37.00
+3669,PRAMOD KUMAR BHASKAR,Noida,CONS-Erection Department,Assistant Manager,VII,14.84,49.00
+3670,SAMIM HASAN MONDAL,Noida,ESC- Piping,Assistant Manager,VII,11.64,35.00
+3671,MURUGAN P,Chennai,EPC-Proposal Engg  Department,Deputy Manager,VII,13.19,38.00
+3672,SATYAKI  BHATTA,Noida,EPC-Construction Department,Junior Officer,IX,5.80,39.00
+3673,M SRINIVASAN,Noida,CONS-Erection Department,Assistant Manager,VII,14.56,36.00
+3674,PONRAJA,Chennai,EPC-Proposal Engg  Department,Assistant Manager,VII,11.99,38.00
+3675,KAPIL KUMAR,Noida,ESC- C&I,Senior Engineer,VIII,9.54,29.00
+3676,VED PRAKASH,Noida,ESC- Mechanical,Design Associate I,IX,6.22,31.00
+3677,INDRANIL CHAKRABORTY,Noida,ESC- Piping,Assistant Manager,VII,12.71,37.00
+3678,GAURAV  KULSHRESHTHA,Noida,EPC-Materials Department,Senior Engineer,VIII,10.33,33.00
+3679,LALIT  KASTURIA,Noida,EPC-Materials Department,Assistant Manager,VII,12.33,34.00
+3680,PUSHPENDRA  SINGH,Site,Quality Department,Senior Engineer,VIII,9.54,37.00
+3681,RAKESH,Noida,ESC- Mechanical,Design Associate I,IX,6.22,33.00
+3682,SATYA NARAYAN BEHERA,Site,CONS-Erection Department,Engineer-I,VIII,7.97,32.00
+3683,NITESH AGGARWAL,Noida,GEBD-Commercial Department,Officer-III,VIII,6.79,40.00
+3684,ANUSHA K,Chennai,EPC-ESC- Civil-Chennai,Senior Engineer,VIII,11.16,35.00
+3685,NIVASH KANNAN K,Chennai,EPC-Proposal Engg  Department,Assistant Manager,VII,13.79,35.00
+3686,PREM KUMAR,Noida,ESP-Marketing Department,Design Associate IV,IX,3.45,25.00
+3688,RAM DHAN,Noida,Accounts Department-IJT,Executive I,VII,13.10,52.00
+3690,CHENNA NAGESH,Noida,ESP-Share of Common Expenses,Senior Engineer,VIII,9.00,31.00
+0228,RAVINDER SINGH,Noida,MD Office,Officer-II,VIII,9.24,53.00
+3692,OM PRAKASH SAHU,Site,Quality Department,Senior Engineer,VIII,11.05,35.00
+3693,PULI SURYANARAYANA REDDY,Site,EPC-Construction Department,Assistant General Manager,V,25.06,50.00
+3694,SANJOY CHOWDHURY,Noida,ESC- Project Engineering Management,Deputy Manager,VII,16.42,39.00
+3695,RAVI KUMAR SINGH,Site,CONS-Erection Department,Assistant Manager,VII,11.90,33.00
+3696,KULDEEP TYAGI,Site,Boiler-Operation & Maintenance,Senior Engineer,VIII,9.28,33.00
+3697,AKASH SINHA,Noida,GEBD-Material Department,Engineer-I,VIII,6.42,28.00
+3698,SANTHOSH R,Noida,ESP-Share of Common Expenses,Engineer-II,VIII,7.02,33.00
+3699,RAMASHISH SINGH,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,5.04,28.00
+3700,AJAY KUMAR SHARMA,Noida,EPC-Construction Department,Manager,VI,16.45,45.00
+3701,SARAVANAN C,Noida,ESC- Mechanical,Senior Engineer,VIII,11.52,40.00
+3702,VENGATESH M,Chennai,EPC-Proposal Engg  Department,Assistant Manager,VII,13.07,33.00
+3703,DILIP KUMAR,Noida,APCE-ESC- Mechanical,Design Associate II,IX,5.44,32.00
+3704,RAHUL BASAPPA HUKKERI,Noida,ESC- Mechanical,Engineer-I,VIII,6.44,28.00
+3705,SARTHAK  SINGARI,Noida,EPC-Contracts Department,Assistant Manager,VII,12.49,33.00
+3706,NITISH KUMAR PANDA,Site,Quality Department,Engineer-I,VIII,7.95,33.00
+3707,SK RIAZUDDIN,Noida,ESC- Piping,Deputy Manager,VII,18.92,40.00
+3708,R CHANDRASEKAR,Noida,SMD-After Sales,Senior Manager,V,21.96,45.00
+3709,AQUIB AKHTAR KHAN,Noida,EPC-Contracts Department,Deputy Manager,VII,17.98,41.00
+3710,SHAIK MAHAMMAD SAJJIDALI,Site,Quality Department,Engineer-I,VIII,7.45,29.00
+3711,K AJAY KUMAR REDDY,Noida,ESP-Share of Common Expenses,Senior Engineer,VIII,9.00,32.00
+3712,PARVEEN TYAGI,Noida,APCE-ESC- Mechanical,Design Associate I,IX,7.56,31.00
+3713,RANDHIR KUMAR TIWARI,Site,Boiler-Operation & Maintenance,Engineer-I,VIII,8.33,32.00
+3714,MEENU RATHOR,Noida,APCE-ESC- Mechanical,Design Associate IV,IX,4.54,29.00
+3715,ANUPAM KUMAR,Site,Boiler-Operation & Maintenance,Senior Engineer,VIII,8.42,32.00
+3716,SHABEERUDEEN  B,Chennai,EPC-ESC- Piping-Chennai,Designer,VIII,8.68,38.00
+3717,PAWAN KUMAR SHARMA,Noida,Accounts Department-IJT,Assistant Manager,VII,17.46,48.00
+3718,ANKITA  GUPTA,Noida,SMD-Construction Department,G.E.T,VIII,4.86,23.00
+3719,ROHIT  YADAV,Noida,SMD-Construction Department,G.E.T,VIII,4.86,24.00
+3720,AISHVENDRA  ADITYA,Noida,SMD-Construction Department,G.E.T,VIII,4.86,25.00
+3721,GIRIDHAR MG,Noida,ESP-Share of Common Expenses,Senior Engineer,VIII,10.33,34.00
+3722,AVINASH KUMAR THAKUR,Noida,EPC-Materials Department,Manager,VI,20.38,43.00
+3723,NILESH  SINHA,Noida,EPC-Construction Department,Senior Engineer,VIII,7.34,28.00
+3724,JAY  SHUKLA,Noida,Export Marketing Department,Senior Engineer,VIII,8.73,29.00
+3725,CHANDAN PRAMANICK,Noida,ESC- Piping,Deputy Manager,VII,16.06,37.00
+3726,KAMAL SINGH RAJAWAT,Noida,ESP-Share of Common Expenses,Senior Engineer,VIII,11.77,35.00
+3727,LALATA KUMAR SWAIN,Site,Safety Department,Engineer-I,VIII,9.74,38.00
+3728,DEEPAK KUMAR SINGH,Site,Safety Department,Engineer-II,VIII,10.08,42.00
+3729,INDRAJEET  CHAMBALIYA,Site,EPC-Construction Department,Manager,VI,20.84,47.00
+3730,MURALIDHARAN  S,Site,Quality Department,Senior Engineer,VIII,9.34,32.00
+3731,SUMANJEET  KUMAR,Noida,Inland Logistic Department,Assistant General Manager,V,28.40,46.00
+3732,PRAVEEN KUMAR M,Site,Boiler-Operation & Maintenance,Senior Engineer,VIII,7.56,33.00
+3733,GOURANGA  MAITI,Site,EPC-Construction Department,Assistant Manager,VII,10.03,44.00
+3734,MURTHY,Site,CONS-Erection Department,Assistant Manager,VII,13.88,39.00
+3735,DEBAPRIYO BHADURI,Noida,FGD-Proposal Eng. Department,Deputy Manager,VII,16.06,38.00
+3736,RAHUL MADHUR,Noida,GEBD-Contracts Department,Engineer-I,VIII,7.51,27.00
+3737,AMIT KUMAR PANDEY,Noida,ESP-Contracta Department,Senior Engineer,VIII,10.33,36.00
+3738,HARI PRASAD M,Noida,APCE-ESC- Mechanical,Design Associate II,IX,8.48,32.00
+3739,SHRIKANT ANADINNI,Site,Boiler-Operation & Maintenance,Assistant Manager,VII,12.42,40.00
+3740,VIVEK KUMAR UPADHAYAY,Site,Quality Department,Engineer-I,VIII,7.95,30.00
+3741,SUBRAMANIAN CHELLAPPA,Chennai,EPC-ESC- Electrical-Chennai,Assistant Manager,VII,12.06,34.00
+3742,ABHISHEK BANSAL,Noida,ESP-Contracta Department,Senior Manager,VII,23.00,40.00
+3743,ARUN  GANESAN,Chennai,EPC-ESC- Electrical-Chennai,Design Associate IV,IX,3.64,22.00
+3744,PRABU S,Site,CONS-Erection Department,Engineer-II,VIII,5.42,33.00
+3745,ANANTHA SUNDER RAJAN A,Noida,ESC- Project Engineering Management,Senior Engineer,VIII,13.28,30.00
+3746,RAMESHWAR KUMAR YADAV,Noida,FGD-Contracts Department,Senior Engineer,VIII,7.74,33.00
+3747,SAMEER SHARMA,Noida,IBD1-Contracts Department,Assistant Manager,VII,11.79,35.00
+0200,MOLLY LEON,Noida,Commercial Department,Officer-III,IX,9.11,56.00
+3338,GURVINDER PAL SINGH,Noida,EPC-Marketing Department,Associate Vice President,IIIB,32.39,47.00
+5071,RAM AYODHYA RAI,Noida,MD Office,Officer-II,VIII,8.53,59.00
+5021,RAM SHARMA,Noida,HR Department-IJT,General Manager,IV,34.89,52.00
+5060,KURIAN P.MATHEW,Noida,Accounts Department-IJT,Officer-II,VIII,8.24,56.00
+5045,SANJEEV PRABHAKAR,Noida,Corporate Communication,Officer-I,VIII,11.54,52.00
+0225,K.S.DANGWAL,Noida,ESC- Mechanical,Assistant Officer,IX,8.23,59.00
+5051,MANVINDER KAUR,Noida,Commercial Department,Assistant Officer,IX,8.11,60.00
+5063,AMIT KUMAR,Noida,General Secretary's Office,Workers,XII,1.53,47.00
+1475,AJAY KUMAR GIRDHAR,Noida,Inland Logistic Department,Assistant Engineer,IX,7.41,53.00
+3474,KIRAN SHARADCHANDRA KAMBLE,Pune,APCE-ESC- Mechanical,Designer,VIII,6.32,56.00
+0224,RAMPAT RAI,Noida,Adminstration Dept-24,Junior Officer,X,5.36,55.00
+5099,SANJAY KUMAR,Noida,Accounts Department-HO,General Manager,IV,31.09,51.00
+5103,KAMAL SHISHODIA,Noida,Internal Audit Dept,Senior Officer,VIII,11.86,43.00
+5104,RAJESH KUMAR SHARMA,Noida,Internal Audit Dept,Executive I,VII,13.77,52.00
+5105,ANUJ KUSHWAHA,Noida,GEBD-Material Department,Officer-I,VIII,11.12,44.00
+5139,RAJESH JAIN,Noida,Accounts Department-IJT,Officer-III,IX,8.24,35.00
+5001,S.K.KHORANA,Noida,General Secretary's Office,Executive Director,I,114.31,74.00
+5142,DINESH GUPTA,Noida,SMD-Contracts Department,Associate Vice President,IV,37.70,45.00
+5145,MOHIT VISHNOI,Noida,Corporate Communication,Manager,VI,18.22,44.00
+5089,LILA DHAR JOSHI,Noida,MD Office,Workers,XII,1.58,60.00
+5148,DINESH KUMAR,Noida,General Secretary's Office,Manager,VI,20.42,41.00
+0234,CHANDESHWAR PANDIT,Noida,IBD1-Contracts Department,Workers,XII,1.56,60.00
+5169,ESPA MONAJ KUMAR,Noida,Accounts Department-IJT,Officer-III,IX,8.11,39.00
+5170,DHARMENDRA SINGH  RAWAT,Noida,Accounts Department-IJT,Officer-III,IX,8.51,42.00
+5172,KARAN SINGH,Noida,Import Department,Senior Officer,VIII,12.54,50.00
+0233,SUNDER LAL,Noida,IBD1-Marketing Department,Workers,XII,1.45,57.00
+5176,SHYAM SUNDER JHA,Noida,Accounts Department-HO,Senior Officer,VIII,12.86,34.00
+5185,RAJEEV NEGI,Noida,Finance Department,Assistant General Manager,V,25.96,48.00
+5191,SUBIR KUMAR DEY,Noida,Import Department,Assistant Officer,IX,6.55,34.00
+5192,VINEET KUMAR SAXENA,Noida,Corporate Communication,Executive I,VIII,13.93,41.00
+5173,PRAVEEN SONEJA,Noida,Planning/Diversification-HO,Head,II,95.22,61.00
+5207,PALLAV GOGOI,Noida,Corporate Communication,Senior Officer,VIII,11.18,37.00
+5208,ABHAY  KUMAR PODDAR,Noida,Accounts Department-IJT,Deputy Manager,VII,17.69,41.00
+5215,PRAKASH CHANDRA NATH,Noida,EPC-Construction Department,Assistant Officer,IX,7.55,24.00
+5216,GARIMA BERA,Noida,Accounts Department-IJT,Assistant Officer,IX,7.28,38.00
+5217,SANTOSH P. K. NAIR,Noida,Accounts Department-IJT,Assistant Manager,VII,15.26,46.00
+5219,HARSH KUMAR,Noida,Accounts Department-IJT,Assistant Manager,VII,14.02,32.00
+5220,RAJIV AJMANI,Noida,Accounts Department-IJT,Deputy General Manager,IV,32.85,52.00
+5221,VARUN SHARMA,Noida,Accounts Department-HO,Officer-III,VIII,8.96,38.00
+5223,PAVAN KUMAR,Noida,Internal Audit Dept,Junior Officer,IX,6.68,31.00
+5224,KRISHAN DUTT KAUSHIK,Noida,Import Department,Officer-III,VIII,7.49,36.00
+5226,PRADEEP  PRADHAN,Noida,Internal Audit Dept,Junior Officer,IX,6.14,29.00
+5227,ISHA  DHUPAR,Noida,H R Department-HO,Officer-II,VIII,4.57,25.00
+5230,NUPUR BAGCHI GALHOTRA,Noida,Accounts Department-HO,Assistant General Manager,IV,30.02,42.00
+2832,SUMIT VERMA,Noida,ESC- Piping,Engineer-II,II,8.60,38.00
+5234,NITESH KUMAR MISHRA,Noida,Import Department,Officer-II,VIII,10.10,35.00
+9883,K N R PILLAI,Noida,MD Office,Contractual,VIII,14.22,120.00
+10043,DANIEL M CHANDEKAR,Noida,SMD-Marketing Department,Contractual,V,21.60,120.00
+10099,A N VERMA,Noida,SMD-Proposal Engg Department,General Manager,IV,61.20,120.00

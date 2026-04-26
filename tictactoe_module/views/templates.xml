@@ -1,0 +1,37 @@
+<odoo>
+    <data>
+	    <template id="website">
+        <title>TIC TAC TOE</title>
+  <table style="margin: auto;width:200px; border-collapse:collapse;">
+  <tr>
+    <t t-foreach="board_row1" t-as="board_row">
+    <td style="width:100px; height:50px; border:1px solid black; text-align:center;">  <t t-raw="'&lt;a href=&quot;?input='+str(board_row)+'&quot;&gt;'+str(board_row)+'&lt;/a&gt;'" /></td>
+    </t>
+  </tr>
+  <tr>
+    <t t-foreach="board_row2" t-as="board_row">
+    <td style="width:100px; height:50px; border:1px solid black; text-align:center;">  <t t-raw="'&lt;a href=&quot;?input='+str(board_row)+'&quot;&gt;'+str(board_row)+'&lt;/a&gt;'" /></td>
+    </t>
+  </tr>
+  <tr>
+    <t t-foreach="board_row3" t-as="board_row">
+    <td style="width:100px; height:50px; border:1px solid black; text-align:center;">  <t t-raw="'&lt;a href=&quot;?input='+str(board_row)+'&quot;&gt;'+str(board_row)+'&lt;/a&gt;'" /></td>
+    </t>
+  </tr>
+</table>
+  <div style="text-align: center;">
+<t t-raw="'&lt;a href=&quot;?input=100&quot;&gt;Let Computer Play&lt;/a&gt;'" />  </div>
+  <div style="text-align: center;">
+<t t-raw="'&lt;a href=&quot;?input=0&quot;&gt;Reset Game&lt;/a&gt;'" />  </div>
+  <div style="text-align: center;">
+<t t-raw="'&lt;a href=&quot;?input=-500&quot;&gt;Learn to Play&lt;/a&gt;'" />  </div>
+  
+
+  <div style="text-align: center;">
+    <t t-foreach="board_message" t-as="message">
+     <t t-esc="message"/> 
+    </t>
+  </div>
+    </template>
+    </data>
+</odoo>
